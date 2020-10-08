@@ -7,16 +7,11 @@
 }
 </style>
 
-# [MD]unmeris
-
-###### A handy RPG translation guide with markdown project that incorporates embedded fonts.
-
 ---
 
-|![Tribunal](../MDunmeris/assets/images/fresco-256.png)|
+|"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
 |---|
-
-###### "ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]
+|![Tribunal](../MDunmeris/assets/images/fresco-256.png?raw=true "Tribunal")|
 
 Markdown is a very easy language to write documents in. It's also possible to call custom fonts in Markdown using in-line HTML. By incorporating one of the available spoken dialects, it is very easy to quickly produce documents in Dunmeris (<span style="font-family:Daedric">dunmeris</span>), the language of the people of Morrowind. 
 
@@ -141,10 +136,9 @@ In addition, it helps to more clearly distinguish this form of Dunmeris from Hra
 
 The central religious symbol of the Tribunal Faith is the Ghartok Triolith, represented as an inverse triangle with Daedric glyphs in each corner, spelling *ASV*. However, it can also be common to see the [Imperial Triolith](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the Seal of Akatosh instead of the Hand of Mephala at it's center.
 
-|![Tribunal](./assets/images/triolith-256.png)|
+|Ghartok Triolith (Clearly, I am no graphic designer.)|
 |---|
-
-###### Ghartok Triolith (Clearly, I am no graphic designer.)
+|![Triolith](./assets/images/triolith-256.png?raw=true "Triolith")|
 
 The word "ALMSIVI" is a *portmanteau* of the three individual names of the Godhead. However, the letters themselves are merely a roman rendering of the phonetic pronounciation of the daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>.
 
