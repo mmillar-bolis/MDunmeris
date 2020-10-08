@@ -11,7 +11,7 @@
 
 |"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
 |---|
-|![Tribunal](../MDunmeris/assets/images/fresco-256.png?raw=true "Tribunal")|
+|![Tribunal](assets/images/fresco-256.png?raw=true "Tribunal")|
 
 Markdown is a very easy language to write documents in. It's also possible to call custom fonts in Markdown using in-line HTML. By incorporating one of the available spoken dialects, it is very easy to quickly produce documents in Dunmeris (<span style="font-family:Daedric">dunmeris</span>), the language of the people of Morrowind. 
 
@@ -19,6 +19,9 @@ Markdown is a very easy language to write documents in. It's also possible to ca
 |---|---|---|
 |Cahn'shoksunaa sera|Kosi enhi julopum|Ju'it khosi ku'elm ohn duhnanich?
 |<span style="font-family:Daedric">cahn’shoksunaa sera</span>|<span style="font-family:Daedric">kosi enhi julopum</span>|<span style="font-family:Daedric">ju'it khosi ku'elm ohn duhnanich</span>
+
+- [Example 2](Novena_for_the_Hortator.md)
+- [Example 3](Old_Pilgrims_Oath.md)
 
 ## The Gist of It:
 - Markdown
@@ -138,7 +141,7 @@ The central religious symbol of the Tribunal Faith is the Ghartok Triolith, repr
 
 |Ghartok Triolith (Clearly, I am no graphic designer.)|
 |---|
-|![Triolith](./assets/images/triolith-256.png?raw=true "Triolith")|
+|![Triolith](assets/images/triolith-256.png?raw=true "Triolith")|
 
 The word "ALMSIVI" is a *portmanteau* of the three individual names of the Godhead. However, the letters themselves are merely a roman rendering of the phonetic pronounciation of the daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>.
 
@@ -164,6 +167,14 @@ Based on the textual examples that I have seen, it would appear that red is the 
 For a better understanding of the symbolic thought influencing this mysterious three letter word, see the [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton) as well as the article on Ehlnofex. Also have a look at [Earthsea](https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea) and it's use of *Rumpelstiltskin theory* or the idea that true words may have power. There seems to be  similar theme in many Tamrielic religions.
 
 The Tribunal Faith and it's influence on Dunmer culture cannot be understated. To learn more about it, have a look at [The New Whirling School](https://www.newwhirlingschool.com/intro.php) which features a great introduction, [exploratory essays](https://www.newwhirlingschool.com/intro.php#essays), and the first commentary on a central scripture, [*The Lessons*](https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec) (<span style="font-family:Daedric">as shoreshiik</span>, *As Shoreshiik*, more commonly known to as *The 36 Lessons of Vivec*).
+
+## Publishing Your Work
+
+TODO: Demonstrate
+
+- export to pdf
+- pandoc
+- github
 
 ---
 
