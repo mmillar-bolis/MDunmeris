@@ -1,7 +1,7 @@
 <style>
 @font-face {
     font-family: Daedric;
-    src: url('../MDunmeris/assets/fonts/ttf/Daedric.ttf') format('truetype');
+    src: url('./assets/fonts/ttf/Daedric.ttf') format('truetype');
     font-weight: medium;
     font-style: normal;
 }
