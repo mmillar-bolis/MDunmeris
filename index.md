@@ -1,19 +1,14 @@
 
 ---
 
-|"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
-|---|
-|![Tribunal](assets/images/fresco-256.png?raw=true "Tribunal")|
-
 Markdown is a very easy language to write documents in. It's also possible to call custom fonts in Markdown using in-line HTML. By incorporating one of the available spoken dialects, it is very easy to quickly produce documents in Dunmeris (<span style="font-family:Daedric">dunmeris</span>), the language of the people of Morrowind. 
 
 |Three blessings, sera|Walk with virtue|Why walk when you can ride?|
-|---|---|---|
+|:-:|:-:|:-:|
 |Cahn'shoksunaa sera|Kosi enhi julopum|Ju'it khosi ku'elm ohn duhnanich?
 |<span style="font-family:Daedric">cahn’shoksunaa sera</span>|<span style="font-family:Daedric">kosi enhi julopum</span>|<span style="font-family:Daedric">ju'it khosi ku'elm ohn duhnanich</span>
 
-- [Example 2](Novena_for_the_Hortator.md)
-- [Example 3](Old_Pilgrims_Oath.md)
+- [Example](Old_Pilgrims_Oath.md)
 
 ## The Gist of It:
 - Markdown
@@ -107,7 +102,7 @@ The language dialect I have chosen for most of my translations is the continuall
 There is a lot of activity surrounding this dialect and it seems very well developed. When translating cultural adages of Morrowind, Casual Dunmeris rolls with off the tongue rather well.
 
 |Learn by serving|
-|---|
+|:-:|
 |Viya ru yilakam|
 |<span style="font-family:Daedric">viya ru yilakam</span>|
 
@@ -127,20 +122,20 @@ In addition, it helps to more clearly distinguish this form of Dunmeris from Hra
 
 ---
 
+|Ghartok Triolith|
+|:-:|
+|![Triolith](assets/images/triolith-256.png?raw=true "Triolith")|
+
 ## About the Trigrammaton
 
 The central religious symbol of the Tribunal Faith is the Ghartok Triolith, represented as an inverse triangle with Daedric glyphs in each corner, spelling *ASV*. However, it can also be common to see the [Imperial Triolith](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the Seal of Akatosh instead of the Hand of Mephala at it's center.
-
-|Ghartok Triolith (Clearly, I am no graphic designer.)|
-|---|
-|![Triolith](assets/images/triolith-256.png?raw=true "Triolith")|
 
 The word "ALMSIVI" is a *portmanteau* of the three individual names of the Godhead. However, the letters themselves are merely a roman rendering of the phonetic pronounciation of the daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>.
 
 The word itself, literally unprnouncable by Dunmer, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The *portmanteau* form is simply the closest one can come to pronouncing a word in a divine language.
 
 |ALMSIVI in every hour|
-|---|
+|:-:|
 |ASV gher alni telsan|
 |<span style="font-family:Daedric; color:red">ASV</Span><span style="font-family:Daedric"> gher alni telsan</span>|
 
@@ -160,6 +155,10 @@ For a better understanding of the symbolic thought influencing this mysterious t
 
 The Tribunal Faith and it's influence on Dunmer culture cannot be understated. To learn more about it, have a look at [The New Whirling School](https://www.newwhirlingschool.com/intro.php) which features a great introduction, [exploratory essays](https://www.newwhirlingschool.com/intro.php#essays), and the first commentary on a central scripture, [*The Lessons*](https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec) (<span style="font-family:Daedric">as shoreshiik</span>, *As Shoreshiik*, more commonly known to as *The 36 Lessons of Vivec*).
 
+|"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
+|:-:|
+|![Tribunal](assets/images/fresco-256.png?raw=true "Tribunal")|
+
 ## Publishing Your Work
 
 TODO: Demonstrate
@@ -171,7 +170,7 @@ TODO: Demonstrate
 ---
 
 |The ending of the words is ALMSIVI|
-|---|
+|:-:|
 |As dimihn am as edur ASV|
 |<span style="font-family:Daedric">as dimihn am as edur </span><span style="font-family:Daedric; color:red">ASV</Span>|
 
