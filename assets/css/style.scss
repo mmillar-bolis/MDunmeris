@@ -2,18 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-
-pre, code {
-  color: #fff;
-  background-color: #222;
-
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  font-size: 0.875em;
-
-  border-radius: 2px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-}
+@import "rouge-base16-dark.scss";
 
 #header_wrap {
     background: url(../images/header.png) no-repeat 0% 90%;
