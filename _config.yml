@@ -2,5 +2,5 @@ theme: jekyll-theme-slate
 baseurl: '/MDunmeris/' # the subpath of your site, e.g. /blog
 url: 'https://mmillar-bolis.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 title: '[MD]unmeris'
-description: 'A Handy Translation Starter-Guide and Markdown Project'
+description: 'A Translation Starter-Guide and Markdown Project for Morrowind'
 show_downloads: false
