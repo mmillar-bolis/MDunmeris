@@ -100,7 +100,11 @@ pre, code {
 }
 
 #header_wrap {
-    background: url(../images/header-768.png) no-repeat center;
+    background: url(../images/header-768.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 @font-face {
