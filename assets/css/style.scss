@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@import "rouge-base16-dark.scss";
+@import "rouge-base16-dark";
 
 #header_wrap {
     background: url(../images/header.png) no-repeat 0% 90%;
