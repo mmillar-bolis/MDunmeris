@@ -106,7 +106,7 @@ There is a lot of activity surrounding this dialect and it seems very well devel
 |Viya ru yilakam|
 |<span style="font-family:Daedric">viya ru yilakam</span>|
 
-I tend to refer to it as *Tretke* dialect (Slovak for "trinket") to pay tribute to the username of the forum's founder and original publisher of the language, [Matthew Knight](https://casualscrolls.fandom.com/wiki/User:Mknightretke).
+I like to refer to it as *Tretke* dialect (Slovak for "trinket") to pay tribute to the username of the forum's founder and original publisher of the language, [Matthew Knight](https://casualscrolls.fandom.com/wiki/User:Mknightretke).
 
 It is unclear (to me at least) who specifically originally collaborated on the language, but it appears that around 2011, a framework was designed for the members of the [original party](https://casualscrolls.fandom.com/wiki/Casual_Elder_Scrolls_Wiki#Characters) of a [PbP](https://en.wikipedia.org/wiki/Play-by-post_role-playing_game) Elder Scrolls campaign that was being recorded on the Casual Scrolls wiki.
 
@@ -114,7 +114,7 @@ The wiki itself is still being updated, revised, and expanded to suit the contin
 
 As the wiki has recommended, I have taken some liberties here and there to deliberately construct a simpler sentences in Dunmeris. As the culture is *very* high-context, it seems proper that much of the language information is implicit.
 
-Since Tretke is still new and developing, I have taken to inventing words as the need arises, based on already available nouns and verbs.
+Since Casual Dunmeris is still new and developing, I have taken to inventing words as the need arises, based on already available nouns and verbs that I smash together.
 
 I am *not* a language expert and am very much learning as I go, so feel free to let me know where sentences or phrases could stand to be modified.
 
@@ -161,11 +161,12 @@ The Tribunal Faith and it's influence on Dunmer culture cannot be understated. T
 
 ## Publishing Your Work
 
-TODO: Demonstrate
+TODO:
 
-- export to pdf
-- pandoc
-- github
+- add document sub-pages to io
+- how-to on common ways to export to pdf
+- structure project for pandoc
+- translate more notes and books
 
 ---
 
