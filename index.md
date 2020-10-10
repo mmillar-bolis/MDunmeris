@@ -179,7 +179,7 @@ TODO:
 ---
 
 <center>
-<span style="font-family:Daedric">as dimihn am as edur </span><span style="font-family:Daedric; color:red">ASV</Span>
+<span style="font-family:Daedric">as dimihn am as edur <span style="color:red">ASV</span></span>
 </center>
 
 ---

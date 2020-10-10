@@ -51,8 +51,8 @@
 
 ## <span style="font-family:Daedric">ald gahduhnavenshik</Span>
 \
-    <span style="font-family:Daedric">os nulfid </Span><span style="font-family:Daedric; color:red">ASV</Span><span style="font-family:Daedric"> panthihn indkhes</Span>\
-        <span style="font-family:Daedric; color:red">Almalexia Sotha’sil</Span><span style="font-family:Daedric"> en </Span><span style="font-family:Daedric; color:red">Vicec</Span>\
+    <span style="font-family:Daedric">os nulfid <span style="color:red">ASV</Span> panthihn indkhes</Span></span>\
+        <span style="font-family:Daedric"><span style="color:red">Almalexia Sotha’sil</Span> en <span style="color:red">Vicec</Span></Span>\
     <span style="font-family:Daedric">ku’or khosi’ath malath</Span>\
         <span style="font-family:Daedric">jigde’ath gah’moljuhn de dunmer</Span>\
         <span style="font-family:Daedric">en veyse’ath panthif muhrikam</Span>\
@@ -68,7 +68,7 @@
     <span style="font-family:Daedric">en tifur opulidi de nulfyr en thil en gaharihn</Span>\
         <span style="font-family:Daedric">en muhrjil juli</Span>\
 \
-    <span style="font-family:Daedric">julrishi </Span><span style="font-family:Daedric; color:red">ASV</Span><span style="font-family:Daedric"> sunna muhri asuhm deif ammu</Span>
+    <span style="font-family:Daedric">julrishi <span style="color:red">ASV</Span> sunna muhri asuhm deif ammu</Span></span>
 
 #### Credits:
 
