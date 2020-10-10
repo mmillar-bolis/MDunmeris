@@ -2,7 +2,7 @@
 ---
 
 <center>
-[Home](./index.md) [Documents](./docs.md) [GitHub](https://github.com/mmillar-bolis/MDunmeris)
+<a href="./index.md">Home</a> [Documents](./docs.md) [GitHub](https://github.com/mmillar-bolis/MDunmeris)
 </center>
 
 ---
