@@ -84,13 +84,13 @@ Adding a style tag to the beginning of your document will allow for adding some 
 </style>
 ```
 
-Optionally, if your markdown viewer does not allow for loading external fonts, you can convert the font to embeddable text using [base64](https://en.wikipedia.org/wiki/Base64) and then insert that into your tag. Below I have changed the source to load text data from the url path where *<BASE64 TEXT CONTENTS>* is the ASCII conversion of a TrueType font:
+Optionally, if your markdown viewer does not allow for loading external fonts, you can convert the font to embeddable text using [base64](https://en.wikipedia.org/wiki/Base64) and then insert that into your tag. Below I have changed the source to load text data from the url path where *<BASE64_TEXT_CONTENTS>* is the ASCII conversion of a TrueType font:
 
 ```html
 <style>
 @font-face {
     font-family: Daedric;
-    src: url(data:font/truetype;charset=utf-8;base64,<BASE64 TEXT CONTENTS>) format('truetype');
+    src: url(data:font/truetype;charset=utf-8;base64,<BASE64_TEXT_CONTENTS>) format('truetype');
     font-weight: medium;
     font-style: normal;
 }
