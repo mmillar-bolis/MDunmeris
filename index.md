@@ -129,19 +129,23 @@ It is unclear (to me at least) who specifically originally collaborated on the l
 
 The wiki itself is still being updated, revised, and expanded to suit the continuing needs of Dunmeris writers and speakers.
 
-As the wiki has recommended, I have taken some liberties here and there to deliberately construct a simpler sentences in Dunmeris. As the culture is *very* high-context, it seems proper that much of the language information is implicit.
+As the wiki has recommended, I have taken some liberties here and there to deliberately construct simpler sentences in Dunmeris. As the culture is *very* high-context, it seems proper that much of the language information is implicit. Other phrases are structured like prayers, given the significant influence of religion.
 
 Since Casual Dunmeris is still new and developing, I have taken to inventing words as the need arises, based on already available nouns and verbs that I smash together.
 
 I am *not* a language expert and am very much learning as I go, so feel free to let me know where sentences or phrases could stand to be modified.
 
-In addition, it helps to more clearly distinguish this form of Dunmeris from Hrafnir's [Ald Redoranis](https://www.imperial-library.info/content/hrafnirs-languages-nordic#Dunmeris), which is another notable dialect from the fourth era.
+In addition, it helps to more clearly distinguish this form of Dunmeris from Hrafnir's [Ald Redoranis](https://www.imperial-library.info/content/hrafnirs-languages-nordic#Dunmeris), which is another notable dialect from the fourth era. These are indeed separate tongues from different eras of the Dunmer.
 
 ---
+
+## Religion in Morrowind
 
 |Ghartok Triolith|
 |:-:|
 |![Triolith](assets/images/triolith-256.png?raw=true "Triolith")|
+
+---
 
 ## About the Trigrammaton
 
@@ -149,7 +153,14 @@ The central religious symbol of the Tribunal Faith is the Ghartok Triolith, repr
 
 The word "ALMSIVI" is a *portmanteau* of the three individual names of the Godhead. However, the letters themselves are merely a roman rendering of the phonetic pronounciation of the daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>.
 
-The word itself, literally unprnouncable by Dunmer, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The *portmanteau* form is simply the closest one can come to pronouncing a word in a divine language.
+The word itself, literally unprnouncable by Dunmer, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The blended form is simply the closest one can come to pronouncing a word in a divine language. Spelling each letter case as capital is a way of culturally denoting that the word *itself* is holy when uttered.
+
+###### In Daedric script, holy words are written in red. Specify the color in the span tag like so:
+```html
+<span style="font-family:Daedric; color:red">ASV</Span>
+```
+
+Based on the textual examples that I have seen, it would appear that red is the honorific color to represent holy words or names in Dunmeris. As a matter of propriety, I try to only highlight the names of the holiest figures and only where it seems appropriate to do so. When romanizing, it is best to stick to the system of [reverential capitalization](https://www.wikiwand.com/en/Reverential_capitalization), however your interpretation will probably vary.
 
 |ALMSIVI in every hour|
 |:-:|
@@ -160,17 +171,22 @@ The fact that words in Ehlnofex are fluid would support the custom that surround
 
 For example, in the Holy City of Vivec, ALMSIVI is rendered, \"<span style="font-family:Daedric; color:red">AVS</Span>\" while in the Holy Capitol of Mournhold, it is rendered \"<span style="font-family:Daedric; color:red">SAV</Span>.\" In all places, it is still pronounced the same.
 
-To render text in red, specify the color in the span tag like so:
+For a better understanding of the symbolic thought influencing this mysterious three letter word, see the [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton) and the article on Ehlnofex.
 
-```html
-<span style="font-family:Daedric; color:red">ASV</Span>
-```
+---
 
-Based on the textual examples that I have seen, it would appear that red is the honorific color to represent holy words or even words of *grave* importance. As a matter of propriety, I try to only highlight the names of the holiest figures and only where it seems culturally appropriate. Your interpretation may vary.
+## Further Reading
 
-For a better understanding of the symbolic thought influencing this mysterious three letter word, see the [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton) as well as the article on Ehlnofex. Also have a look at [Earthsea](https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea) and it's use of *Rumpelstiltskin theory* or the idea that true words may have power. There seems to be  similar theme in many Tamrielic religions.
+It seems relevant to have a look at [Earthsea](https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea) and it's use of *Rumpelstiltskin theory* or the idea that [*True* words](https://www.wikiwand.com/en/True_name) may have power. There seems to be a similar current present in many Tamrielic religions.
 
-The Tribunal Faith and it's influence on Dunmer culture cannot be understated. To learn more about it, have a look at [The New Whirling School](https://www.newwhirlingschool.com/intro.php) which features a great introduction, [exploratory essays](https://www.newwhirlingschool.com/intro.php#essays), and the first commentary on a central scripture, [*The Lessons*](https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec) (<span style="font-family:Daedric">as shoreshiik</span>, *As Shoreshiik*, more commonly known to as *The 36 Lessons of Vivec*).
+The Tribunal Faith and it's influence on Dunmer culture cannot be understated. To learn more about it, have a look at:
+
+- [Fellowship of the Temple](https://en.uesp.net/wiki/Morrowind:Fellowship_of_the_Temple) (<span style="font-family:Daedric">daeljuha am daenthi</span>, *Daeljuha am Daenthi*), an introductory pamphlet on The Tribunal Temple (<span style="font-family:Daedric">as daenthi</span>, *As Daenthi*, lit., "the temple")
+- [The New Whirling School](https://www.newwhirlingschool.com), the first commentary on a central scripture
+  - [Intro to Terminology](https://www.newwhirlingschool.com/intro.php)
+  - [Exploratory Essays](https://www.newwhirlingschool.com/intro.php#essays)
+  - [The 36 Lessons of Vivec](https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec) (<span style="font-family:Daedric">as shoreshiik</span>, *As Shoreshiik*, lit., "the lessons" )
+- [Organization of the Temple](https://www.reddit.com/r/teslore/comments/1on7gw/a_short_introduction_to_the_tribunal_temple/)
 
 |"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
 |:-:|
@@ -186,6 +202,8 @@ TODO:
 - how-to on common ways to export to pdf
 - structure project for pandoc
 - translate more notes and books
+
+Now go get into the spirit of things, have fun, and don't take any of it too seriously!
 
 ---
 
