@@ -1,6 +1,10 @@
 
 ---
 
+[Archive](./archive.md)
+
+---
+
 Markdown is a very easy language to write documents in. It's also possible to call custom fonts in Markdown using in-line HTML. By incorporating one of the available spoken dialects, it is very easy to quickly produce documents in Dunmeris (<span style="font-family:Daedric">dunmeris</span>), the language of the people of Morrowind.
 
 |Three blessings, sera|Walk with virtue|Why walk when you can ride?|
