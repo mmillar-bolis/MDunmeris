@@ -2,7 +2,7 @@
 ---
 
 <center>
-<a href="./index.md">Home</a>&nbsp;&nbsp;&nbsp;&nabla;&nbsp;&nbsp;&nbsp;<a href="./archive.md">Archive</a>&nbsp;&nbsp;&nbsp;&nabla;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mmillar-bolis/MDunmeris">GitHub</a>
+<a href="https://mmillar-bolis.github.io/MDunmeris/">Home</a>&nbsp;&nbsp;&nbsp;&nabla;&nbsp;&nbsp;&nbsp;<a href="./archive.md">Archive</a>&nbsp;&nbsp;&nbsp;&nabla;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mmillar-bolis/MDunmeris">GitHub</a>
 </center>
 
 ---
@@ -14,7 +14,7 @@ Markdown is a very easy language to write documents in. It's also possible to ca
 |Cahn'shoksunaa sera|Kosi enhi julopum|Ju'it khosi ku'elm ohn duhnanich?
 |<span style="font-family:Daedric">cahn’shoksunaa sera</span>|<span style="font-family:Daedric">kosi enhi julopum</span>|<span style="font-family:Daedric">ju'it khosi ku'elm ohn duhnanich</span>
 
-- [Example](Old_Pilgrims_Oath.md)
+- [Example](archive.md)
 
 ## The Gist of It:
 - Markdown
