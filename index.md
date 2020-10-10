@@ -149,7 +149,7 @@ In addition, it helps to more clearly distinguish this form of Dunmeris from Hra
 
 ## About the Trigrammaton
 
-The central religious symbol of the Tribunal Faith is the Ghartok Triolith, represented as an inverse triangle with Daedric glyphs in each corner, spelling *ASV*. However, it can also be common to see the [Imperial Triolith](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the Seal of Akatosh instead of the Hand of Mephala at it's center.
+The central religious symbol of the Tribunal Faith is the [Ghartok](https://www.imperial-library.info/content/forum-archives-michael-kirkbride) Triolith, represented as an inverse triangle with Daedric glyphs in each corner, spelling *ASV*. However, it can also be common to see the [Imperial Triolith](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the Seal of Akatosh instead of the Hand of Mephala at it's center.
 
 The word "ALMSIVI" is a *portmanteau* of the three individual names of the Godhead. However, the letters themselves are merely a roman rendering of the phonetic pronounciation of the daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>.
 
