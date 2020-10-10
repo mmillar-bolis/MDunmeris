@@ -106,9 +106,9 @@ All one really needs to get started, however, is [this handy template](https://g
 
 ## About This Font
 
-I have borrowed the [Ayembedt font](https://github.com/georgd/OpenMW-Fonts) created by Georg Duffner for [OpenMW](https://openmw.org), modified, and recompiled it into a smaller TrueType font using [FontForge](https://fontforge.org/en-US/downloads/).
+I have borrowed the [Ayembedt font](https://github.com/georgd/OpenMW-Fonts) created by Georg Duffner for [OpenMW](https://openmw.org). I have modified, and recompiled it into a smaller TrueType font using [FontForge](https://fontforge.org/en-US/downloads/).
 
-Both the compiled `.ttf` and the base64 rendering, as well as it's source code are available in the included assets directory. In addition, I have included loose css files: one containing the base64 version of the font and the other pointing to the loose file.
+Both the compiled `.ttf` and the base64 rendering, as well as it's source code with the modifications I have made are available in the assets directory of the GitHub repo.
 
 ---
 
