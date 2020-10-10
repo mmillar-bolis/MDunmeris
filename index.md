@@ -1,3 +1,11 @@
+<style>
+@font-face {
+    font-family: Daedric;
+    src: url('/Users/michael/Developer/git/MDunmeris/assets/fonts/ttf/Daedric.ttf') format('truetype');
+    font-weight: medium;
+    font-style: normal;
+}
+</style>
 
 ---
 
@@ -73,11 +81,13 @@ Adding a style tag to the beginning of your document will allow for adding some 
 </style>
 ```
 
- Furthermore, if your markdown viewer does not allow for loading external fonts, you can convert the font to embeddable text using [base64](https://en.wikipedia.org/wiki/Base64) and then insert that into your tag. Below I have changed the source to load text data from the url path:
+Optionally, if your markdown viewer does not allow for loading external fonts, you can convert the font to embeddable text using [base64](https://en.wikipedia.org/wiki/Base64) and then insert that into your tag. Below I have changed the source to load text data from the url path:
 
 ```html
     src: url(data:font/truetype;charset=utf-8;base64,<BASE64_CONTENTS>) format('truetype');
 ```
+
+This will allow you to distribute a single, flat markdown file with fonts, similar to a `.pdf`. However, it is important to know that embedding fonts produces large text files, and these can be difficult to work with if not maintained. (For this project, I am only importing *loose* fonts.)
 
 Finally, you can render text in your Markdown body by wrapping it with a span tag that specifies the font by it's internal name (not filename):
 
@@ -85,13 +95,7 @@ Finally, you can render text in your Markdown body by wrapping it with a span ta
 <span style="font-family:Daedric">makhel fahraj</span>
 ```
 
-Nomally, I would not advocate for embedding binary files into your documents as, aside from potential security concerns, it produces rather large text files.
-
-However, imagine you are a novice programmer in a scenario where you are still figuring out the whole pandoc thing and you just want to casually mess with a cool font here or there as you create shareable lore for others based on some old RPG. Daedric has no unicode script, registered or non. It currently only exists as a font replacement to US/English and thus is a bit tricky to portably incorporate into something like Markdown. I'm hoping this is a compromise to attract interest in both using Markdown and writing in Daedric.
-
-Unfortunately, there is no way to manually change the size of text in any implementation of markdown. For that, you will need to turn to a more explicit typsetting language or just regular HTML and CSS.
-
-In addition to this readme, I have included other `.md` files that contain the ebmedded Daedric font. I hope to make it as easy as possible for interested editors to start writing and sharing.
+All items within the *Documents* directory already contain this style element with a reference to the loose ttf font. They are ready for editing or viewing from a local markdown renderer, provided the font folder is kept with them.
 
 ## About This Font
 
@@ -141,7 +145,7 @@ The word itself, literally unprnouncable by Dunmer, comes from [Ehlnofex](https:
 |ALMSIVI in every hour|
 |:-:|
 |ASV gher alni telsan|
-|<span style="font-family:Daedric; color:red">ASV</Span><span style="font-family:Daedric"> gher alni telsan</span>|
+|<span style="font-family:Daedric;"> <span style="color:red">ASV</Span> gher alni telsan</span>|
 
 The fact that words in Ehlnofex are fluid would support the custom that surrounds the Trigrammaton, concerning the centering of the Daedric character for the respective deity in their regions of worship.
 
