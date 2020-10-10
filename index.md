@@ -14,8 +14,6 @@ Markdown is a very easy language to write documents in. It's also possible to ca
 |Cahn'shoksunaa sera|Kosi enhi julopum|Ju'it khosi ku'elm ohn duhnanich?
 |<span style="font-family:Daedric">cahn’shoksunaa sera</span>|<span style="font-family:Daedric">kosi enhi julopum</span>|<span style="font-family:Daedric">ju'it khosi ku'elm ohn duhnanich</span>
 
-- [Example](archive.md)
-
 ## The Gist of It:
 - Markdown
 - [Ayembedt font](https://github.com/georgd/OpenMW-Fonts)
