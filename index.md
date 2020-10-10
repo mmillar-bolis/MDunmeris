@@ -84,13 +84,20 @@ Adding a style tag to the beginning of your document will allow for adding some 
 </style>
 ```
 
-Optionally, if your markdown viewer does not allow for loading external fonts, you can convert the font to embeddable text using [base64](https://en.wikipedia.org/wiki/Base64) and then insert that into your tag. Below I have changed the source to load text data from the url path:
+Optionally, if your markdown viewer does not allow for loading external fonts, you can convert the font to embeddable text using [base64](https://en.wikipedia.org/wiki/Base64) and then insert that into your tag. Below I have changed the source to load text data from the url path where *<BASE64 TEXT CONTENTS>* is the ASCII conversion of a TrueType font:
 
 ```html
-    src: url(data:font/truetype;charset=utf-8;base64,<BASE64_CONTENTS>) format('truetype');
+<style>
+@font-face {
+    font-family: Daedric;
+    src: url(data:font/truetype;charset=utf-8;base64,<BASE64 TEXT CONTENTS>) format('truetype');
+    font-weight: medium;
+    font-style: normal;
+}
+</style>
 ```
 
-This will allow you to distribute a single, flat markdown file with fonts, similar to a `.pdf`. However, it is important to know that embedding fonts produces large text files, and these can be difficult to work with if not maintained. (For this project, I am only importing *loose* fonts.)
+This will allow you to distribute a single, flat markdown file with fonts, similar to a `.pdf`. However, it is important to know that embedding fonts produces large text files, and these can be difficult to work with if not maintained. (For this project, I am only importing *loose* fonts.) In some rare cases, antiviral programs might regard embedded base64 as suspicious.
 
 Finally, you can render text in your Markdown body by wrapping it with a span tag that specifies the font by it's internal name (not filename):
 
@@ -98,9 +105,7 @@ Finally, you can render text in your Markdown body by wrapping it with a span ta
 <span style="font-family:Daedric">makhel fahraj</span>
 ```
 
-All items within the *Documents* directory already contain this style element with a reference to the loose ttf font. They are ready for editing or viewing from a local markdown renderer, provided the font folder is kept with them.
-
-All one really needs to get started, however, is [this handy template](https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0)!
+All one really needs to get started is this handy [GitHub template](https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0)! The documents within already contain this style element, one with the font embedded and the other with a reference to the loose ttf font. They are ready for editing or viewing from a local markdown renderer, provided the font folder is kept with loose one.
 
 ---
 
