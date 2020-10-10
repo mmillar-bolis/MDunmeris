@@ -1,7 +1,9 @@
 
 ---
 
-[Archive](./archive.md)
+<center>
+<a href="./index.md">Home</a>&nbsp;&nbsp;&nbsp;&nabla;&nbsp;&nbsp;&nbsp;<a href="./archive.md">Archive</a>&nbsp;&nbsp;&nbsp;&nabla;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mmillar-bolis/MDunmeris">GitHub</a>
+</center>
 
 ---
 
@@ -174,10 +176,9 @@ TODO:
 
 ---
 
-|The ending of the words is ALMSIVI|
-|:-:|
-|As dimihn am as edur ASV|
-|<span style="font-family:Daedric">as dimihn am as edur </span><span style="font-family:Daedric; color:red">ASV</Span>|
+<center>
+<span style="font-family:Daedric">as dimihn am as edur </span><span style="font-family:Daedric; color:red">ASV</Span>
+</center>
 
 ---
 
