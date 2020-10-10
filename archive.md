@@ -2,7 +2,7 @@
 ---
 
 <center>
-<a href="./index.md">Home</a> <a href="./archive.md">Archive</a> <a href="https://github.com/mmillar-bolis/MDunmeris">GitHub</a>
+<a href="./index.md">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./archive.md">Archive</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mmillar-bolis/MDunmeris">GitHub</a>
 </center>
 
 ---
