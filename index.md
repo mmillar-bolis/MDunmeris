@@ -1,11 +1,3 @@
-<style>
-@font-face {
-    font-family: Daedric;
-    src: url('/Users/michael/Developer/git/MDunmeris/assets/fonts/ttf/Daedric.ttf') format('truetype');
-    font-weight: medium;
-    font-style: normal;
-}
-</style>
 
 ---
 
@@ -22,12 +14,19 @@ Markdown is a very easy language to write documents in. It's also possible to ca
 |Cahn'shoksunaa sera|Kosi enhi julopum|Ju'it khosi ku'elm ohn duhnanich?
 |<span style="font-family:Daedric">cahn’shoksunaa sera</span>|<span style="font-family:Daedric">kosi enhi julopum</span>|<span style="font-family:Daedric">ju'it khosi ku'elm ohn duhnanich</span>
 
-## The Gist of It:
-- Markdown
+### [Grab the Template!](https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0)
+
+##### Quick Info:
+Want to skip the article and jump right in? Here's all you need.
+
+- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Ayembedt font](https://github.com/georgd/OpenMW-Fonts)
 - [Casual Dunmeris](https://casualscrolls.fandom.com/wiki/Dunmeri_language)
+- [GitHub Template](https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0)
 
-## Background
+---
+
+## Further Background
 
 If you are unfamiliar with [John Gruber](https://daringfireball.net/projects/markdown/) and [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)'s Markdown language, [have a look at it](https://www.markdownguide.org/getting-started/).
 
@@ -37,32 +36,33 @@ Aside from the [Reference Specification](https://daringfireball.net/projects/mar
 
 However, all you really need to get started is something like [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
+---
+
 ## ToolKit
 
 Markdown files are plaintext files with the extension, `.md`. As with HTML, any text editor, such as Notepad and TextEdit, can be used to create and edit markdown files. However, choosing a text editor that supports [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting) will make things significantly easier to read.
 
 In addition to a text editor, one will also need a way to view rendered markdown. A few viewer applications exist as well as some browser plugins. However, many major code editors also incorporate some form of markdown viewer these days as well.
 
-A Text Editor:
-- Any plain-text editor, really!
-- [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/)
-- [Micro](https://micro-editor.github.io/)
-- [GVim](https://www.vim.org/download.php#pc)
+- A Text Editor:
+  - __Any plain-text editor, really!__
+  - [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/)
+  - [Micro](https://micro-editor.github.io/)
+  - [GVim](https://www.vim.org/download.php#pc)
 
-A Markdown Viewer:
-- [MdView](https://github.com/c3er/mdview)
-- [Markdown Viewer](https://github.com/simov/markdown-viewer) browser extension
-- [mdless](https://brettterpstra.com/projects/mdless/) command-line tool
-- [glow](https://github.com/charmbracelet/glow) command-line tool
+- A Markdown Viewer:
+  - [MdView](https://github.com/c3er/mdview)
+  - [Markdown Viewer](https://github.com/simov/markdown-viewer) browser extension
+  - [mdless](https://brettterpstra.com/projects/mdless/) command-line tool
+  - [glow](https://github.com/charmbracelet/glow) command-line tool
 
-Viewer/Editor:
-- [Visual Studio Code](https://code.visualstudio.com/Download)
-- [Notepad++](https://notepad-plus-plus.org/) with [MarkdownViewer++](https://github.com/nea/MarkdownViewerPlusPlus/releases)
-- [BBEdit](http://www.barebones.com/products/bbedit/)
-- [Atom](https://atom.io/) with [Markdown Preview](https://github.com/atom/markdown-preview)
-- [Typora](https://typora.io/)
-- [Texts](http://www.texts.io/)
-- [Abricotine](https://github.com/brrd/Abricotine)
+- Viewer/Editor:
+  - [Visual Studio Code](https://code.visualstudio.com/Download)
+  - [Notepad++](https://notepad-plus-plus.org/) with [MarkdownViewer++](https://github.com/nea/MarkdownViewerPlusPlus/releases)
+  - [Atom](https://atom.io/) with [Markdown Preview](https://github.com/atom/markdown-preview)
+  - [Typora](https://typora.io/)
+
+---
 
 ## Fonts in Markdown
 
@@ -97,11 +97,15 @@ Finally, you can render text in your Markdown body by wrapping it with a span ta
 
 All items within the *Documents* directory already contain this style element with a reference to the loose ttf font. They are ready for editing or viewing from a local markdown renderer, provided the font folder is kept with them.
 
+---
+
 ## About This Font
 
 I have borrowed the [Ayembedt font](https://github.com/georgd/OpenMW-Fonts) created by Georg Duffner for [OpenMW](https://openmw.org), modified, and recompiled it into a smaller TrueType font using [FontForge](https://fontforge.org/en-US/downloads/).
 
 Both the compiled `.ttf` and the base64 rendering, as well as it's source code are available in the included assets directory. In addition, I have included loose css files: one containing the base64 version of the font and the other pointing to the loose file.
+
+---
 
 ## Language Guidelines Used
 
@@ -166,6 +170,8 @@ The Tribunal Faith and it's influence on Dunmer culture cannot be understated. T
 |"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
 |:-:|
 |![Tribunal](assets/images/fresco-256.png?raw=true "Tribunal")|
+
+---
 
 ## Publishing Your Work
 
