@@ -1,7 +1,9 @@
 
 ---
 
+<center>
 [Home](./index.md) [Documents](./docs.md) [GitHub](https://github.com/mmillar-bolis/MDunmeris)
+</center>
 
 ---
 
@@ -15,6 +17,8 @@
 
 ---
 
+<center>
 <span style="font-family:Daedric">as dimihn am as edur </span><span style="font-family:Daedric; color:red">ASV</Span>
+</center>
 
 ---
