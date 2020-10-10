@@ -87,14 +87,7 @@ Adding a style tag to the beginning of your document will allow for adding some 
 Optionally, if your markdown viewer does not allow for loading external fonts, you can convert the font to embeddable text using [base64](https://en.wikipedia.org/wiki/Base64) and then insert that into your tag. Below I have changed the source to load text data from the url path where *<BASE64_TEXT_CONTENTS>* is the ASCII conversion of a TrueType font:
 
 ```html
-<style>
-@font-face {
-    font-family: Daedric;
     src: url(data:font/truetype;charset=utf-8;base64,<BASE64_TEXT_CONTENTS>) format('truetype');
-    font-weight: medium;
-    font-style: normal;
-}
-</style>
 ```
 
 This will allow you to distribute a single, flat markdown file with fonts, similar to a `.pdf`. However, it is important to know that embedding fonts produces large text files, and these can be difficult to work with if not maintained. (For this project, I am only importing *loose* fonts.) In some rare cases, antiviral programs might regard embedded base64 as suspicious.
