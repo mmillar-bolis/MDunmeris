@@ -9,12 +9,13 @@
 
 Markdown is a very easy language to write documents in. It's also possible to call custom fonts in Markdown using in-line HTML. By incorporating one of the available spoken dialects, it is very easy to quickly produce documents in Dunmeris (<span style="font-family:Daedric">dunmeris</span>), the language of the people of Morrowind.
 
+[Try the template!](https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0) Some examples:
+
 |Three blessings, sera|Walk with virtue|Why walk when you can ride?|
 |:-:|:-:|:-:|
 |Cahn'shoksunaa sera|Kosi enhi julopum|Ju'it khosi ku'elm ohn duhnanich?
 |<span style="font-family:Daedric">cahn’shoksunaa sera</span>|<span style="font-family:Daedric">kosi enhi julopum</span>|<span style="font-family:Daedric">ju'it khosi ku'elm ohn duhnanich</span>
 
-### [Grab the Template!](https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0)
 
 ##### Quick Info:
 Want to skip the article and jump right in? Here's all you need.
@@ -35,6 +36,8 @@ Markdown is a text formatting language that translates to strict HTML. The centr
 Aside from the [Reference Specification](https://daringfireball.net/projects/markdown/), there are other slightly different dialects as well such as, [GitHub Flavored Markdown](https://github.github.com/gfm/) and [Pandoc Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown).
 
 However, all you really need to get started is something like [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+*Could* one do all this with Word instead? Of course! However, one would need to have an office suite installed to their system. If that setup fit's your workflow, more power to you. This project is mostly focused on using plaintext editors instead of ritch office ones.
 
 ---
 
