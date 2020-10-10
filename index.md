@@ -97,6 +97,8 @@ Finally, you can render text in your Markdown body by wrapping it with a span ta
 
 All items within the *Documents* directory already contain this style element with a reference to the loose ttf font. They are ready for editing or viewing from a local markdown renderer, provided the font folder is kept with them.
 
+All one really needs to get started, however, is [this handy template](https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0)!
+
 ---
 
 ## About This Font
