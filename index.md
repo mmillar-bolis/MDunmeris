@@ -183,8 +183,14 @@ The Tribunal Faith and it's influence on Dunmer culture cannot be understated. T
 - [The New Whirling School](https://www.newwhirlingschool.com), the first commentary on a central scripture
   - [Intro to Terminology](https://www.newwhirlingschool.com/intro.php)
   - [Exploratory Essays](https://www.newwhirlingschool.com/intro.php#essays)
-  - [The 36 Lessons of Vivec](https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec) (<span style="font-family:Daedric">as shoreshiik</span>, *As Shoreshiik*, lit., "the lessons" )
 - [Organization of the Temple](https://www.reddit.com/r/teslore/comments/1on7gw/a_short_introduction_to_the_tribunal_temple/)
+
+The Temple has what can be considered an "[open canon](https://en.wikipedia.org/wiki/Biblical_canon#:~:text=In%20contrast%2C%20an%20%22open%20canon,their%20respective%20faiths%20and%20denominations.)" of scriptures which have evolved over time and region to include many texts. Some of the most seminal works include:
+- [The 36 Lessons of Vivec](https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec) (<span style="font-family:Daedric">as shoreshiik</span>, *As Shoreshiik*, lit., "the lessons" )
+- [The Homilies of Blessed Almalexia](https://en.uesp.net/wiki/Lore:Homilies_of_Blessed_Almalexia) (<span style="font-family:Daedric">as malyudhardii</span>, As Malyudhardii, lit., "the homilies")
+- [The Truth in Sequence](https://en.uesp.net/wiki/Lore:The_Truth_in_Sequence) (<span style="font-family:Daedric">as leyrihn</span>, As Leyrihn, lit., "the sequence")
+
+Collected and canonized texts are often reflective of the local temples and their's communities.
 
 |"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
 |:-:|
