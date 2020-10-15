@@ -158,7 +158,7 @@ The word itself, literally unprnouncable by Dunmer, comes from [Ehlnofex](https:
 <span style="font-family:Daedric; color:red">ASV</Span>
 ```
 
-Based on the textual examples that I have seen, it would appear that red is the honorific color to represent holy words or names in Dunmeris. As a matter of propriety, I try to only highlight the names of the holiest figures and only where it seems appropriate to do so. When romanizing, it is best to stick to the system of [reverential capitalization](https://www.wikiwand.com/en/Reverential_capitalization), however your interpretation will probably vary.
+Based on the textual examples that I have seen, it would appear that red is the honorific color that represents holy words or names when writing in the Daedric script. As a matter of propriety, I try to only highlight the names of the most renowned figures and only where it seems contextually appropriate to do so. When romanizing, it is best to stick to the system of [reverential capitalization](https://www.wikiwand.com/en/Reverential_capitalization), however your interpretation will probably vary.
 
 |ALMSIVI in every hour|
 |:-:|
