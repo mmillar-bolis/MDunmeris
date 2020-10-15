@@ -31,13 +31,13 @@ Want to skip the article and jump right in to creating and translating documents
 
 If you are unfamiliar with [John Gruber](https://daringfireball.net/projects/markdown/) and [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)'s Markdown language, [have a look at it](https://www.markdownguide.org/getting-started/).
 
-Markdown is a text formatting language that translates to strict HTML. The central focus and reason for the language is to store source text in the most human readable fashion possible but still be able to render it with more ritch HTML.
+Markdown is a text formatting language that translates to strict HTML. The central focus and reason for the language is to store source text in the most human readable fashion possible but still be able to render it with formatted HTML.
 
 Aside from the [Reference Specification](https://daringfireball.net/projects/markdown/), there are other slightly different dialects as well such as, [GitHub Flavored Markdown](https://github.github.com/gfm/) and [Pandoc Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown).
 
 However, all you really need to get started is something like [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-*Could* one do all this with Word instead? Of course! However, one would need to have an office suite installed to their system. If that setup fit's your workflow, more power to you. This project is mostly focused on using plaintext editors instead of ritch office ones.
+*Could* one do all this with Word instead? Of course! However, one would need to have an office suite installed to their system. If that setup fit's your workflow, more power to you. This project is mostly focused on using plaintext editors instead of rich office ones.
 
 ---
 
@@ -98,7 +98,7 @@ Finally, you can render text in your Markdown body by wrapping it with a span ta
 <span style="font-family:Daedric">makhel fahraj</span>
 ```
 
-All one really needs to get started is this handy [GitHub template](https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0)! The documents within already contain this style element, one with the font embedded and the other with a reference to the loose ttf font. They are ready for editing or viewing from a local markdown renderer, provided the font folder is kept with loose one.
+All one really needs to get started is this handy [GitHub template](https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0)! The documents within already contain this style element, one with the font embedded and the other with a reference to the loose `.ttf` font. They are ready for editing or viewing from a local markdown renderer, provided the font folder is kept with loose one.
 
 ---
 
@@ -149,9 +149,9 @@ In addition, it helps to more clearly distinguish this form of Dunmeris from Hra
 
 The central religious symbol of the Tribunal Faith is the [Ghartok](https://www.imperial-library.info/content/forum-archives-michael-kirkbride) Triolith, represented as an inverse triangle with Daedric glyphs in each corner, spelling *ASV*. However, it can also be common to see the [Imperial Triolith](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the Seal of Akatosh instead of the Hand of Mephala at it's center.
 
-The word "ALMSIVI" is a *portmanteau* of the three individual names of the Godhead. However, the letters themselves are merely a roman rendering of the phonetic pronounciation of the daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>.
+The word "ALMSIVI" is a *portmanteau* of the three individual names of the Godhead. However, the letters themselves are merely a roman rendering of the phonetic pronunciation of the Daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>.
 
-The word itself, literally unprnouncable by Dunmer, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The blended form is simply the closest one can come to pronouncing a word in a divine language. Spelling each letter case as capital is a way of culturally denoting that the word *itself* is holy when uttered.
+The word itself, literally unpronounceable by Dunmer, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The blended form is simply the closest one can come to pronouncing a word in a divine language. Spelling each letter case as capital is a way of culturally denoting that the word *itself* is holy when uttered.
 
 ###### In Daedric script, holy words are written in red. Specify the color in the span tag like so:
 ```html
@@ -190,7 +190,7 @@ The Temple has what can be considered an "[open canon](https://en.wikipedia.org/
 - [The Homilies of Blessed Almalexia](https://en.uesp.net/wiki/Lore:Homilies_of_Blessed_Almalexia) (<span style="font-family:Daedric">as malyudhardii</span>, As Malyudhardii, lit., "the homilies")
 - [The Truth in Sequence](https://en.uesp.net/wiki/Lore:The_Truth_in_Sequence) (<span style="font-family:Daedric">as leyrihn</span>, As Leyrihn, lit., "the sequence")
 
-Collected and canonized texts are often reflective of the local temples and their's communities.
+Collected and canonized texts are often reflective of the local temples and their communities.
 
 |"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
 |:-:|
@@ -200,12 +200,13 @@ Collected and canonized texts are often reflective of the local temples and thei
 
 ## Publishing Your Work
 
-TODO:
+It's easy to convert Markdown to PDF. With your viewer of choice, you can use your operating system's *Print to PDF* feature.
 
-- add document sub-pages to io
-- how-to on common ways to export to pdf
-- structure project for pandoc
-- translate more notes and books
+It's also very easy to convert formats using [pandoc](https://pandoc.org/):
+
+```
+pandoc example.md --standalone --output example.pdf
+```
 
 Now go get into the spirit of things, have fun, and don't take any of it too seriously!
 
