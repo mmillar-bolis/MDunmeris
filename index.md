@@ -116,28 +116,31 @@ The language dialect I have chosen for most of my translations is the continuall
 
 There is a lot of activity surrounding this dialect and it seems very well developed. When translating cultural adages of Morrowind, Casual Dunmeris rolls with off the tongue rather well.
 
-|Learn by serving|
-|:-:|
-|Viya ru yilakam|
-|<span style="font-family:Daedric">viya ru yilakam</span>|
-
 I like to refer to it as *Tretke* dialect (Slovak for "trinket") to pay tribute to the username of the forum's founder and original publisher of the language, [Matthew Knight](https://casualscrolls.fandom.com/wiki/User:Mknightretke).
 
 It is unclear (to me at least) who specifically originally collaborated on the language, but it appears that around 2011, a framework was designed for the members of the [original party](https://casualscrolls.fandom.com/wiki/Casual_Elder_Scrolls_Wiki#Characters) of a [PbP](https://en.wikipedia.org/wiki/Play-by-post_role-playing_game) Elder Scrolls campaign that was being recorded on the Casual Scrolls wiki.
 
 The wiki itself is still being updated, revised, and expanded to suit the continuing needs of Dunmeris writers and speakers.
 
-As the wiki has recommended, I have taken some liberties here and there to deliberately construct simpler sentences in Dunmeris. As the culture is *very* high-context, it seems proper that much of the language information is implicit. Other phrases are structured like prayers, given the significant influence of religion.
+As the wiki has recommended, I have taken some liberties here and there to deliberately construct simpler sentences in Dunmeris. As the culture is *very* high-context, it seems proper that much of the language information appear implicit. Looking at examples such as the [Words of the Wind](https://en.uesp.net/wiki/Lore:Words_of_the_Wind) and [The Book of Dawn and Dusk](https://en.uesp.net/wiki/Lore:The_Book_of_Dawn_and_Dusk), I have also structured some phrases like prayers or poetry. Anything that seems common should just roll off the tongue, in my opinion.
 
-Since Casual Dunmeris is still new and developing, I have taken to inventing words as the need arises, based on already available nouns and verbs that I smash together.
+|Learn by serving|
+|:-:|
+|Viya ru yilakam|
+|<span style="font-family:Daedric">viya ru yilakam</span>|
 
-I am *not* a language expert and am very much learning as I go, so feel free to let me know where sentences or phrases could stand to be modified.
 
-In addition, it helps to more clearly distinguish this form of Dunmeris from Hrafnir's [Ald Redoranis](https://www.imperial-library.info/content/hrafnirs-languages-nordic#Dunmeris), which is another notable dialect from the fourth era. These are indeed separate tongues from different eras of the Dunmer.
+Following the [lineage of Ehlnofex languages](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages), one can see that Dunmeris is derived from Aldmeris. If anyone has further interest, for an additional translation guide, resource, and inspiration, there is a fascinating project to [document Aldmeris](https://tes-sandbox.fandom.com/wiki/Aldmeris_(Language)).
+
+In addition, there is also another dialect of Dunmeris, as documented by [HrafnirII](https://www.imperial-library.info/users/hrafnir-ii), called [Ald Redoranis](https://www.imperial-library.info/content/hrafnirs-languages-nordic#Dunmeris), which is notable for being from the fourth era.
+
+Since Casual Dunmeris is still new and developing, I have also taken to inventing words as the need arises, based on already available nouns and verbs that I smash together.
+
+I'm no language expert and there's plenty I have not accounted for, like the more clinical emphasis of Telvanni culture and how that might significantly affect the language. However, I'm just having fun as I go, so feel free to let me know where sentences or phrases could stand to be modified.
 
 ---
 
-## Religion in Morrowind
+## Religion and Morrowind
 
 |Ghartok Triolith|
 |:-:|
@@ -158,7 +161,7 @@ The word itself, literally unpronounceable by Dunmer, comes from [Ehlnofex](http
 <span style="font-family:Daedric; color:red">ASV</Span>
 ```
 
-Based on the textual examples that I have seen, it would appear that red is the honorific color that represents holy words or names when writing in the Daedric script. As a matter of propriety, I try to only highlight the names of the most renowned figures and only where it seems contextually appropriate to do so. When romanizing, it is best to stick to the system of [reverential capitalization](https://www.wikiwand.com/en/Reverential_capitalization), however your interpretation will probably vary.
+Based on the textual examples that I have seen, it would appear that red is the honorific color that represents holy words or names when writing in the Daedric script. As a matter of propriety, I try to only highlight the names of the most renowned figures and only where it seems contextually appropriate to do so. When romanizing, it is best to stick to the system of [reverential capitalization](https://en.wikipedia.org/wiki/Reverential_capitalization), however your interpretation will probably vary.
 
 |ALMSIVI in every hour|
 |:-:|
@@ -175,23 +178,23 @@ For a better understanding of the symbolic thought influencing this mysterious t
 
 ## Further Reading
 
-It seems relevant to have a look at [Earthsea](https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea) and it's use of *Rumpelstiltskin theory* or the idea that [*True* words](https://www.wikiwand.com/en/True_name) may have power. There seems to be a similar current present in many Tamrielic religions.
+It seems relevant to have a look at [Earthsea](https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea) and it's use of *Rumpelstiltskin theory* or the idea that [*True* words](https://en.wikipedia.org/wiki/True_name) may have power. There seems to be a similar current present in many Tamrielic religions.
 
 The Tribunal Faith and it's influence on Dunmer culture cannot be understated. To learn more about it, have a look at:
 
-- [Fellowship of the Temple](https://en.uesp.net/wiki/Morrowind:Fellowship_of_the_Temple) (<span style="font-family:Daedric">daeljuha am daenthi</span>, *Daeljuha am Daenthi*), an introductory pamphlet on The Tribunal Temple (<span style="font-family:Daedric">as daenthi</span>, *As Daenthi*, lit., "the temple")
+- [Fellowship of the Temple](https://en.uesp.net/wiki/Lore:Fellowship_of_the_Temple) (<span style="font-family:Daedric">daeljuha am daenthi</span>, *Daeljuha am Daenthi*), an introductory pamphlet on The Tribunal Temple (<span style="font-family:Daedric">as daenthi</span>, *As Daenthi*, lit., "the temple")
 - [The New Whirling School](https://www.newwhirlingschool.com), the first commentary on a central scripture
   - [Intro to Terminology](https://www.newwhirlingschool.com/intro.php)
   - [Exploratory Essays](https://www.newwhirlingschool.com/intro.php#essays)
 - [Organization of the Temple](https://www.reddit.com/r/teslore/comments/1on7gw/a_short_introduction_to_the_tribunal_temple/)
 - [What is the Religious History of the Dunmer?](https://writteninuncertainty.com/podcast/dunmer-religion/)
 - [Dunmer Beliefs and Customs of the Dead](https://en.uesp.net/wiki/Lore:Death#Dunmer_Beliefs_and_Customs)
-  - [The Doors of the Spirit](https://en.uesp.net/wiki/Morrowind:The_Doors_of_the_Spirit)
+  - [The Doors of the Spirit](https://en.uesp.net/wiki/Lore:The_Doors_of_the_Spirit)
 
 The Temple has what can be considered an "[open canon](https://en.wikipedia.org/wiki/Biblical_canon#:~:text=In%20contrast%2C%20an%20%22open%20canon,their%20respective%20faiths%20and%20denominations.)" of scriptures which have evolved over time and region to include many texts. Some of the most seminal works include:
 - [The Homilies of Blessed Almalexia](https://en.uesp.net/wiki/Lore:Homilies_of_Blessed_Almalexia) (<span style="font-family:Daedric">as malyudhardii</span>, As Malyudhardii, lit., "the homilies")
 - [The Truth in Sequence](https://en.uesp.net/wiki/Lore:The_Truth_in_Sequence) (<span style="font-family:Daedric">as leyrihn</span>, As Leyrihn, lit., "the sequence")
-- [The 36 Lessons of Vivec](https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec) (<span style="font-family:Daedric">as shoreshiik</span>, *As Shoreshiik*, lit., "the lessons" )
+- [The 36 Lessons of Vivec](https://en.uesp.net/wiki/Lore:The_36_Lessons_of_Vivec) (<span style="font-family:Daedric">as shoreshiik</span>, *As Shoreshiik*, lit., "the lessons" )
 
 Collected and canonized texts are often reflective of the local temples and their communities.
 
