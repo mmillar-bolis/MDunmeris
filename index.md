@@ -136,8 +136,6 @@ In addition, there is also another dialect of Dunmeris, as documented by [Hrafni
 
 Since Casual Dunmeris is still new and developing, I have also taken to inventing words as the need arises, based on already available nouns and verbs that I smash together.
 
-I'm no language expert and there's plenty I have not accounted for, like the more clinical emphasis of Telvanni culture and how that might significantly affect the language. However, I'm just having fun as I go, so feel free to let me know where sentences or phrases could stand to be modified.
-
 ---
 
 ## Religion and Morrowind
@@ -200,6 +198,12 @@ To learn more about Dunmer religion, have a look at the following resources:
   - [Exploratory Essays](https://www.newwhirlingschool.com/intro.php#essays)
 - [Jerome's Short Commentary](https://jeromeiv-blog.tumblr.com/post/19934786003/sermon-1-of-36-lessons-of-vivec-dissection), incomplete but venerably covers the first six chapters of the 36 Lessons
 
+Finally, some further essays and topics relating to Morrowind and religion:
+
+- [Religion in Computer Games](http://kau.diva-portal.org/smash/get/diva2:508317/FULLTEXT01.pdf), an essay by Jon Ode that explores the forms and implications of religion in games using Morrowind as the example
+- [A Treatise on the Subject of Daedra Worship](https://luke-a-fytch.itch.io/a-treatise-on-the-subject-of-daedra-worship), an essay by Luke A. Fytch that details the emergence of a new form of pop-culture paganism
+- [Prophecy, Pre-Destination, and Free-form Gameplay](https://heiup.uni-heidelberg.de/journals/index.php/religions/article/view/18512/12320), an essay by Angus Slater from the Heidelberg Journal of Religions on the Internet, Vol. 7, pg. 161 that explores the Nerevarine Prophecy's affect on gameplay
+
 |"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
 |:-:|
 |![Tribunal](assets/images/fresco-256.png?raw=true "Tribunal")|
@@ -216,7 +220,13 @@ It's also very easy to convert formats using [pandoc](https://pandoc.org/):
 pandoc example.md --standalone --output example.pdf
 ```
 
-Now go get into the spirit of things, have fun, and don't take any of it too seriously!
+## Final Words
+
+I'm no language expert and there's plenty I have not accounted for. The irreverent, more clinical emphasis of Telvanni culture has had an affect on the language. [Architecture plays a key role](https://ajmchugh.wordpress.com/2019/06/19/how-vivec-city-reinforces-morrowinds-politics/) in culture as well and it varies wildly between region. There is also something to be said of the similarities between the Dunmer and the [pre-Roman Celts](https://en.wikipedia.org/wiki/Insular_Celts).
+
+There is a lot to be observed and discovered about Morrowind and I am barely scratching the surface as I write down what little I've learned. I don't intend for this to act as a primary source, but a quick point of reference.
+
+Now go have fun, get into the spirit of things, and don't take anything too seriously!
 
 ---
 
