@@ -142,19 +142,20 @@ I'm no language expert and there's plenty I have not accounted for, like the mor
 
 ## Religion and Morrowind
 
-|Ghartok Triolith|
+|[Ghartok](https://www.imperial-library.info/content/forum-archives-michael-kirkbride#node-2865:~:text=What%20does%20%22GHARTOK%22%20mean%3F) Triolith|
 |:-:|
 |![Triolith](assets/images/triolith-256.png?raw=true "Triolith")|
 
----
+
+## About the Triolith Symbol
+
+The central religious symbol of the Tribunal Faith is the depiction of the [Triolith](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-05-22-11-21/Lessons4.jpg/EG11/resize/690x-1/quality/75/format/jpg), represented as an inverse triangle with Daedric glyphs in each corner, spelling *ASV*. However, it can also be common to see many variations such as the above Ghartok Triolith which depicts the hand of Mephala, the [Imperial Triolith](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the Seal of Akatosh, and more recently, the [Nerevarine Triolith](https://media.moddb.com/images/articles/1/154/153713/2ik4pc5.jpg.png) depicting [Moon-and-Star](https://en.uesp.net/wiki/Lore:Moon-and-Star) at it's center.
 
 ## About the Trigrammaton
 
-The central religious symbol of the Tribunal Faith is the [Ghartok](https://www.imperial-library.info/content/forum-archives-michael-kirkbride) Triolith, represented as an inverse triangle with Daedric glyphs in each corner, spelling *ASV*. However, it can also be common to see the [Imperial Triolith](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the Seal of Akatosh instead of the Hand of Mephala at it's center.
+The word "ALMSIVI" is a *portmanteau* of the three individual names of the Tribunal godhead. However, the letters themselves are merely a roman rendering of the phonetic pronunciation of the Daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>, *ASV*.
 
-The word "ALMSIVI" is a *portmanteau* of the three individual names of the Godhead. However, the letters themselves are merely a roman rendering of the phonetic pronunciation of the Daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>.
-
-The word itself, literally unpronounceable by Dunmer, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The blended form is simply the closest one can come to pronouncing a word in a divine language. Spelling each letter case as capital is a way of culturally denoting that the word *itself* is holy when uttered.
+The word itself, literally unpronounceable by Dunmer, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The [blended form](http://www.gamesas.com/understanding-the-sermons-t346774.html#p4640584:~:text=is%20ehlnofex%20for) is simply the closest one can come to pronouncing a word in a divine language. Spelling each letter case as capital is a way of culturally denoting that the word *itself* is holy when uttered.
 
 ###### In Daedric script, holy words are written in red. Specify the color in the span tag like so:
 ```html
@@ -168,7 +169,7 @@ Based on the textual examples that I have seen, it would appear that red is the 
 |ASV gher alni telsan|
 |<span style="font-family:Daedric;"> <span style="color:red">ASV</Span> gher alni telsan</span>|
 
-The fact that words in Ehlnofex are fluid would support the custom that surrounds the Trigrammaton, concerning the centering of the Daedric character for the respective deity in their regions of worship.
+The fact that [words in Ehlnofex](https://en.uesp.net/wiki/Lore:CHIM) are fluid would support the custom that surrounds the Trigrammaton, concerning the centering of the Daedric character for the respective deity in their regions of worship.
 
 For example, in the Holy City of Vivec, ALMSIVI is rendered, \"<span style="font-family:Daedric; color:red">AVS</Span>,\" [*AVS*](https://en.uesp.net/wiki/Morrowind:Tribunal_Temple), while in the Holy Capitol of Mournhold, it is rendered \"<span style="font-family:Daedric; color:red">SAV</Span>,\" [*SAV*](https://en.uesp.net/wiki/Lore:Daedric_Alphabet#Morrowind). In all places, it is still pronounced the same.
 
@@ -178,7 +179,7 @@ For a better understanding of the symbolic thought influencing this mysterious t
 
 ## Further Reading
 
-It seems relevant to have a look at [Earthsea](https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea) and it's use of *Rumpelstiltskin theory* or the idea that [*True* words](https://en.wikipedia.org/wiki/True_name) may have power. There seems to be a similar current present in many Tamrielic religions.
+It seems relevant to have a look at [Earthsea](https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea) and it's use of [*Rumpelstiltskin theory*](https://sjaakvandergeest.socsci.uva.nl/pdf/anthropology_and_literature/rumpelskin.pdf) or the idea that [*True* words](https://en.wikipedia.org/wiki/True_name) may have power. There seems to be a [similar current](https://www.imperial-library.info/content/posts-kirkbride-undated#node-8393:~:text=On%20Vivec%20and%20Morrowind) present in many Tamrielic religions and languages.
 
 The Tribunal Faith and it's influence on Dunmer culture cannot be understated. To learn more about it, have a look at:
 
