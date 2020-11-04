@@ -181,23 +181,24 @@ For a better understanding of the symbolic thought influencing this mysterious t
 
 It seems relevant to have a look at [Earthsea](https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea) and it's use of [*Rumpelstiltskin theory*](https://sjaakvandergeest.socsci.uva.nl/pdf/anthropology_and_literature/rumpelskin.pdf) or the idea that [*True* words](https://en.wikipedia.org/wiki/True_name) may have power. There seems to be a [similar current](https://www.imperial-library.info/content/posts-kirkbride-undated#node-8393:~:text=On%20Vivec%20and%20Morrowind) present in many Tamrielic religions and languages.
 
-The Tribunal Faith and it's influence on Dunmer culture cannot be understated. To learn more about it, have a look at:
-
-- [Fellowship of the Temple](https://en.uesp.net/wiki/Lore:Fellowship_of_the_Temple) (<span style="font-family:Daedric">daeljuha am daenthi</span>, *Daeljuha am Daenthi*), an introductory pamphlet on The Tribunal Temple (<span style="font-family:Daedric">as daenthi</span>, *As Daenthi*, lit., "the temple")
-- [The New Whirling School](https://www.newwhirlingschool.com), the first commentary on a central scripture
-  - [Intro to Terminology](https://www.newwhirlingschool.com/intro.php)
-  - [Exploratory Essays](https://www.newwhirlingschool.com/intro.php#essays)
-- [Organization of the Temple](https://www.reddit.com/r/teslore/comments/1on7gw/a_short_introduction_to_the_tribunal_temple/)
-- [What is the Religious History of the Dunmer?](https://writteninuncertainty.com/podcast/dunmer-religion/)
-- [Dunmer Beliefs and Customs of the Dead](https://en.uesp.net/wiki/Lore:Death#Dunmer_Beliefs_and_Customs)
-  - [The Doors of the Spirit](https://en.uesp.net/wiki/Lore:The_Doors_of_the_Spirit)
-
-The Temple has what can be considered an "[open canon](https://en.wikipedia.org/wiki/Biblical_canon#:~:text=In%20contrast%2C%20an%20%22open%20canon,their%20respective%20faiths%20and%20denominations.)" of scriptures which have evolved over time and region to include many texts. Some of the most seminal works include:
+The Tribunal Faith and it's influence on Dunmer culture cannot be understated. The Temple has what can be considered an "[open canon](https://en.wikipedia.org/wiki/Biblical_canon#:~:text=In%20contrast%2C%20an%20%22open%20canon,their%20respective%20faiths%20and%20denominations.)" of scriptures which have evolved over time and region to include many texts. Some of the most seminal works include:
 - [The Homilies of Blessed Almalexia](https://en.uesp.net/wiki/Lore:Homilies_of_Blessed_Almalexia) (<span style="font-family:Daedric">as malyudhardii</span>, As Malyudhardii, lit., "the homilies")
 - [The Truth in Sequence](https://en.uesp.net/wiki/Lore:The_Truth_in_Sequence) (<span style="font-family:Daedric">as leyrihn</span>, As Leyrihn, lit., "the sequence")
 - [The 36 Lessons of Vivec](https://en.uesp.net/wiki/Lore:The_36_Lessons_of_Vivec) (<span style="font-family:Daedric">as shoreshiik</span>, *As Shoreshiik*, lit., "the lessons" )
 
 Collected and canonized texts are often reflective of the local temples and their communities.
+
+To learn more about Dunmer religion, have a look at the following resources:
+
+- [Fellowship of the Temple](https://en.uesp.net/wiki/Lore:Fellowship_of_the_Temple) (<span style="font-family:Daedric">daeljuha am daenthi</span>, *Daeljuha am Daenthi*), an introductory pamphlet on The Tribunal Temple (<span style="font-family:Daedric">as daenthi</span>, *As Daenthi*, lit., "the temple")
+- [Organization of the Temple](https://www.reddit.com/r/teslore/comments/1on7gw/a_short_introduction_to_the_tribunal_temple/)
+- [What is the Religious History of the Dunmer?](https://writteninuncertainty.com/podcast/dunmer-religion/)
+- [Dunmer Beliefs and Customs of the Dead](https://en.uesp.net/wiki/Lore:Death#Dunmer_Beliefs_and_Customs)
+  - [The Doors of the Spirit](https://en.uesp.net/wiki/Lore:The_Doors_of_the_Spirit)
+- [The New Whirling School Commentary](https://www.newwhirlingschool.com), A major work-in-progress commentary on the 36 Lessons
+  - [Intro to Terminology](https://www.newwhirlingschool.com/intro.php)
+  - [Exploratory Essays](https://www.newwhirlingschool.com/intro.php#essays)
+- [Jerome's Short Commentary](https://jeromeiv-blog.tumblr.com/post/19934786003/sermon-1-of-36-lessons-of-vivec-dissection), incomplete but venerably covers the first six chapters of the 36 Lessons
 
 |"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
 |:-:|
