@@ -140,14 +140,17 @@ Since Casual Dunmeris is still new and developing, I have also taken to inventin
 
 ## Religion and Morrowind
 
-|[Ghartok](https://www.imperial-library.info/content/forum-archives-michael-kirkbride#node-2865:~:text=What%20does%20%22GHARTOK%22%20mean%3F) Triolith|
+|Ghartok Triolith|
 |:-:|
 |![Triolith](assets/images/triolith-256.png?raw=true "Triolith")|
 
+---
 
 ## About the Triolith Symbol
 
-The central religious symbol of the Tribunal Faith is the depiction of the [Triolith](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-05-22-11-21/Lessons4.jpg/EG11/resize/690x-1/quality/75/format/jpg), represented as an inverse triangle with Daedric glyphs in each corner, spelling *ASV*. However, it can also be common to see many variations such as the above Ghartok Triolith which depicts the hand of Mephala, the [Imperial Triolith](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the Seal of Akatosh, and more recently, the [Nerevarine Triolith](https://media.moddb.com/images/articles/1/154/153713/2ik4pc5.jpg.png) depicting [Moon-and-Star](https://en.uesp.net/wiki/Lore:Moon-and-Star) at it's center.
+The central religious symbol of the Tribunal Faith is the depiction of the [Triolith](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-05-22-11-21/Lessons4.jpg/EG11/resize/690x-1/quality/75/format/jpg), represented as an inverse triangle with Daedric glyphs in each corner, spelling *ASV*. However, it can also be common to see many variations such as the above [Ghartok Triolith](https://www.imperial-library.info/content/forum-archives-michael-kirkbride#node-2865:~:text=What%20does%20%22GHARTOK%22%20mean%3F) which depicts the hand of Mephala, the [Imperial Triolith](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the Seal of Akatosh, and more recently, the [Nerevarine Triolith](https://media.moddb.com/images/articles/1/154/153713/2ik4pc5.jpg.png) depicting [Moon-and-Star](https://en.uesp.net/wiki/Lore:Moon-and-Star) at it's center.
+
+---
 
 ## About the Trigrammaton
 
@@ -193,6 +196,7 @@ To learn more about Dunmer religion, have a look at the following resources:
 - [What is the Religious History of the Dunmer?](https://writteninuncertainty.com/podcast/dunmer-religion/)
 - [Dunmer Beliefs and Customs of the Dead](https://en.uesp.net/wiki/Lore:Death#Dunmer_Beliefs_and_Customs)
   - [The Doors of the Spirit](https://en.uesp.net/wiki/Lore:The_Doors_of_the_Spirit)
+- [The Metaphysics of Morrowind](https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/)
 - [The New Whirling School Commentary](https://www.newwhirlingschool.com), A major work-in-progress commentary on the 36 Lessons
   - [Intro to Terminology](https://www.newwhirlingschool.com/intro.php)
   - [Exploratory Essays](https://www.newwhirlingschool.com/intro.php#essays)
@@ -203,10 +207,8 @@ Finally, some further essays and topics relating to Morrowind and religion:
 - [Religion in Computer Games](http://kau.diva-portal.org/smash/get/diva2:508317/FULLTEXT01.pdf), an essay by Jon Ode that explores the forms and implications of religion in games using Morrowind as the example
 - [A Treatise on the Subject of Daedra Worship](https://luke-a-fytch.itch.io/a-treatise-on-the-subject-of-daedra-worship), an essay by Luke A. Fytch that details the emergence of a new form of pop-culture paganism
 - [Prophecy, Pre-Destination, and Free-form Gameplay](https://heiup.uni-heidelberg.de/journals/index.php/religions/article/view/18512/12320), an essay by Angus Slater from the Heidelberg Journal of Religions on the Internet, Vol. 7, pg. 161 that explores the Nerevarine Prophecy's affect on gameplay
+- [A Game About Textual Interpretation](https://goingpewpew.com/2017/04/23/blog-post-title-3/), a blog post by Eric Farr that examines the role that text and language plays in the Elder Scrolls
 
-|"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
-|:-:|
-|![Tribunal](assets/images/fresco-256.png?raw=true "Tribunal")|
 
 ---
 
@@ -219,6 +221,12 @@ It's also very easy to convert formats using [pandoc](https://pandoc.org/):
 ```
 pandoc example.md --standalone --output example.pdf
 ```
+
+|"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
+|:-:|
+|![Tribunal](assets/images/fresco-256.png?raw=true "Tribunal")|
+
+---
 
 ## Final Words
 
