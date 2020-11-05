@@ -196,11 +196,13 @@ Collected and canonized texts are often reflective of the local temples and thei
 
 To learn more about Dunmer religion, have a look at the following resources:
 
+- [A Pocket Guide to the Empire: Morrowind](https://www.imperial-library.info/content/pocket-guide-empire-first-edition-morrowind), an outdated leaflet reflecting some historic racial views towards the Dunmer
 - [Fellowship of the Temple](https://en.uesp.net/wiki/Lore:Fellowship_of_the_Temple) (<span style="font-family:Daedric">daeljuha am daenthi</span>, *Daeljuha am Daenthi*), an introductory pamphlet on The Tribunal Temple (<span style="font-family:Daedric">as daenthi</span>, *As Daenthi*, lit., "the temple")
 - [Organization of the Temple](https://www.reddit.com/r/teslore/comments/1on7gw/a_short_introduction_to_the_tribunal_temple/)
 - [What is the Religious History of the Dunmer?](https://writteninuncertainty.com/podcast/dunmer-religion/)
 - [Dunmer Beliefs and Customs of the Dead](https://en.uesp.net/wiki/Lore:Death#Dunmer_Beliefs_and_Customs)
   - [The Doors of the Spirit](https://en.uesp.net/wiki/Lore:The_Doors_of_the_Spirit)
+  - [Blasphemous Revenants](https://en.uesp.net/wiki/Lore:Blasphemous_Revenants)
 - [The Metaphysics of Morrowind](https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/)
 - [The New Whirling School Commentary](https://www.newwhirlingschool.com), A major work-in-progress commentary on the 36 Lessons
   - [Intro to Terminology](https://www.newwhirlingschool.com/intro.php)
@@ -213,7 +215,6 @@ Finally, some further essays and topics relating to Morrowind and religion:
 - [A Treatise on the Subject of Daedra Worship](https://luke-a-fytch.itch.io/a-treatise-on-the-subject-of-daedra-worship), an essay by Luke A. Fytch that details the emergence of a new form of pop-culture paganism
 - [Prophecy, Pre-Destination, and Free-form Gameplay](https://heiup.uni-heidelberg.de/journals/index.php/religions/article/view/18512/12320), an essay by Angus Slater from the Heidelberg Journal of Religions on the Internet, Vol. 7, pg. 161 that explores the Nerevarine Prophecy's affect on gameplay
 - [A Game About Textual Interpretation](https://goingpewpew.com/2017/04/23/blog-post-title-3/), a blog post by Eric Farr that examines the role that text and language plays in the Elder Scrolls
-
 
 ---
 
@@ -239,9 +240,16 @@ Finally, GitHub has a [guide to publishing pages](https://guides.github.com/feat
 
 ## Final Words
 
-I'm no language expert and there's plenty I have not accounted for. The irreverent, more clinical emphasis of Telvanni culture has had an affect on the language. [Architecture plays a key role](https://ajmchugh.wordpress.com/2019/06/19/how-vivec-city-reinforces-morrowinds-politics/) in culture as well and it varies wildly between region. There is also something to be said of the similarities between the Dunmer and the [pre-Roman Celts](https://en.wikipedia.org/wiki/Insular_Celts).
+I'm no language expert and there's plenty I have not accounted for. The irreverent, more clinical emphasis of Telvanni culture has had an affect on the language. [Architecture plays a key role](https://ajmchugh.wordpress.com/2019/06/19/how-vivec-city-reinforces-morrowinds-politics/) in culture as well and it varies wildly between region. There is also the influence of [House Dres](https://en.uesp.net/wiki/Lore:House_Dres) and the practice of slavery throughout Dunmer culture as well as it's [eventual outlaw](https://www.imperial-library.info/content/pocket-guide-empire-third-edition-temple-morrowind#node-1966:~:text=outlawed%20slavery%20throughout%20Morrowind).
 
-There is a lot to be observed and discovered about Morrowind and I am barely scratching the surface as I write down what little I've learned. I don't intend for this to act as a primary source, but a quick point of reference.
+|The Twin-lamps light the way to freedom|
+|:-:|
+|As asc'aaf sincag as manidi de julgham|
+|<span style="font-family:Daedric">as asc'aaf sincag as manidi de julgham</span>|
+
+The series can [trace it's roots](https://rpg.stackexchange.com/questions/89399/is-morrowind-based-on-a-tabletop-rpg/89416) to [RuneQuest](https://en.wikipedia.org/wiki/RuneQuest), set in the world of [Glorantha](https://en.wikipedia.org/wiki/Glorantha). Besides the major world religions touched upon by the commentaries, Morrowind also saw influence from [Thelema](https://en.wikipedia.org/wiki/Thelema) and it's [Book of the Law](https://en.wikipedia.org/wiki/The_Book_of_the_Law). There is also something to be said of the similarities between the Dunmer and the [pre-Roman Celts](https://en.wikipedia.org/wiki/Insular_Celts).
+
+There is a lot to be observed and discovered about Morrowind and I am barely scratching the surface as I write down what little I've learned. I don't intend for this to act as a primary source, just a quick point of reference.
 
 Now go have fun, get into the spirit of things, and don't take anything too seriously!
 
