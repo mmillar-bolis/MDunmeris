@@ -222,6 +222,10 @@ It's also very easy to convert formats using [pandoc](https://pandoc.org/):
 pandoc example.md --standalone --output example.pdf
 ```
 
+Finally, GitHub has a [guide to publishing pages](https://guides.github.com/features/pages/) if you too would like to take your markdown and turn it into a website like this one.
+
+---
+
 |"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
 |:-:|
 |![Tribunal](assets/images/fresco-256.png?raw=true "Tribunal")|
