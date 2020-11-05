@@ -43,7 +43,7 @@ However, all you really need to get started is something like [Adam Pritchard's 
 
 ## ToolKit
 
-Markdown files are plaintext files with the extension, `.md`. As with HTML, any text editor, such as Notepad and TextEdit, can be used to create and edit markdown files. However, choosing a text editor that supports [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting) will make things significantly easier to read.
+Markdown files are plain-text files with the extension, `.md`. As with HTML, any text editor, such as Notepad and TextEdit, can be used to create and edit markdown files. However, choosing a text editor that supports [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting) will make things significantly easier to read.
 
 In addition to a text editor, one will also need a way to view rendered markdown. A few viewer applications exist as well as some browser plugins. However, many major code editors also incorporate some form of markdown viewer these days as well.
 
@@ -84,13 +84,13 @@ Adding a style tag to the beginning of your document will allow for adding some 
 </style>
 ```
 
-Optionally, if your markdown viewer does not allow for loading external fonts, you can convert the font to embeddable text using [base64](https://en.wikipedia.org/wiki/Base64) and then insert that into your tag. Below I have changed the source to load text data from the url path where *<BASE64_TEXT_CONTENTS>* is the ASCII conversion of a TrueType font:
+Optionally, if your markdown viewer does not allow for loading external fonts, you can convert the font to embeddable text using [base64](https://en.wikipedia.org/wiki/Base64) and then insert that into your tag. Below I have changed the source to load text data from the URL path where *<BASE64_TEXT_CONTENTS>* is the ASCII conversion of a TrueType font:
 
 ```html
     src: url(data:font/truetype;charset=utf-8;base64,<BASE64_TEXT_CONTENTS>) format('truetype');
 ```
 
-This will allow you to distribute a single, flat markdown file with fonts, similar to a `.pdf`. However, it is important to know that embedding fonts produces large text files, and these can be difficult to work with if not maintained. (For this project, I am only importing *loose* fonts.) In some rare cases, antiviral programs might regard embedded base64 as suspicious.
+This will allow you to distribute a single, flat markdown file with fonts, similar to a `.pdf`. However, it is important to know that embedding fonts produces large text files, and these can be difficult to work with if not maintained. (For this project, I am only importing *loose* fonts.) In some rare cases, antiviral programs might regard embedded Base64 as suspicious.
 
 Finally, you can render text in your Markdown body by wrapping it with a span tag that specifies the font by it's internal name (not filename):
 
@@ -111,7 +111,7 @@ All one really needs to get started is this handy [GitHub template](https://gith
 
 I have borrowed the [Ayembedt font](https://github.com/georgd/OpenMW-Fonts) created by Georg Duffner for [OpenMW](https://openmw.org). I have modified, and recompiled it into a smaller TrueType font using [FontForge](https://fontforge.org/en-US/downloads/).
 
-Both the compiled `.ttf` and the base64 rendering, as well as it's source code with the modifications I have made are available in the assets directory of the GitHub repo.
+Both the compiled `.ttf` and the Base64 rendering, as well as it's source code with the modifications I have made are available in the assets directory of the GitHub repo.
 
 ---
 
@@ -161,7 +161,7 @@ The central religious symbol of the Tribunal Temple (<span style="font-family:Da
 
 The word "ALMSIVI" is a *portmanteau* of the three individual names of the Tribunal godhead. However, the letters themselves are merely a roman rendering of the phonetic pronunciation of the Daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>, *ASV*.
 
-The word itself, literally unpronounceable by Dunmer, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The [blended form](http://www.gamesas.com/understanding-the-sermons-t346774.html#p4640584:~:text=is%20ehlnofex%20for) is simply the closest one can come to pronouncing a word in a divine language. Spelling each letter case as capital is a form of [reverential capitalization](https://en.wikipedia.org/wiki/Reverential_capitalization), a way of denoting that the word *itself* is holy or a title.
+The word itself, technically unpronounceable, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The [blended form](http://www.gamesas.com/understanding-the-sermons-t346774.html#p4640584:~:text=is%20ehlnofex%20for) is simply the closest one can come to pronouncing a word in a divine language. Spelling each letter case as capital is a form of [reverential capitalization](https://en.wikipedia.org/wiki/Reverential_capitalization), a way of denoting that the word *itself* is holy or a title.
 
 ###### In Daedric script, holy words are sometimes written in red. Specify the color in the span tag like so:
 ```html
