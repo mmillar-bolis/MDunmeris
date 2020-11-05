@@ -117,6 +117,8 @@ Both the compiled `.ttf` and the base64 rendering, as well as it's source code w
 
 ## Language Guidelines Used
 
+For starters, there is the excellent [Calligraphy Manual](https://forums.elderscrollsonline.com/en/discussion/265828/calligraphy-manual-daedric-alphabet-in-dunmeris), by Llevndryn Sershilavu. It explores the complex writing system of Morrowind and it's glyphs.
+
 The language dialect I have chosen for most of my translations is the continually expanding [Casual Dunmeris](https://casualscrolls.fandom.com/wiki/Dunmeri_language), so named because of the wiki it comes from: [Casual Scrolls](https://casualscrolls.fandom.com/). The forum's founder and the original publisher of the language, is [Matthew Knight](https://casualscrolls.fandom.com/wiki/User:Mknightretke).
 
 There is a lot of activity surrounding this dialect and it seems very well developed. When translating cultural adages of Morrowind, Casual Dunmeris rolls with off the tongue rather well.
@@ -133,11 +135,11 @@ The wiki itself is still being updated, revised, and expanded to suit the contin
 
 Following the [lineage of Ehlnofex languages](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages), one can see that Dunmeris is derived from Aldmeris. If anyone has further interest, for an additional translation guide, resource, and inspiration, there is a fascinating project to [document Aldmeris](https://tes-sandbox.fandom.com/wiki/Aldmeris_(Language)).
 
-In addition, there is also another dialect of Dunmeris, as documented by [HrafnirII](https://www.imperial-library.info/users/hrafnir-ii), called [Ald Redoranis](https://www.imperial-library.info/content/hrafnirs-languages-nordic#Dunmeris), which is notable for being from the fourth era.
+There are other dialects of Dunmeris as well. [Hrafnir II](https://www.imperial-library.info/users/hrafnir-ii) documents [Ald Redoranis](https://www.imperial-library.info/content/hrafnirs-languages-nordic#Dunmeris), a notable fourth era dialect. [Tarhiel](https://archiveofourown.org/users/tarhiel) writes about an Ashlander dialect called [Velothi](https://chameleonspell.tumblr.com/post/147090784528/ashlander-language-1-phonemes). Isfendil is recording the southern dialect of [Veki](https://conworkshop.com/view_language.php?l=DUNMR) Dunmeris.
 
-Since Casual Dunmeris is still new and developing, I have also taken to inventing words as the need arises, based on already available nouns and verbs that I smash together.
+Since Casual Dunmeris is ultimately still developing, I have also taken to inventing words as the need arises, based on already available nouns and verbs that I smash together. As a last resort, I might adapt an Aldmeri word if one exists.
 
-As the culture is *very* high-context, it seems proper that much of the language information appear implicit. Looking at examples such as the [Words of the Wind](https://en.uesp.net/wiki/Lore:Words_of_the_Wind) and [The Book of Dawn and Dusk](https://en.uesp.net/wiki/Lore:The_Book_of_Dawn_and_Dusk), I have also structured some phrases like prayers or poetry.
+As the culture is *very* high-context, it seems proper that much of the language information appear implicit. Looking at examples such as the [Words of the Wind](https://en.uesp.net/wiki/Lore:Words_of_the_Wind) and [The Book of Dawn and Dusk](https://en.uesp.net/wiki/Lore:The_Book_of_Dawn_and_Dusk), I have also structured some phrases to look like prayers or mantras.
 
 ---
 
