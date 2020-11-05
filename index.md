@@ -161,21 +161,21 @@ The central religious symbol of the Tribunal Faith is the depiction of the [Trio
 
 The word "ALMSIVI" is a *portmanteau* of the three individual names of the Tribunal godhead. However, the letters themselves are merely a roman rendering of the phonetic pronunciation of the Daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>, *ASV*.
 
-The word itself, literally unpronounceable by Dunmer, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The [blended form](http://www.gamesas.com/understanding-the-sermons-t346774.html#p4640584:~:text=is%20ehlnofex%20for) is simply the closest one can come to pronouncing a word in a divine language. Spelling each letter case as capital is a way of culturally denoting that the word *itself* is holy when uttered.
+The word itself, literally unpronounceable by Dunmer, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The [blended form](http://www.gamesas.com/understanding-the-sermons-t346774.html#p4640584:~:text=is%20ehlnofex%20for) is simply the closest one can come to pronouncing a word in a divine language. Spelling each letter case as capital is a form of [reverential capitalization](https://en.wikipedia.org/wiki/Reverential_capitalization), a way of denoting that the word *itself* is holy or a title.
 
-###### In Daedric script, holy words are written in red. Specify the color in the span tag like so:
+###### In Daedric script, holy words are sometimes written in red. Specify the color in the span tag like so:
 ```html
 <span style="font-family:Daedric; color:red">ASV</Span>
 ```
 
-Based on the textual examples that I have seen, it would appear that red is the honorific color that represents holy words or names when writing in the Daedric script. As a matter of propriety, I try to only highlight the names of the most renowned figures and only where it seems contextually appropriate to do so. When romanizing, it is best to stick to the system of [reverential capitalization](https://en.wikipedia.org/wiki/Reverential_capitalization), however your interpretation will probably vary.
+Based on [some](https://www.etsy.com/listing/223690247/the-tribunal-gods-of-morrowind-print) of the [examples](https://en.uesp.net/wiki/Category:Morrowind-Banner_Images) that I have seen, it would appear that red is an honorific color that sometimes represents holy names or powerful words when writing in the Daedric script. As a matter of propriety, I try to highlight sparingly and only where it seems contextually appropriate to do so.
 
 |ALMSIVI in every hour|
 |:-:|
 |ASV gher alni telsan|
 |<span style="font-family:Daedric;"> <span style="color:red">ASV</Span> gher alni telsan</span>|
 
-The fact that [words in Ehlnofex](https://en.uesp.net/wiki/Lore:CHIM) are fluid would support the custom that surrounds the Trigrammaton, concerning the centering of the Daedric character for the respective deity in their regions of worship.
+The fact that [words in Ehlnofex](https://en.uesp.net/wiki/Lore:CHIM) are fluid would support the custom that surrounds the Trigrammaton, concerning the centering of the Daedric character of the respective deity within their regions of worship.
 
 For example, in the Holy City of Vivec, ALMSIVI is rendered, \"<span style="font-family:Daedric; color:red">AVS</Span>,\" [*AVS*](https://en.uesp.net/wiki/Morrowind:Tribunal_Temple), while in the Holy Capitol of Mournhold, it is rendered \"<span style="font-family:Daedric; color:red">SAV</Span>,\" [*SAV*](https://en.uesp.net/wiki/Lore:Daedric_Alphabet#Morrowind). In all places, it is still pronounced the same.
 
@@ -247,9 +247,9 @@ I'm no language expert and there's plenty I have not accounted for. The irrevere
 |As asc'aaf sincag as manidi de julgham|
 |<span style="font-family:Daedric">as asc'aaf sincag as manidi de julgham</span>|
 
-The series can [trace it's roots](https://rpg.stackexchange.com/questions/89399/is-morrowind-based-on-a-tabletop-rpg/89416) to [RuneQuest](https://en.wikipedia.org/wiki/RuneQuest), set in the world of [Glorantha](https://en.wikipedia.org/wiki/Glorantha). Besides the major world religions touched upon by the commentaries, Morrowind also saw influence from [Thelema](https://en.wikipedia.org/wiki/Thelema) and it's [Book of the Law](https://en.wikipedia.org/wiki/The_Book_of_the_Law). There is also something to be said of the similarities between the Dunmer and the [pre-Roman Celts](https://en.wikipedia.org/wiki/Insular_Celts).
+The series can [trace it's roots](https://rpg.stackexchange.com/questions/89399/is-morrowind-based-on-a-tabletop-rpg/89416) to [RuneQuest](https://en.wikipedia.org/wiki/RuneQuest), set in the world of [Glorantha](https://en.wikipedia.org/wiki/Glorantha). Alongside Hinduism and Christianity, Morrowind also saw influence from [Thelema](https://en.wikipedia.org/wiki/Thelema) and it's [Book of the Law](https://en.wikipedia.org/wiki/The_Book_of_the_Law). There is something to be said of the similarities between the Dunmer and the [pre-Roman Celts](https://en.wikipedia.org/wiki/Insular_Celts) as well.
 
-There is a lot to be observed and discovered about Morrowind and I am barely scratching the surface as I write down what little I've learned. I don't intend for this to act as a primary source, just a quick point of reference.
+My point is that there is a lot to be observed and discovered about Morrowind and I am barely scratching the surface as I write down what little I've learned. I don't intend for this to act as any primary source, just a quick point of reference.
 
 Now go have fun, get into the spirit of things, and don't take anything too seriously!
 
