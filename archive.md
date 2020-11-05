@@ -18,7 +18,7 @@
 ---
 
 <center>
-<span style="font-family:Daedric">as dimihn am as edur <span style="color:red">ASV</span></span>
+<span style="font-family:Daedric">as dimihn am as lehjii edur <span style="color:red">ASV</span></span>
 </center>
 
 ---

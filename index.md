@@ -104,6 +104,11 @@ All one really needs to get started is this handy [GitHub template](https://gith
 
 ## About This Font
 
+|The Thrice-sealed House withstands the Storm|
+|:-:|
+|As cahnarurhili'ag'thil yalig as malroua|
+|<span style="font-family:Daedric">as cahnarurhili'ag'thil yalig as malroua</span>|
+
 I have borrowed the [Ayembedt font](https://github.com/georgd/OpenMW-Fonts) created by Georg Duffner for [OpenMW](https://openmw.org). I have modified, and recompiled it into a smaller TrueType font using [FontForge](https://fontforge.org/en-US/downloads/).
 
 Both the compiled `.ttf` and the base64 rendering, as well as it's source code with the modifications I have made are available in the assets directory of the GitHub repo.
@@ -243,7 +248,7 @@ Now go have fun, get into the spirit of things, and don't take anything too seri
 ---
 
 <center>
-<span style="font-family:Daedric">as dimihn am as edur <span style="color:red">ASV</span></span>
+<span style="font-family:Daedric">as dimihn am as lehjii edur <span style="color:red">ASV</span></span>
 </center>
 
 ---
