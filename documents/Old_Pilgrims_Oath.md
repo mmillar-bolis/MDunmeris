@@ -10,7 +10,7 @@
 ## The Old Pilgrim's Oath
 \
     I believe in ALMSIVI, Triune Grace:\
-        Almalexia, Sotha-Sil, and Vivec\
+        AYEM AE SEHTI AE VEHK\
     Who walked the earth,\
         defeated the Dunmer's greatest enemies,\
         and achieved divine substance.\
@@ -31,7 +31,7 @@
 ## Ald Gahduhnavenshik
 \
     Os nulfid ASV panthihn indkhes:\
-        Almalexia, Sotha'Sil, en Vivec\
+        AYEM AE SEHTI AE VEHK\
     Ku’or khosi'ath malath,\
         jigde'ath gah'moljuhn de dunmer,\
         en veyse'ath panthif muhrikam.\
@@ -52,7 +52,7 @@
 ## <span style="font-family:Daedric">ald gahduhnavenshik</Span>
 \
     <span style="font-family:Daedric">os nulfid <span style="color:red">ASV</Span> panthihn indkhes</Span></span>\
-        <span style="font-family:Daedric"><span style="color:red">Almalexia Sotha’sil</Span> en <span style="color:red">Vicec</Span></Span>\
+        <span style="font-family:Daedric;color:red">AYEM AE SEHTI AE VEHK</Span>\
     <span style="font-family:Daedric">ku’or khosi’ath malath</Span>\
         <span style="font-family:Daedric">jigde’ath gah’moljuhn de dunmer</Span>\
         <span style="font-family:Daedric">en veyse’ath panthif muhrikam</Span>\
