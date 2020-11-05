@@ -185,7 +185,7 @@ For a better understanding of the symbolic thought influencing this mysterious t
 
 ## Further Reading
 
-It seems relevant to have a look at [Earthsea](https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea) and it's use of [*Rumpelstiltskin theory*](https://sjaakvandergeest.socsci.uva.nl/pdf/anthropology_and_literature/rumpelskin.pdf) or the idea that [*True* words](https://en.wikipedia.org/wiki/True_name) may have power. There seems to be a [similar current](https://www.imperial-library.info/content/posts-kirkbride-undated#node-8393:~:text=On%20Vivec%20and%20Morrowind) present in many Tamrielic religions and languages.
+It seems relevant to have a look at [Earthsea](https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea) and it's use of [*Rumpelstiltskin theory*](https://sjaakvandergeest.socsci.uva.nl/pdf/anthropology_and_literature/rumpelskin.pdf) or the idea that [*True* words](https://en.wikipedia.org/wiki/True_name) may have power. There [seems to be](https://www.reddit.com/r/teslore/comments/1ptr0o/i_am_michael_kirkbride_ask_me_anything/cd5y2n5?utm_source=share&utm_medium=web2x&context=3) a [similar current](https://www.imperial-library.info/content/posts-kirkbride-undated#node-8393:~:text=On%20Vivec%20and%20Morrowind) present in many Tamrielic religions and languages. Alongside Hinduism and Christianity, Morrowind also saw influence from [Thelema](https://en.wikipedia.org/wiki/Thelema) and it's [Book of the Law](https://en.wikipedia.org/wiki/The_Book_of_the_Law).
 
 The Tribunal Faith and it's influence on Dunmer culture cannot be understated. The Temple has what can be considered an "[open canon](https://en.wikipedia.org/wiki/Biblical_canon#:~:text=In%20contrast%2C%20an%20%22open%20canon,their%20respective%20faiths%20and%20denominations.)" of scriptures which have evolved over time and region to include many texts. Some of the most seminal works include:
 - [The Homilies of Blessed Almalexia](https://en.uesp.net/wiki/Lore:Homilies_of_Blessed_Almalexia) (<span style="font-family:Daedric">as malyudhardii</span>, As Malyudhardii, lit., "the homilies")
@@ -204,6 +204,7 @@ To learn more about Dunmer religion, have a look at the following resources:
   - [The Doors of the Spirit](https://en.uesp.net/wiki/Lore:The_Doors_of_the_Spirit)
   - [Blasphemous Revenants](https://en.uesp.net/wiki/Lore:Blasphemous_Revenants)
 - [The Metaphysics of Morrowind](https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/)
+- [The Oghma Infinium](https://en.uesp.net/wiki/Lore:Oghma_Infinium), which depicts the Aurbis and the Enantiomorph
 - [The New Whirling School Commentary](https://www.newwhirlingschool.com), A major work-in-progress commentary on the 36 Lessons
   - [Intro to Terminology](https://www.newwhirlingschool.com/intro.php)
   - [Exploratory Essays](https://www.newwhirlingschool.com/intro.php#essays)
@@ -240,14 +241,14 @@ Finally, GitHub has a [guide to publishing pages](https://guides.github.com/feat
 
 ## Final Words
 
-I'm no language expert and there's plenty I have not accounted for. The irreverent, more clinical emphasis of Telvanni culture has had an affect on the language. [Architecture plays a key role](https://ajmchugh.wordpress.com/2019/06/19/how-vivec-city-reinforces-morrowinds-politics/) in culture as well and it varies wildly between region. There is also the influence of [House Dres](https://en.uesp.net/wiki/Lore:House_Dres) and the practice of slavery throughout Dunmer culture as well as it's [eventual outlaw](https://www.imperial-library.info/content/pocket-guide-empire-third-edition-temple-morrowind#node-1966:~:text=outlawed%20slavery%20throughout%20Morrowind).
+I'm no language expert and there's plenty I have not accounted for. The irreverent, more clinical emphasis of Telvanni subculture has had an affect on the language. [Architecture plays a key role](https://ajmchugh.wordpress.com/2019/06/19/how-vivec-city-reinforces-morrowinds-politics/) in Dunmer expression as well and it varies wildly between regions. There is also the influence of [House Dres](https://en.uesp.net/wiki/Lore:House_Dres) and the practice of slavery throughout Morrowind, as well as it's [eventual ban](https://www.imperial-library.info/content/pocket-guide-empire-third-edition-temple-morrowind#node-1966:~:text=outlawed%20slavery%20throughout%20Morrowind).
 
 |The Twin-lamps light the way to freedom|
 |:-:|
 |As asc'aaf sincag as manidi de julgham|
 |<span style="font-family:Daedric">as asc'aaf sincag as manidi de julgham</span>|
 
-The series can [trace it's roots](https://rpg.stackexchange.com/questions/89399/is-morrowind-based-on-a-tabletop-rpg/89416) to [RuneQuest](https://en.wikipedia.org/wiki/RuneQuest), set in the world of [Glorantha](https://en.wikipedia.org/wiki/Glorantha). Alongside Hinduism and Christianity, Morrowind also saw influence from [Thelema](https://en.wikipedia.org/wiki/Thelema) and it's [Book of the Law](https://en.wikipedia.org/wiki/The_Book_of_the_Law). There is something to be said of the similarities between the Dunmer and the [pre-Roman Celts](https://en.wikipedia.org/wiki/Insular_Celts) as well.
+The series can [trace it's roots](https://rpg.stackexchange.com/questions/89399/is-morrowind-based-on-a-tabletop-rpg/89416) to [RuneQuest](https://en.wikipedia.org/wiki/RuneQuest), set in the world of [Glorantha](https://en.wikipedia.org/wiki/Glorantha). There is something to be said of the similarities between the Dunmer and the [pre-Roman Celts](https://en.wikipedia.org/wiki/Insular_Celts) as well.
 
 My point is that there is a lot to be observed and discovered about Morrowind and I am barely scratching the surface as I write down what little I've learned. I don't intend for this to act as any primary source, just a quick point of reference.
 
