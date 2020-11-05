@@ -51,7 +51,7 @@
 
 ## <span style="font-family:Daedric">ald gahduhnavenshik</Span>
 \
-    <span style="font-family:Daedric">os nulfid <span style="color:red">ASV</Span> panthihn indkhes</Span></span>\
+    <span style="font-family:Daedric">os nulfid <span style="color:red">ASV</Span> panthihn indkhes</Span>\
         <span style="font-family:Daedric;color:red">AYEM AE SEHTI AE VEHK</Span>\
     <span style="font-family:Daedric">ku’or khosi’ath malath</Span>\
         <span style="font-family:Daedric">jigde’ath gah’moljuhn de dunmer</Span>\
@@ -68,7 +68,7 @@
     <span style="font-family:Daedric">en tifur opulidi de nulfyr en thil en gaharihn</Span>\
         <span style="font-family:Daedric">en muhrjil juli</Span>\
 \
-    <span style="font-family:Daedric">julrishi <span style="color:red">ASV</Span> sunna muhri asuhm deif ammu</Span></span>
+    <span style="font-family:Daedric">julrishi <span style="color:red">ASV</Span> sunna muhri asuhm deif ammu</Span>
 
 #### Credits:
 
