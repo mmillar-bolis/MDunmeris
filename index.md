@@ -195,7 +195,7 @@ The Tribunal Faith and it's influence on Dunmer culture cannot be understated. T
 
 Collected and canonized texts are often reflective of the local temples and their communities.
 
-To learn more about Dunmer religion, have a look at the following resources:
+To learn more about Dunmer culture, have a look at the following resources:
 
 - [A Pocket Guide to the Empire: Morrowind](https://www.imperial-library.info/content/pocket-guide-empire-first-edition-morrowind), an outdated leaflet reflecting some historic racial views towards the Dunmer
 - [Fellowship of the Temple](https://en.uesp.net/wiki/Lore:Fellowship_of_the_Temple) (<span style="font-family:Daedric">daeljuha am as daenthi</span>, *Daeljuha am As Daenthi*), an introductory pamphlet on The Tribunal Temple
@@ -210,8 +210,9 @@ To learn more about Dunmer religion, have a look at the following resources:
   - [Intro to Terminology](https://www.newwhirlingschool.com/intro.php)
   - [Exploratory Essays](https://www.newwhirlingschool.com/intro.php#essays)
 - [Jerome's Short Commentary](https://jeromeiv-blog.tumblr.com/post/19934786003/sermon-1-of-36-lessons-of-vivec-dissection), incomplete but venerably covers the first six chapters of the 36 Lessons
+- [La symbolique de l'alphabet daedrique](https://arador-dayn.fr/viewtopic.php?f=16&t=449), *The symbolism of the Daedric alphabet*
 
-Finally, some further essays and topics relating to Morrowind and religion:
+Finally, some further essays and topics relating to Morrowind:
 
 - [Religion in Computer Games](http://kau.diva-portal.org/smash/get/diva2:508317/FULLTEXT01.pdf), an essay by Jon Ode that explores the forms and implications of religion in games using Morrowind as the example
 - [A Treatise on the Subject of Daedra Worship](https://luke-a-fytch.itch.io/a-treatise-on-the-subject-of-daedra-worship), an essay by Luke A. Fytch that details the emergence of a new form of pop-culture paganism
