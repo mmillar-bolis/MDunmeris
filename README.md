@@ -29,13 +29,13 @@ Want to skip the article and jump right in to creating and translating documents
 
 If you are unfamiliar with [John Gruber](https://daringfireball.net/projects/markdown/) and [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)'s Markdown language, [have a look at it](https://www.markdownguide.org/getting-started/).
 
-Markdown is a text formatting language that translates to strict HTML. The central focus and reason for the language is to store source text in the most human readable fashion possible but still be able to render it with more ritch HTML.
+Markdown is a text formatting language that translates to strict HTML. The central focus and reason for the language is to store source text in the most human readable fashion possible but still be able to render it with formatted HTML.
 
 Aside from the [Reference Specification](https://daringfireball.net/projects/markdown/), there are other slightly different dialects as well such as, [GitHub Flavored Markdown](https://github.github.com/gfm/) and [Pandoc Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown).
 
 However, all you really need to get started is something like [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-*Could* one do all this with Word instead? Of course! However, one would need to have an office suite installed to their system. If that setup fit's your workflow, more power to you. This project is mostly focused on using plaintext editors instead of ritch office ones.
+*Could* one do all this with Word instead? Of course! However, one would need to have an office suite installed to their system. If that setup fit's your workflow, more power to you. This project is mostly focused on using plaintext editors instead of rich office ones.
 
 ---
 
