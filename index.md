@@ -13,8 +13,8 @@ Markdown is a plain-text language that makes writing formatted documents very ea
 
 |Three blessings, sera|Walk with virtue|Why walk when you can ride?|
 |:-:|:-:|:-:|
-|Cahn'shoksunaa sera|Kosi enhi julopum|Ju'it khosi ku'elm ohn duhnanich?
-|<span style="font-family:Daedric">cahn’shoksunaa sera</span>|<span style="font-family:Daedric">kosi enhi julopum</span>|<span style="font-family:Daedric">ju'it khosi ku'elm ohn duhnanich</span>
+|Cahn'shoksunaa sera|Khosi enhi julopum|Ju'it khosi ku'elm ohn duhnanich?
+|<span style="font-family:Daedric">cahn’shoksunaa sera</span>|<span style="font-family:Daedric">khosi enhi julopum</span>|<span style="font-family:Daedric">ju'it khosi ku'elm ohn duhnanich</span>
 
 
 ##### Quick Info:
