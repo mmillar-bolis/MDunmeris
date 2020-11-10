@@ -26,11 +26,11 @@
     And in duty to faith, family, masters,\
         and all that is good.\
 \
-    Praise ALMSIVI, Blessed be Their Holy Names.
+    The Ending of the Words, ALMSIVI.
 
 ## Ald Gahduhnavenshik
 \
-    Os nulfid ASV panthihn indkhes:\
+    Os nulfid ASV, panthihn indkhes:\
         AYEM AE SEHTI AE VEHK\
     Ku’or khosi'ath malath,\
         jigde'ath gah'moljuhn de dunmer,\
@@ -47,7 +47,7 @@
     en tifur opulidi de nulfyr en thil en gaharihn,\
         en muhrjil juli.\
 \
-    Julrishi ASV, Sunna muhri asuhm deif ammu.
+    As dimihn am as lehjii, <span style="color:red">ASV</span>.
 
 ## <span style="font-family:Daedric">ald gahduhnavenshik</Span>
 \
@@ -68,7 +68,7 @@
     <span style="font-family:Daedric">en tifur opulidi de nulfyr en thil en gaharihn</Span>\
         <span style="font-family:Daedric">en muhrjil juli</Span>\
 \
-    <span style="font-family:Daedric">julrishi <span style="color:red">ASV</Span> sunna muhri asuhm deif ammu</Span>
+    <span style="font-family:Daedric">jas dimihn am as lehjii, <span style="color:red">ASV</span></Span>
 
 #### Credits:
 

@@ -119,7 +119,7 @@ Head to [MDunmeris github.io](https://mmillar-bolis.github.io/MDunmeris/) page t
 
 ---
 
-|As dimihn am as lehjii edur ASV|
+|As dimihn am as lehjii, ASV|
 |:-:|
 
 ---
