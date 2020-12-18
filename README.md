@@ -12,7 +12,7 @@ Markdown is a plain-text language that makes writing formatted documents very ea
 
 Note: *GitHub's ReadMe view will not load custom fonts. Please use* [github.io](https://mmillar-bolis.github.io/MDunmeris/) *for more about Dunmeris and the Daedric script.*
 
-|![Triolith](assets/images/triolith-256.png?raw=true "Triolith")|
+|![Trigon](assets/images/symbols/trigon_ghartok-256.png?raw=true "Trigon")|
 |:-:|
 
 ##### Quick Info:
