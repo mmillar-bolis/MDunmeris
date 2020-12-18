@@ -145,37 +145,37 @@ As the culture is *very* high-context, it seems proper that much of the language
 
 ## Religion and Morrowind
 
-|Ghartok Triolith|
+|Ghartok Trigon|
 |:-:|
-|![Triolith](assets/images/triolith-256.png?raw=true "Triolith")|
+|![Trigon](assets/images/symbols/trigon_ghartok-256.png?raw=true "Trigon")|
 
 ---
 
-## About the Triolith Symbol
+## About the Trigonic Symbol
 
-The central religious symbol of the Tribunal Temple (<span style="font-family:Daedric">as daenthi</span>, *As Daenthi*, lit., "the temple") faith is the depiction of the [Triolith](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-05-22-11-21/Lessons4.jpg/EG11/resize/690x-1/quality/75/format/jpg), represented as an inverse triangle with Daedric glyphs in each corner, spelling *ASV*. However, it can also be common to see variants of this symbol such as the above [Ghartok Triolith](https://www.imperial-library.info/content/forum-archives-michael-kirkbride#node-2865:~:text=What%20does%20%22GHARTOK%22%20mean%3F) which depicts the [hand of Mephala](https://en.uesp.net/wiki/Lore:36_Lessons_of_Vivec,_Sermon_11#genWhiteText:~:text=black%20hands), the [Imperial Triolith](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the [Seal of Akatosh](https://en.uesp.net/wiki/Lore:Akavir), and more recently, the [Nerevarine Triolith](https://media.moddb.com/images/articles/1/154/153713/2ik4pc5.jpg.png) depicting [Moon-and-Star](https://en.uesp.net/wiki/Lore:Moon-and-Star) at it's center.
+The central religious symbol of the Tribunal Temple (<span style="font-family:Daedric">as daenthi</span>, *As Daenthi*, lit., "the temple") faith is the depiction of the [Trigon](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-05-22-11-21/Lessons4.jpg/EG11/resize/690x-1/quality/75/format/jpg). A [representation](https://en.uesp.net/wiki/File:SR-book-Oghma_Infinium_2.png) of the [Enantiomorph](https://elderscrolls.fandom.com/wiki/Enantiomorph), the symbol is an inverse triangle with Daedric glyphs in each corner, spelling *ASV*. However, it can also be common to see variants of this symbol such as the above [Ghartok Trigon](https://www.imperial-library.info/content/forum-archives-michael-kirkbride#node-2865:~:text=What%20does%20%22GHARTOK%22%20mean%3F) which depicts the [hand of Mephala](https://en.uesp.net/wiki/Lore:36_Lessons_of_Vivec,_Sermon_11#genWhiteText:~:text=black%20hands), the [Imperial Trigon](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the [Seal of Akatosh](https://en.uesp.net/wiki/Lore:Akavir), and more recently, the [Nerevarine Trigon](https://media.moddb.com/images/articles/1/154/153713/2ik4pc5.jpg.png) depicting [Moon-and-Star](https://en.uesp.net/wiki/Lore:Moon-and-Star) at it's center.
 
 ---
 
 ## About the Trigrammaton
 
-The word "ALMSIVI" is a *portmanteau* of the three individual names of the Tribunal godhead. However, the letters themselves are merely a roman rendering of the phonetic pronunciation of the Daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>, *ASV*.
+The word "ALMSIVI" is a *portmanteau* of the three individual names of the Tribunal godhead. However, the letters themselves are merely a roman rendering of the phonetic pronunciation of the Daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>, [*A - S - V*](https://en.uesp.net/wiki/Lore:The_36_Lessons_of_Vivec#Sermon_One).
 
-The word itself, technically unpronounceable, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The [blended form](http://www.gamesas.com/understanding-the-sermons-t346774.html#p4640584:~:text=is%20ehlnofex%20for) is simply the closest one can come to pronouncing a word in a divine language. Spelling each letter case as capital is a form of [reverential capitalization](https://en.wikipedia.org/wiki/Reverential_capitalization), a way of denoting that the word *itself* is holy or a title.
+The word itself, technically unpronounceable, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The [blended form](http://www.gamesas.com/understanding-the-sermons-t346774.html#p4640584:~:text=is%20ehlnofex%20for), *almsivi*, is simply the closest one can come to pronouncing a word in a divine language. Spelling each letter case as capital is a form of [reverential capitalization](https://en.wikipedia.org/wiki/Reverential_capitalization), a way of denoting that the word *itself* is holy or an honorific title.
 
 ###### In Daedric script, holy words are sometimes written in red. Specify the color in the span tag like so:
 ```html
 <span style="font-family:Daedric; color:red">ASV</Span>
 ```
 
-Based on [some](https://www.etsy.com/listing/223690247/the-tribunal-gods-of-morrowind-print) of the [examples](https://en.uesp.net/wiki/Category:Morrowind-Banner_Images) that I have seen, it would appear that red is an honorific color that sometimes represents holy names or powerful words when writing in the Daedric script. As a matter of propriety, I try to highlight sparingly and only where it seems contextually appropriate to do so.
+Based on [some](https://www.etsy.com/listing/223690247/the-tribunal-gods-of-morrowind-print) of the [examples](https://en.uesp.net/wiki/Category:Morrowind-Banner_Images) that I have seen, it would appear that red is an honorific color that may represent holy names, powerful words, or strong emphasis, when writing in the Daedric script. As a matter of propriety, I try to highlight sparingly and only where it seems contextually appropriate to do so.
 
 |ALMSIVI in every hour|
 |:-:|
 |ASV gher alni telsan|
 |<span style="font-family:Daedric;"> <span style="color:red">ASV</Span> gher alni telsan</span>|
 
-The fact that [words in Ehlnofex](https://en.uesp.net/wiki/Lore:CHIM) are fluid would support the custom that surrounds the Trigrammaton, concerning the centering of the Daedric character of the respective deity within their regions of worship.
+[Words in Ehlnofex](https://en.uesp.net/wiki/Lore:CHIM) are represented by [sigils](https://en.wikipedia.org/wiki/Sigil) that move with fluidity and do not necessarily follow a left-to-right order that the Daedric script does. It is often the case that the Trigrammaton is written in the order that most Dunmer pronounce it. However, there are strong cultural customs surrounding the arrangement of these Daedric characters. In particular geographic locations, it can be observed that the center glyph points to a particular deity of devotion. Generally, the arrangement follows a pattern of rotating the order of glyphs on the Trigon such that the favored deity is on the bottom point, then collapsing those characters ont a single line.
 
 For example, in the Holy City of Vivec, ALMSIVI is rendered, \"<span style="font-family:Daedric; color:red">AVS</Span>,\" [*AVS*](https://en.uesp.net/wiki/Morrowind:Tribunal_Temple), while in the Holy Capitol of Mournhold, it is rendered \"<span style="font-family:Daedric; color:red">SAV</Span>,\" [*SAV*](https://en.uesp.net/wiki/Lore:Daedric_Alphabet#Morrowind). In all places, it is still pronounced the same.
 
@@ -237,7 +237,7 @@ Finally, GitHub has a [guide to publishing pages](https://guides.github.com/feat
 
 |"ALMSIVI", fresco by [Tyddyner](https://tyddyner.tumblr.com/) \[[1](https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover), [2](https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one), [3](https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet)\]|
 |:-:|
-|![Tribunal](assets/images/fresco-256.png?raw=true "Tribunal")|
+|![Tribunal](assets/images/frescos/fresco_tribunal-256.png?raw=true "Tribunal")|
 
 ---
 
