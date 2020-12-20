@@ -20,3 +20,6 @@ Lyrics by Luther Weiser\
 Translation by [Will Jordan](https://soundcloud.com/smitehammer)\
 Soundcloud of [Liz Katrin \(Katarzyna Bonikowska\)](https://soundcloud.com/liz-katrin/hortator-skywind)\
 Skywind Soundtrack by [Fredrik Jonasson](https://jonassonfredrik.bandcamp.com)
+
+---
+
