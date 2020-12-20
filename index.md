@@ -84,7 +84,7 @@ Adding a style tag to the beginning of your document will allow for adding some 
 </style>
 ```
 
-Optionally, if your markdown viewer does not allow for loading external fonts, you can convert the font to embeddable text using [base64](https://en.wikipedia.org/wiki/Base64) and then insert that into your tag. Below I have changed the source to load text data from the URL path where *<BASE64_TEXT_CONTENTS>* is the ASCII conversion of a TrueType font:
+Optionally, if your markdown viewer does not allow for loading external fonts, you can convert the font to embeddable text using [Base64](https://en.wikipedia.org/wiki/Base64) and then insert that into your tag. Below I have changed the source to load text data from the URL path where *<BASE64_TEXT_CONTENTS>* is the ASCII conversion of a TrueType font:
 
 ```html
     src: url(data:font/truetype;charset=utf-8;base64,<BASE64_TEXT_CONTENTS>) format('truetype');
@@ -153,15 +153,47 @@ As the culture is *very* high-context, it seems proper that much of the language
 
 ## About the Trigonic Symbol
 
-The central religious symbol of the Tribunal Temple (<span style="font-family:Daedric">as daenthi</span>, *As Daenthi*, lit., "the temple") faith is the depiction of the [Trigon](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-05-22-11-21/Lessons4.jpg/EG11/resize/690x-1/quality/75/format/jpg). A [representation](https://en.uesp.net/wiki/File:SR-book-Oghma_Infinium_2.png) of the [Enantiomorph](https://elderscrolls.fandom.com/wiki/Enantiomorph), the symbol is an inverse triangle with Daedric glyphs in each corner, spelling *ASV*. However, it can also be common to see variants of this symbol such as the above [Ghartok Trigon](https://www.imperial-library.info/content/forum-archives-michael-kirkbride#node-2865:~:text=What%20does%20%22GHARTOK%22%20mean%3F) which depicts the [hand of Mephala](https://en.uesp.net/wiki/Lore:36_Lessons_of_Vivec,_Sermon_11#genWhiteText:~:text=black%20hands), the [Imperial Trigon](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the [Seal of Akatosh](https://en.uesp.net/wiki/Lore:Akavir), and more recently, the [Nerevarine Trigon](https://media.moddb.com/images/articles/1/154/153713/2ik4pc5.jpg.png) depicting [Moon-and-Star](https://en.uesp.net/wiki/Lore:Moon-and-Star) at it's center.
+The central religious symbol of the Tribunal Temple (<span style="font-family:Daedric">as daenthi</span>, *As Daenthi*, lit., "the temple") faith is the depiction of the [Trigon](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-05-22-11-21/Lessons4.jpg/EG11/resize/690x-1/quality/75/format/jpg). A [representation](https://en.uesp.net/wiki/File:SR-book-Oghma_Infinium_2.png) of the [Enantiomorph](https://elderscrolls.fandom.com/wiki/Enantiomorph), this symbol is an inverse triangle with Daedric glyphs in each corner, which if read clockwise, spell *ASV*. However, it can also be common to see variants of this symbol such as the above [Ghartok Trigon](https://www.imperial-library.info/content/forum-archives-michael-kirkbride#node-2865:~:text=What%20does%20%22GHARTOK%22%20mean%3F) which depicts the [Hand of Mephala](https://en.uesp.net/wiki/Lore:36_Lessons_of_Vivec,_Sermon_11#genWhiteText:~:text=black%20hands) at the center, or the [Imperial Trigon](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the [Seal of Akatosh](https://en.uesp.net/wiki/Lore:Akavir), and more recently, the [Nerevarine Trigon](https://media.moddb.com/images/articles/1/154/153713/2ik4pc5.jpg.png) depicting the [Moon-and-Star](https://en.uesp.net/wiki/Lore:Moon-and-Star) at it's center.
 
 ---
 
 ## About the Trigrammaton
 
-The word "ALMSIVI" is a *portmanteau* of the three individual names of the Tribunal godhead. However, the letters themselves are merely a roman rendering of the phonetic pronunciation of the Daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>, [*A - S - V*](https://en.uesp.net/wiki/Lore:The_36_Lessons_of_Vivec#Sermon_One).
+The word "ALMSIVI" is a *portmanteau* of the three individual names of the [Tribunal godhead](https://en.uesp.net/wiki/Lore:Gods_T#Tribunal). However, the letters themselves are merely a roman rendering of the phonetic pronunciation of the Daedric glyphs, <span style="font-family:Daedric; color:red">ASV</Span>, [*A-S-V*](https://en.uesp.net/wiki/Lore:The_36_Lessons_of_Vivec#Sermon_One).
 
 The word itself, technically unpronounceable, comes from [Ehlnofex](https://en.uesp.net/wiki/Lore:Ehlnofex_Languages). The [blended form](http://www.gamesas.com/understanding-the-sermons-t346774.html#p4640584:~:text=is%20ehlnofex%20for), *almsivi*, is simply the closest one can come to pronouncing a word in a divine language. Spelling each letter case as capital is a form of [reverential capitalization](https://en.wikipedia.org/wiki/Reverential_capitalization), a way of denoting that the word *itself* is holy or an honorific title.
+
+|ALMSIVI in every hour|
+|:-:|
+|ASV gher alni telsan|
+|<span style="font-family:Daedric;"> <span style="color:red">ASV</Span> gher alni telsan</span>|
+
+[Words in Ehlnofex](https://en.uesp.net/wiki/Lore:CHIM) are represented by [sigils](https://en.wikipedia.org/wiki/Sigil) that move with fluidity and do not necessarily follow a left-to-right order that the Daedric script does. It is often the case that the Trigrammaton is written in the *neutral* order, the way that most Dunmer pronounce it. However, there are strong cultural customs surrounding the arrangement of these characters. In particular geographic locations, it can be observed that the center glyph points to a particular deity of devotion. Generally, the arrangement follows a pattern of rotating the order of glyphs on the Trigon such that the favored deity is on the bottom point, then collapsing those characters into a single line.
+
+For example, in the city of Vivec, ALMSIVI is rendered, \"<span style="font-family:Daedric; color:red">AVS</Span>,\" [*A-V-S*](https://en.uesp.net/wiki/Morrowind:Tribunal_Temple), while in the capitol of Mournhold, it is rendered \"<span style="font-family:Daedric; color:red">SAV</Span>,\" [*S-A-V*](https://en.uesp.net/wiki/Lore:Daedric_Alphabet#Morrowind:~:text=In%20Mournhold%2C%20Almalexia%20gets%20top%20billing). In all places, it is still pronounced the same.
+
+For a better understanding of the symbolic thought this mysterious three letter word, see the [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton). In addition, many draw allusions to the Christian concept of [Alpha and Omega](https://en.wikipedia.org/wiki/Alpha_and_Omega). However, that metaphore is derived from an earlier one, the Hebrew word [emet](https://en.wikipedia.org/wiki/Alpha_and_Omega#Judaism) which means *truth* and is spelled with the beginning, middle, and ending letters of the [Hebrew alphabet](https://en.wikipedia.org/wiki/Hebrew_alphabet), *alef*, *mem*, and *tav*.
+
+But why write it as *almsivi*? Aside from the fact that it rolls of the tongue better and is a more obvious mashup of the three names of the gods to english readers, there is a significant [numerological](https://en.wikipedia.org/wiki/Numerology) aspect to adding the extra letters, bringing it to [seven](https://en.wikipedia.org/wiki/Symbolism_of_the_number_7) in length. This also gives it the same length as the amount of sylables found in the Ehlnofex phrase from which it is derived, [AYEM AE SEHTI AE VEHK](https://en.uesp.net/wiki/Morrowind:36_Lessons_of_Vivec,_Sermon_1#genWhiteText:~:text=AYEM%20AE%20SEHTI%20AE%20VEHK), or *A is S is V*. It's the sum of 3 + 4, considered in many religious cultures to represent some form of [sacred and material numbers](https://www.jstor.org/stable/658538), respectively. This fits well within the dunmer model of the three [Anticipations](https://en.uesp.net/wiki/Lore:The_Anticipations) and the four members of the [House of Troubles](https://en.uesp.net/wiki/Lore:The_House_of_Troubles), though this hints at even deeper metaphor and entendre behind the word-choice.
+
+Seven is also a prime number input for calculating [perfect numbers](https://en.wikipedia.org/wiki/Perfect_number), which break down into a sum of positive [factors](https://en.wikipedia.org/wiki/Factorization), not including the number itself.
+
+| Equation | Result |
+|:--------:|:------:|
+|   1 * 6  |   6    |
+|   2 * 3  |   6    |
+|   3 * 2  |   6    |
+|   6 * 1  |   6    |
+
+So the perfect number `6` would then be derived from adding `1`,`2`, and `3`:
+
+|  Equation | Result |
+|:---------:|:------:|
+| 1 + 2 + 3 |   6    |
+
+The philosopher and mathematician [Euclid](https://en.wikipedia.org/wiki/Euclid) is credited with coming up with a [theorem](https://en.wikipedia.org/wiki/Euclid%E2%80%93Euler_theorem) that perfect numbers must be derived from primes following the equation 2&#8319;&#8315;&sup1;(2&#8319; - 1) where &#8319; is a prime number. So for &#8319; = 7 the equation would be 2&#8310;(2&#8311; - 1) resulting in the perfect number, [8128](https://en.wikipedia.org/wiki/8128_(number)) which is a [triangular number](https://en.wikipedia.org/wiki/Triangular_number). It's also the result of [64](https://en.wikipedia.org/wiki/64_(number)) * [127](https://en.wikipedia.org/wiki/127_(number)). The number 64 has seven factors and is a [centered triangular number](https://en.wikipedia.org/wiki/Centered_triangular_number) while the number 127 is a [Mersenne prime](https://en.wikipedia.org/wiki/Mersenne_prime) and a [centered hexagonal number](https://en.wikipedia.org/wiki/Centered_hexagonal_number).
+
+Another way of thinking about it as a related motif is that in a system where the number One is akin to God, Two is evenness, and Three is pivotal balance, Seven is a number that signifies cyclical completeness.
 
 ###### In Daedric script, holy words are sometimes written in red. Specify the color in the span tag like so:
 ```html
@@ -169,17 +201,6 @@ The word itself, technically unpronounceable, comes from [Ehlnofex](https://en.u
 ```
 
 Based on [some](https://www.etsy.com/listing/223690247/the-tribunal-gods-of-morrowind-print) of the [examples](https://en.uesp.net/wiki/Category:Morrowind-Banner_Images) that I have seen, it would appear that red is an honorific color that may represent holy names, powerful words, or strong emphasis, when writing in the Daedric script. As a matter of propriety, I try to highlight sparingly and only where it seems contextually appropriate to do so.
-
-|ALMSIVI in every hour|
-|:-:|
-|ASV gher alni telsan|
-|<span style="font-family:Daedric;"> <span style="color:red">ASV</Span> gher alni telsan</span>|
-
-[Words in Ehlnofex](https://en.uesp.net/wiki/Lore:CHIM) are represented by [sigils](https://en.wikipedia.org/wiki/Sigil) that move with fluidity and do not necessarily follow a left-to-right order that the Daedric script does. It is often the case that the Trigrammaton is written in the order that most Dunmer pronounce it. However, there are strong cultural customs surrounding the arrangement of these Daedric characters. In particular geographic locations, it can be observed that the center glyph points to a particular deity of devotion. Generally, the arrangement follows a pattern of rotating the order of glyphs on the Trigon such that the favored deity is on the bottom point, then collapsing those characters ont a single line.
-
-For example, in the Holy City of Vivec, ALMSIVI is rendered, \"<span style="font-family:Daedric; color:red">AVS</Span>,\" [*AVS*](https://en.uesp.net/wiki/Morrowind:Tribunal_Temple), while in the Holy Capitol of Mournhold, it is rendered \"<span style="font-family:Daedric; color:red">SAV</Span>,\" [*SAV*](https://en.uesp.net/wiki/Lore:Daedric_Alphabet#Morrowind). In all places, it is still pronounced the same.
-
-For a better understanding of the symbolic thought influencing this mysterious three letter word, see the [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton).
 
 ---
 

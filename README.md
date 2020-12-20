@@ -41,7 +41,7 @@ However, all you really need to get started is something like [Adam Pritchard's 
 
 ## ToolKit
 
-Markdown files are plaintext files with the extension, `.md`. As with HTML, any text editor, such as Notepad and TextEdit, can be used to create and edit markdown files. However, choosing a text editor that supports [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting) will make things significantly easier to read.
+Markdown files are plain-text files with the extension, `.md`. As with HTML, any text editor, such as Notepad and TextEdit, can be used to create and edit markdown files. However, choosing a text editor that supports [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting) will make things significantly easier to read.
 
 In addition to a text editor, one will also need a way to view rendered markdown. A few viewer applications exist as well as some browser plugins. However, many major code editors also incorporate some form of markdown viewer these days as well.
 
@@ -82,7 +82,7 @@ Adding a style tag to the beginning of your document will allow for adding some 
 </style>
 ```
 
-Optionally, if your markdown viewer does not allow for loading external fonts, you can convert the font to embeddable text using [base64](https://en.wikipedia.org/wiki/Base64) and then insert that into your tag. Below I have changed the source to load text data from the url path where *<BASE64_TEXT_CONTENTS>* is the ASCII conversion of a TrueType font:
+Optionally, if your markdown viewer does not allow for loading external fonts, you can convert the font to embeddable text using [Base64](https://en.wikipedia.org/wiki/Base64) and then insert that into your tag. Below I have changed the source to load text data from the URL path where *<BASE64_TEXT_CONTENTS>* is the ASCII conversion of a TrueType font:
 
 ```html
 <style>
@@ -95,7 +95,7 @@ Optionally, if your markdown viewer does not allow for loading external fonts, y
 </style>
 ```
 
-This will allow you to distribute a single, flat markdown file with fonts, similar to a `.pdf`. However, it is important to know that embedding fonts produces large text files, and these can be difficult to work with if not maintained. (For this project, I am only importing *loose* fonts.) In some rare cases, antiviral programs might regard embedded base64 as suspicious.
+This will allow you to distribute a single, flat markdown file with fonts, similar to a `.pdf`. However, it is important to know that embedding fonts produces large text files, and these can be difficult to work with if not maintained. (For this project, I am only importing *loose* fonts.) In some rare cases, antiviral programs might regard embedded Base64 as suspicious.
 
 Finally, you can render text in your Markdown body by wrapping it with a span tag that specifies the font by it's internal name (not filename):
 
@@ -103,7 +103,7 @@ Finally, you can render text in your Markdown body by wrapping it with a span ta
 <span style="font-family:Daedric">makhel fahraj</span>
 ```
 
-All one really needs to get started is this handy [GitHub template](https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0)! The documents within already contain this style element, one with the font embedded and the other with a reference to the loose ttf font. They are ready for editing or viewing from a local markdown renderer, provided the font folder is kept with loose one.
+All one really needs to get started is this handy [GitHub template](https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0)! The documents within already contain this style element, one with the font embedded and the other with a reference to the loose `.ttf` font. They are ready for editing or viewing from a local markdown renderer, provided the font folder is kept with loose one.
 
 ---
 
@@ -111,16 +111,11 @@ All one really needs to get started is this handy [GitHub template](https://gith
 
 I have borrowed the [Ayembedt font](https://github.com/georgd/OpenMW-Fonts) created by Georg Duffner for [OpenMW](https://openmw.org). I have modified, and recompiled it into a smaller TrueType font using [FontForge](https://fontforge.org/en-US/downloads/).
 
-Both the compiled `.ttf` and the base64 rendering, as well as it's source code with the modifications I have made are available in the assets directory of the GitHub repo.
+Both the compiled `.ttf` and the Base64 rendering, as well as it's source code with the modifications I have made are available in the assets directory of the GitHub repo.
 
 ## More Information
 
 Head to [MDunmeris github.io](https://mmillar-bolis.github.io/MDunmeris/) page to see the html font rendering and translation starter-guide.
-
----
-
-|As dimihn am as lehjii, ASV|
-|:-:|
 
 ---
 
