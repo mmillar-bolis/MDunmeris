@@ -12,8 +12,9 @@ Markdown is a plain-text language that makes writing formatted documents very ea
 
 Note: *GitHub's ReadMe view will not load custom fonts. Please use* [github.io](https://mmillar-bolis.github.io/MDunmeris/) *for more about Dunmeris and the Daedric script.*
 
+| Ghartok Trigon |
+|:--------------:|
 |![Trigon](assets/images/symbols/trigon_ghartok-256.png?raw=true "Trigon")|
-|:-:|
 
 ##### Quick Info:
 Want to skip the article and jump right in to creating and translating documents? Here's all you need:
@@ -67,7 +68,7 @@ In addition to a text editor, one will also need a way to view rendered markdown
 
 ## Fonts in Markdown
 
-Knowing that Markdown files are translated into HTML, one can actually embed HTML directly into a document for edge-case needs. To do so goes a bit against the ethos behind the language, but it does reasonably introduces a way to rapid prototype tricky designs when pandoc is not available or you don't have template files to surround your markdown yet.
+Knowing that Markdown files are translated into HTML, one can actually embed HTML directly into a document for edge-case needs. To do so goes a bit against the ethos behind the language, but it does reasonably introduces a way to rapid prototype tricky designs when Pandoc is not available or you don't have template files to surround your markdown yet.
 
 Adding a style tag to the beginning of your document will allow for adding some CSS to import a font. Below is an example of an HTML style tag with embedded CSS that declares a font:
 

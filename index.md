@@ -69,7 +69,7 @@ In addition to a text editor, one will also need a way to view rendered markdown
 
 ## Fonts in Markdown
 
-Knowing that Markdown files are translated into HTML, one can actually embed HTML directly into a document for edge-case needs. To do so goes a bit against the ethos behind the language, but it does reasonably introduces a way to rapid prototype tricky designs when pandoc is not available or you don't have template files to surround your markdown yet.
+Knowing that Markdown files are translated into HTML, one can actually embed HTML directly into a document for edge-case needs. To do so goes a bit against the ethos behind the language, but it does reasonably introduces a way to rapid prototype tricky designs when Pandoc is not available or you don't have template files to surround your markdown yet.
 
 Adding a style tag to the beginning of your document will allow for adding some CSS to import a font. Below is an example of an HTML style tag with embedded CSS that declares a font:
 
@@ -139,14 +139,20 @@ There are other dialects of Dunmeris as well. [Hrafnir II](https://www.imperial-
 
 Since Casual Dunmeris is ultimately still developing, I have also taken to inventing words as the need arises, based on already available nouns and verbs that I smash together. As a last resort, I might adapt an Aldmeri word if one exists.
 
-As the culture is *very* high-context, it seems proper that much of the language information appear implicit. Looking at examples such as the [Words of the Wind](https://en.uesp.net/wiki/Lore:Words_of_the_Wind) and [The Book of Dawn and Dusk](https://en.uesp.net/wiki/Lore:The_Book_of_Dawn_and_Dusk), I have also structured some phrases to look like prayers or mantras.
+As the culture is *very* high-context, it seems proper that much of the language information appear implicit. Following the guidelines from the Casual Wiki, on dumbing down the sentence complexity before translating into Dunmeris, as well as examples like the [Words of the Wind](https://en.uesp.net/wiki/Lore:Words_of_the_Wind) and [The Book of Dawn and Dusk](https://en.uesp.net/wiki/Lore:The_Book_of_Dawn_and_Dusk), I have taken subtle liberties with some phrases to make them appear more like prayers or mantras. For example, as a dunmer [*amen*](https://en.wikipedia.org/wiki/Amen), I modified the common scriptural ending phrase:
+
+| The ending of the words is ALMSIVI |
+|:----------------------------------:|
+|  The ending of the words: ALMSIVI  |
+|    As dimihn am as lehjii, ASV     |
+|<span style="font-family:Daedric">as dimihn am as lehjii, <span style="color:red">ASV</span>|
 
 ---
 
 ## Religion and Morrowind
 
-|Ghartok Trigon|
-|:-:|
+| Ghartok Trigon |
+|:--------------:|
 |![Trigon](assets/images/symbols/trigon_ghartok-256.png?raw=true "Trigon")|
 
 ---
@@ -172,7 +178,7 @@ The word itself, technically unpronounceable, comes from [Ehlnofex](https://en.u
 
 For example, in the city of Vivec, ALMSIVI is rendered, \"<span style="font-family:Daedric; color:red">AVS</Span>,\" [*A-V-S*](https://en.uesp.net/wiki/Morrowind:Tribunal_Temple), while in the capitol of Mournhold, it is rendered \"<span style="font-family:Daedric; color:red">SAV</Span>,\" [*S-A-V*](https://en.uesp.net/wiki/Lore:Daedric_Alphabet#Morrowind:~:text=In%20Mournhold%2C%20Almalexia%20gets%20top%20billing). In all places, it is still pronounced the same.
 
-For a better understanding of the symbolic thought this mysterious three letter word, see the [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton). In addition, many draw allusions to the Christian concept of [Alpha and Omega](https://en.wikipedia.org/wiki/Alpha_and_Omega). However, that metaphore is derived from an earlier one, the Hebrew word [emet](https://en.wikipedia.org/wiki/Alpha_and_Omega#Judaism) which means *truth* and is spelled with the beginning, middle, and ending letters of the [Hebrew alphabet](https://en.wikipedia.org/wiki/Hebrew_alphabet), *alef*, *mem*, and *tav*.
+For a better understanding of the symbolic thought this mysterious three letter word, see the [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton). In addition, many draw allusions to the Christian metaphor of [Alpha and Omega](https://en.wikipedia.org/wiki/Alpha_and_Omega). However, that metaphor is derived from an earlier one, the Hebrew word [emet](https://en.wikipedia.org/wiki/Alpha_and_Omega#Judaism) which means *truth* and is spelled with the beginning, middle, and ending letters of the [Hebrew alphabet](https://en.wikipedia.org/wiki/Hebrew_alphabet), *alef*, *mem*, and *tav*.
 
 But why write it as *almsivi*? Aside from the fact that it rolls of the tongue better and is a more obvious mashup of the three names of the gods to english readers, there is a significant [numerological](https://en.wikipedia.org/wiki/Numerology) aspect to adding the extra letters, bringing it to [seven](https://en.wikipedia.org/wiki/Symbolism_of_the_number_7) in length. This also gives it the same length as the amount of sylables found in the Ehlnofex phrase from which it is derived, [AYEM AE SEHTI AE VEHK](https://en.uesp.net/wiki/Morrowind:36_Lessons_of_Vivec,_Sermon_1#genWhiteText:~:text=AYEM%20AE%20SEHTI%20AE%20VEHK), or *A is S is V*. It's the sum of 3 + 4, considered in many religious cultures to represent some form of [sacred and material numbers](https://www.jstor.org/stable/658538), respectively. This fits well within the dunmer model of the three [Anticipations](https://en.uesp.net/wiki/Lore:The_Anticipations) and the four members of the [House of Troubles](https://en.uesp.net/wiki/Lore:The_House_of_Troubles), though this hints at even deeper metaphor and entendre behind the word-choice.
 
