@@ -139,13 +139,13 @@ There are other dialects of Dunmeris as well. [Hrafnir II](https://www.imperial-
 
 Since Casual Dunmeris is ultimately still developing, I have also taken to inventing words as the need arises, based on already available nouns and verbs that I smash together. As a last resort, I might adapt an Aldmeri word if one exists.
 
-As the culture is *very* high-context, it seems proper that much of the language information appear implicit. Following the guidelines from the Casual Wiki, on dumbing down the sentence complexity before translating into Dunmeris, as well as examples like the [Words of the Wind](https://en.uesp.net/wiki/Lore:Words_of_the_Wind) and [The Book of Dawn and Dusk](https://en.uesp.net/wiki/Lore:The_Book_of_Dawn_and_Dusk), I have taken subtle liberties with some phrases to make them appear more like prayers or mantras. For example, as a dunmer [*amen*](https://en.wikipedia.org/wiki/Amen), I modified the common scriptural ending phrase:
+As the culture is *very* high-context, it seems proper that much of the language information appear implicit. Following the guidelines from the Casual Wiki, on dumbing down the sentence complexity before translating into Dunmeris, as well as examples like the [Words of the Wind](https://en.uesp.net/wiki/Lore:Words_of_the_Wind) and [The Book of Dawn and Dusk](https://en.uesp.net/wiki/Lore:The_Book_of_Dawn_and_Dusk), I have taken subtle liberties with some phrases to make them appear more like prayers or mantras. For example, as a dunmer [*amen*](https://en.wikipedia.org/wiki/Amen), I modified the common scriptural ending phrase. Other places, people simplify sentences to fit the currently available set of words, producing some very creative results.
 
-| The ending of the words is ALMSIVI |
-|:----------------------------------:|
-|  The ending of the words: ALMSIVI  |
-|    As dimihn am as lehjii, ASV     |
-|<span style="font-family:Daedric">as dimihn am as lehjii, <span style="color:red">ASV</span>|
+| The ending of the words is ALMSIVI | The forceful expression of will gives true honor to the Ancestors |
+|:----------------------------------:|:---:|
+|  The ending of the words: ALMSIVI  | The strong speech of will gives true respect to the Ancestors |
+|    As dimihn am as lehjii, ASV     | As jubu gahrudi am khamir jikhig neen lorkor de Card |
+| <span style="font-family:Daedric">as dimihn am as lehjii, <span style="color:red">ASV</span> | <span style="font-family:Daedric">As jubu gahrudi am khamir jikhig neen lorkor de card</span> |
 
 ---
 
