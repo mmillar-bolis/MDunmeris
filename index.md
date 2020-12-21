@@ -17,7 +17,7 @@ Markdown is a plain-text language that makes writing formatted documents very ea
 |<span style="font-family:Daedric">cahn’shoksunaa sera</span>|<span style="font-family:Daedric">khosi enhi julopum</span>|<span style="font-family:Daedric">ju'it khosi ku'elm ohn duhnanich</span>
 
 
-##### Quick Info:
+## Quick Info:
 Want to skip the article and jump right in to creating and translating documents? Here's all you need:
 
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

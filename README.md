@@ -16,7 +16,7 @@ Note: *GitHub's ReadMe view will not load custom fonts. Please use* [github.io](
 |:--------------:|
 |![Trigon](assets/images/symbols/trigon_ghartok-256.png?raw=true "Trigon")|
 
-##### Quick Info:
+## Quick Info:
 Want to skip the article and jump right in to creating and translating documents? Here's all you need:
 
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
