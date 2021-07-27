@@ -9,19 +9,22 @@
 
 Markdown is a plain-text language that makes writing formatted documents very easy. It's also possible to call custom fonts in Markdown using in-line HTML. By incorporating one of the available online dialects, it's very easy to quickly produce shareable documents in Dunmeris (<span style="font-family:Daedric">dunmeris</span>), the language of the people of Morrowind.
 
-[Try the template!](https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0) Some translation examples:
+[Try the template!][1]
+
+Some translation examples:
 
 |Three blessings, sera|Walk with virtue|Why walk when you can ride?|
 |:-:|:-:|:-:|
 |Cahn'shoksunaa sera|Khosi enhi julopum|Ju'it khosi ku'elm ohn duhnanich?
 |<span style="font-family:Daedric">cahn’shoksunaa sera</span>|<span style="font-family:Daedric">khosi enhi julopum</span>|<span style="font-family:Daedric">ju'it khosi ku'elm ohn duhnanich</span>
 
+[1]: https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0
 
 ## Quick Info:
-Want to skip the article and jump right in to creating and translating documents? Here's all you need:
+Want to skip the article and jump right in to creating and translating manuscripts? Here's all you need:
 
-- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Ayembedt font](https://github.com/georgd/OpenMW-Fonts)
+- [Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Hayghin Daedric font](https://github.com/mmillar-bolis/HayghinDaedricFont/releases/tag/1.0)  (based on [Ayembedt](https://github.com/georgd/OpenMW-Fonts)\)
 - [Casual Dunmeris](https://casualscrolls.fandom.com/wiki/Dunmeri_language)
 - [GitHub Template](https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0)
 
@@ -69,7 +72,7 @@ In addition to a text editor, one will also need a way to view rendered markdown
 
 ## Fonts in Markdown
 
-Knowing that Markdown files are translated into HTML, one can actually embed HTML directly into a document for edge-case needs. To do so goes a bit against the ethos behind the language, but it does reasonably introduces a way to rapid prototype tricky designs when Pandoc is not available or you don't have template files to surround your markdown yet.
+Knowing that Markdown files are translated into HTML, one can actually embed HTML directly into a document for edge-case needs. To do so goes a bit against the ethos behind the language, but it does reasonably introduces a way to rapid prototype tricky designs when Pandoc is not available or you don't have template files to surround your markdown yet, or you don't want to install fonts to your system.
 
 Adding a style tag to the beginning of your document will allow for adding some CSS to import a font. Below is an example of an HTML style tag with embedded CSS that declares a font:
 
@@ -77,7 +80,7 @@ Adding a style tag to the beginning of your document will allow for adding some 
 <style>
 @font-face {
     font-family: Daedric;
-    src: url("/path/to/Daedric.ttf") format('truetype');
+    src: url("/path/to/HayghinDaedric.ttf") format('truetype');
     font-weight: medium;
     font-style: normal;
 }
@@ -90,7 +93,7 @@ Optionally, if your markdown viewer does not allow for loading external fonts, y
     src: url(data:font/truetype;charset=utf-8;base64,<BASE64_TEXT_CONTENTS>) format('truetype');
 ```
 
-This will allow you to distribute a single, flat markdown file with fonts, similar to a `.pdf`. However, it is important to know that embedding fonts produces large text files, and these can be difficult to work with if not maintained. (For this project, I am only importing *loose* fonts.) In some rare cases, antiviral programs might regard embedded Base64 as suspicious.
+This will allow you to distribute a single, flat markdown file with fonts, similar to a `.pdf`. However, it is important to know that embedding fonts produces *large* text files, and these can be difficult to work with if not maintained. (For this project, I am only importing *loose* fonts.) In some rare cases, antiviral programs might regard embedded Base64 as suspicious.
 
 Finally, you can render text in your Markdown body by wrapping it with a span tag that specifies the font by it's internal name (not filename):
 
@@ -109,23 +112,23 @@ All one really needs to get started is this handy [GitHub template](https://gith
 |As cahnarurhili'ag'thil yalig as malroua|
 |<span style="font-family:Daedric">as cahnarurhili'ag'thil yalig as malroua</span>|
 
-I have borrowed the [Ayembedt font](https://github.com/georgd/OpenMW-Fonts) created by Georg Duffner for [OpenMW](https://openmw.org). I have modified, and recompiled it into a smaller TrueType font using [FontForge](https://fontforge.org/en-US/downloads/).
+I have created a custom font for manuscript preparation, called *hayghin* or simple Daedric. The base designs are borrowed from the [Ayembedt font](https://github.com/georgd/OpenMW-Fonts) created by Georg Duffner for [OpenMW](https://openmw.org). I have resized the glyphs for easier viewing and recompiled it into a smaller sized TrueType font using [FontForge](https://fontforge.org/en-US/downloads/).
 
-Both the compiled `.ttf` and the Base64 rendering, as well as it's source code with the modifications I have made are available in the assets directory of the GitHub repo.
+Both the compiled `.ttf` and the Base64 rendering, as well as it's source code with the modifications are available in the assets directory of the GitHub repo.
 
 ---
 
 ## Language Guidelines Used
 
-For starters, there is the excellent [Calligraphy Manual](https://forums.elderscrollsonline.com/en/discussion/265828/calligraphy-manual-daedric-alphabet-in-dunmeris), by Llevndryn Sershilavu. It explores the complex writing system of Morrowind and it's glyphs.
+For starters, there is the excellent [Calligraphy Manual](https://forums.elderscrollsonline.com/en/discussion/265828/calligraphy-manual-daedric-alphabet-in-dunmeris), by Llevndryn Sershilavu. It explores the complex writing system of the Dunmer and the Daedric glyphs.
 
-The language dialect I have chosen for most of my translations is the continually expanding [Casual Dunmeris](https://casualscrolls.fandom.com/wiki/Dunmeri_language), so named because of the wiki it comes from: [Casual Scrolls](https://casualscrolls.fandom.com/). The forum's founder and the original publisher of the language, is [Matthew Knight](https://casualscrolls.fandom.com/wiki/User:Mknightretke).
+The language dialect I have chosen for most of my translations is the continually expanding [Casual Dunmeris](https://casualscrolls.fandom.com/wiki/Dunmeri_language), so named because of the wiki it comes from: [Casual Scrolls](https://casualscrolls.fandom.com/). The forum's founder and the original publisher of the language, is [Matthew Knight](https://casualscrolls.fandom.com/wiki/User:Mknightretke), now a Catholic priest.
 
-There is a lot of activity surrounding this dialect and it seems very well developed. When translating cultural adages of Morrowind, Casual Dunmeris rolls with off the tongue rather well.
+There is a lot of activity surrounding this dialect and it seems very well developed. When translating cultural adages of Morrowind, I find that Casual Dunmeris rolls with off the tongue rather well.
 
 It is unclear (to me at least) who specifically originally collaborated on the language, or if it was mostly the work of Knight, but it appears that around 2011, a framework was designed for the members of the [original party](https://casualscrolls.fandom.com/wiki/Casual_Elder_Scrolls_Wiki#Characters) of a [PbP](https://en.wikipedia.org/wiki/Play-by-post_role-playing_game) Elder Scrolls campaign that was being recorded on the Casual Scrolls wiki.
 
-The wiki itself is still being updated, revised, and expanded to suit the continuing needs of Dunmeris writers and speakers.
+The site itself is still being updated, revised, and expanded to suit the continuing needs of Dunmeris writers and speakers. I have included a copy of the language specification in this repo.
 
 |Learn by serving|
 |:-:|
@@ -159,7 +162,7 @@ As the culture is *very* high-context, it seems proper that much of the language
 
 ## About the Trigonic Symbol
 
-The central religious symbol of the Tribunal Temple (<span style="font-family:Daedric">as daenthi</span>, *As Daenthi*, lit., "the temple") faith is the depiction of the [Trigon](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-05-22-11-21/Lessons4.jpg/EG11/resize/690x-1/quality/75/format/jpg). A [representation](https://en.uesp.net/wiki/File:SR-book-Oghma_Infinium_2.png) of the [Enantiomorph](https://elderscrolls.fandom.com/wiki/Enantiomorph), this symbol is an inverse triangle with Daedric glyphs in each corner, which if read clockwise, spell *ASV*. However, it can also be common to see variants of this symbol such as the above [Ghartok Trigon](https://www.imperial-library.info/content/forum-archives-michael-kirkbride#node-2865:~:text=What%20does%20%22GHARTOK%22%20mean%3F) which depicts the [Hand of Mephala](https://en.uesp.net/wiki/Lore:36_Lessons_of_Vivec,_Sermon_11#genWhiteText:~:text=black%20hands) at the center, or the [Imperial Trigon](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the [Seal of Akatosh](https://en.uesp.net/wiki/Lore:Akavir), and more recently, the [Nerevarine Trigon](https://media.moddb.com/images/articles/1/154/153713/2ik4pc5.jpg.png) depicting the [Moon-and-Star](https://en.uesp.net/wiki/Lore:Moon-and-Star) at it's center.
+The central religious symbol of the Tribunal Temple faith (<span style="font-family:Daedric">as daenthi</span>, *As Daenthi*, lit., "the temple") is the depiction of the [Trigon](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-05-22-11-21/Lessons4.jpg/EG11/resize/690x-1/quality/75/format/jpg). A [representation](https://en.uesp.net/wiki/File:SR-book-Oghma_Infinium_2.png) of the [Enantiomorph](https://elderscrolls.fandom.com/wiki/Enantiomorph), this symbol is an inverse triangle with Daedric glyphs in each corner, which if read clockwise, spell *ASV*. However, it can also be common to see variants of this symbol such as the above [Ghartok Trigon](https://www.imperial-library.info/content/forum-archives-michael-kirkbride#node-2865:~:text=What%20does%20%22GHARTOK%22%20mean%3F) which depicts the [Hand of Mephala](https://en.uesp.net/wiki/Lore:36_Lessons_of_Vivec,_Sermon_11#genWhiteText:~:text=black%20hands) at the center, or the [Imperial Trigon](https://en.uesp.net/wiki/File:MW-cover-Morrowind_Box_Art.jpg) which features the [Seal of Akatosh](https://en.uesp.net/wiki/Lore:Akavir), and more recently, the [Nerevarine Trigon](https://media.moddb.com/images/articles/1/154/153713/2ik4pc5.jpg.png) depicting the [Moon-and-Star](https://en.uesp.net/wiki/Lore:Moon-and-Star) at it's center.
 
 ---
 
@@ -180,9 +183,9 @@ For example, in the city of Vivec, ALMSIVI is rendered, \"<span style="font-fami
 
 For a better understanding of the symbolic thought this mysterious three letter word, see the [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton). In addition, many draw allusions to the Christian metaphor of [Alpha and Omega](https://en.wikipedia.org/wiki/Alpha_and_Omega). However, that metaphor is derived from an earlier one, the Hebrew word [emet](https://en.wikipedia.org/wiki/Alpha_and_Omega#Judaism) which means *truth* and is spelled with the beginning, middle, and ending letters of the [Hebrew alphabet](https://en.wikipedia.org/wiki/Hebrew_alphabet), *alef*, *mem*, and *tav*.
 
-But why write it as *almsivi*? Aside from the fact that it rolls of the tongue better and is a more obvious mashup of the three names of the gods to english readers, there is a significant [numerological](https://en.wikipedia.org/wiki/Numerology) aspect to adding extra letters bringing it to [seven](https://en.wikipedia.org/wiki/Symbolism_of_the_number_7) in length. The number occurs in [other](https://en.uesp.net/wiki/Lore:The_Seven_Visions) [areas](https://en.uesp.net/wiki/Lore:The_Seven_Curses) of [dunmer religion](https://en.uesp.net/wiki/Lore:The_Pilgrim%27s_Path). This also gives the english rendering of the word the same length in letters as the amount of sylables found in the Ehlnofex phrase from which it is derived, [AYEM AE SEHTI AE VEHK](https://en.uesp.net/wiki/Morrowind:36_Lessons_of_Vivec,_Sermon_1#genWhiteText:~:text=AYEM%20AE%20SEHTI%20AE%20VEHK), or *A is S is V*. It's the sum of 3 + 4, considered in many religious cultures to represent, respectively, [sacred and material numbers](https://www.jstor.org/stable/658538). This further fits within the dunmer model of three [Anticipations](https://en.uesp.net/wiki/Lore:The_Anticipations) and four members of the [House of Troubles](https://en.uesp.net/wiki/Lore:The_House_of_Troubles).
+But why write it as *almsivi*? Aside from the fact that it rolls of the tongue better and is a more obvious mashup of the three names of the gods to English readers, there is a significant [numerological](https://en.wikipedia.org/wiki/Numerology) aspect to adding extra letters bringing it to [seven](https://en.wikipedia.org/wiki/Symbolism_of_the_number_7) in length. The number occurs in [other](https://en.uesp.net/wiki/Lore:The_Seven_Visions) [areas](https://en.uesp.net/wiki/Lore:The_Seven_Curses) of [dunmer religion](https://en.uesp.net/wiki/Lore:The_Pilgrim%27s_Path). This also gives the English rendering of the word the same length in letters as the amount of sylables found in the Ehlnofex phrase from which it is derived, [AYEM AE SEHTI AE VEHK](https://en.uesp.net/wiki/Morrowind:36_Lessons_of_Vivec,_Sermon_1#genWhiteText:~:text=AYEM%20AE%20SEHTI%20AE%20VEHK), or *A is S is V*. It's the sum of 3 + 4, considered in many religious cultures to represent, respectively, [sacred and material numbers](https://www.jstor.org/stable/658538). This further fits within the Dunmer model of three [Anticipations](https://en.uesp.net/wiki/Lore:The_Anticipations) above four members of the [House of Troubles](https://en.uesp.net/wiki/Lore:The_House_of_Troubles).
 
-Seven is also a prime number input for calculating [perfect numbers](https://en.wikipedia.org/wiki/Perfect_number), which break down into a sum of positive [factors](https://en.wikipedia.org/wiki/Factorization), not including the number itself.
+Seven is also a prime number input for calculating [perfect numbers](https://en.wikipedia.org/wiki/Perfect_number), which break down into a sum of positive [factors](https://en.wikipedia.org/wiki/Factorization), not including the number itself. Here's a simplified example, using the smallest perfect number, `6`:
 
 | Equation | Result |
 |:--------:|:------:|
@@ -191,7 +194,7 @@ Seven is also a prime number input for calculating [perfect numbers](https://en.
 |   3 * 2  |   6    |
 |   6 * 1  |   6    |
 
-So the perfect number `6` would then be derived from adding `1`,`2`, and `3`:
+So in this example, the perfect number `6` would then be derived from adding `1`,`2`, and `3`:
 
 |  Equation | Result |
 |:---------:|:------:|
@@ -200,6 +203,8 @@ So the perfect number `6` would then be derived from adding `1`,`2`, and `3`:
 The philosopher and mathematician [Euclid](https://en.wikipedia.org/wiki/Euclid) is credited with coming up with a [theorem](https://en.wikipedia.org/wiki/Euclid%E2%80%93Euler_theorem) that perfect numbers must be derived from primes following the equation 2&#8319;&#8315;&sup1;(2&#8319; - 1) where &#8319; is a prime number. So for &#8319; = 7 the equation would be 2&#8310;(2&#8311; - 1) resulting in the perfect number, [8128](https://en.wikipedia.org/wiki/8128_(number)) which is a [triangular number](https://en.wikipedia.org/wiki/Triangular_number). It's also the result of [64](https://en.wikipedia.org/wiki/64_(number)) * [127](https://en.wikipedia.org/wiki/127_(number)). The number 64 has seven factors and is a [centered triangular number](https://en.wikipedia.org/wiki/Centered_triangular_number) while the number 127 is a [Mersenne prime](https://en.wikipedia.org/wiki/Mersenne_prime) and a [centered hexagonal number](https://en.wikipedia.org/wiki/Centered_hexagonal_number).
 
 Another way of thinking about the seven-letter *almsivi* as a numeric motif is that in a system where the number One is akin to God, Two is evenness, and Three is pivotal balance, Seven is a number that signifies cyclical completeness (7 days in a week, 7&sup2; weeks in a year, 7 years in a [Chakra cycle](https://en.wikipedia.org/wiki/Chakra#The_seven_chakra_system), or 7 Sabbatical cycles in a [Jubilee](https://en.wikipedia.org/wiki/Jubilee), etc.).
+
+Numbers play a significant aspect in Dunmer culture and they are present all throughout [sacred](https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec) texts, forming the basis of their [very understanding](https://en.uesp.net/wiki/Morrowind:Sithis) of the cosmos.
 
 ###### In Daedric script, holy words are sometimes written in red. Specify the color in the span tag like so:
 ```html
@@ -220,7 +225,7 @@ The Tribunal Faith and it's influence on Dunmer culture cannot be understated. T
 - [The Truth in Sequence](https://en.uesp.net/wiki/Lore:The_Truth_in_Sequence) (<span style="font-family:Daedric">as leyrihn</span>, As Leyrihn, lit., "the sequence")
 - [The 36 Lessons of Vivec](https://en.uesp.net/wiki/Lore:The_36_Lessons_of_Vivec) (<span style="font-family:Daedric">as shoreshiik</span>, *As Shoreshiik*, lit., "the lessons" )
 
-Collected and canonized texts are often reflective of the local temples and their communities.
+Collected and canonized texts are often reflective of the local temples and their communities, however.
 
 To learn more about Dunmer culture, have a look at the following resources:
 
@@ -286,7 +291,7 @@ Now go have fun, get into the spirit of things, and don't take anything too seri
 ---
 
 <center>
-<span style="font-family:Daedric">as dimihn am as lehjii, <span style="color:red">ASV</span></span>
+<span style="font-family:Daedric">As dimihn am as lehjii, <span style="color:red">ASV</span></span>
 </center>
 
 ---
