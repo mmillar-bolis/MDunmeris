@@ -1,7 +1,7 @@
 <style>
 @font-face {
     font-family: Daedric;
-    src: url('../assets/fonts/ttf/Daedric.ttf') format('truetype');
+    src: url('../assets/fonts/ttf/HayghinDaedric.ttf') format('truetype');
     font-weight: medium;
     font-style: normal;
 }
@@ -23,7 +23,7 @@
 
 &emsp;&emsp;I believe in the Ancestors,\
 &emsp;&emsp;&emsp;&emsp;the Host of Saints, the Temple,\
-&emsp;&emsp;And in duty to faith, family, masters,\
+&emsp;&emsp;And in duty to faith, family, masters\
 &emsp;&emsp;&emsp;&emsp;and all that is good.
 
 &emsp;&emsp;The ending of the words, <span style="color:red">ALMSIVI</span>.
@@ -66,9 +66,9 @@
 &emsp;&emsp;<span style="font-family:Daedric">Os nulfi gher as Caard,</span>\
 &emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">as Kivri Burkhanmer en as Daenthi</span>\
 &emsp;&emsp;<span style="font-family:Daedric">en gher opulidi de nulfyr, ruhnmer, gahariihn</span>\
-&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">en hadik ist edur juli</span>
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">en hadik ist edur juli.</span>
 
-&emsp;&emsp;<span style="font-family:Daedric">As dimihn am as lehjii, <span style="color:red">ASV</span></span>
+&emsp;&emsp;<span style="font-family:Daedric">As dimihn am as lehjii, <span style="color:red">ASV</span>.</span>
 
 #### Credits:
 
