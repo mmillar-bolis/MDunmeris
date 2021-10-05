@@ -51,7 +51,7 @@
 
 ## <span style="font-family:Daedric">Ald Gahduhnavenshik</Span>
 
-&emsp;&emsp;<span style="font-family:Daedric">Os nulfid gher <span style="color:red">ASV</span> cahnavri indkhes:</span>\
+&emsp;&emsp;<span style="font-family:Daedric">Os nulfid gher <span style="color:red">ASV</span>, cahnavri indkhes:</span>\
 &emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric;color:red">AYEM AE SEHTI AE VEHK</span>\
 &emsp;&emsp;<span style="font-family:Daedric">Ku'or khosi'ath as malath,</Span>\
 &emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">jigde'ath as gah'moljuhn am Dunmer,</span>\
