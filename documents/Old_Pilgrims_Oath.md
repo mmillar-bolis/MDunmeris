@@ -51,24 +51,24 @@
 
 ## <span style="font-family:Daedric">Ald Gahduhnavenshik</Span>
 
-&emsp;&emsp;<span style="font-family:Daedric">Os nulfid gher <span style="color:red">ASV</Span> cahnavri indkhes:\
-&emsp;&emsp;&emsp;&emsp;<span style="color:red">AYEM AE SEHTI AE VEHK</Span>\
-&emsp;&emsp;Ku'or khosi'ath as malath,\
-&emsp;&emsp;&emsp;&emsp;jigde'ath as gah'moljuhn am Dunmer,\
-&emsp;&emsp;&emsp;&emsp;en veyse'ath panthi'muhr.</Span>
+&emsp;&emsp;<span style="font-family:Daedric">Os nulfid gher <span style="color:red">ASV</span> cahnavri indkhes:</span>\
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric;color:red">AYEM AE SEHTI AE VEHK</span>\
+&emsp;&emsp;<span style="font-family:Daedric">Ku'or khosi'ath as malath,</Span>\
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">jigde'ath as gah'moljuhn am Dunmer,</span>\
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">en veyse'ath panthi'muhr.</span>
 
-&emsp;&emsp;<span style="font-family:Daedric">Asuhn arche'ath wah Sharmat</Span>\
-&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">en manise as flur jibu Morrowind.</Span>\
-&emsp;&emsp;<span style="font-family:Daedric">Ashun freda en shoresha asuhm eremnesig,</Span>\
-&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">fergha demyr en kiohr, en devo asuhm di'otunar,</Span>\
-&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">lakor edur asuhm ur'ish.</Span>
+&emsp;&emsp;<span style="font-family:Daedric">Asuhn arche'ath wah Sharmat</span>\
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">en manise as flur jibu Morrowind.</span>\
+&emsp;&emsp;<span style="font-family:Daedric">Ashun freda en shoresha asuhm eremnesig,</span>\
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">fergha demyr en kiohr, en devo asuhm di'otunar,</span>\
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">lakor edur asuhm ur'ish.</span>
 
-&emsp;&emsp;<span style="font-family:Daedric">Os nulfi gher as Caard,</Span>\
-&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">as Kivri Burkhanmer en as Daenthi</Span>\
-&emsp;&emsp;<span style="font-family:Daedric">en gher opulidi de nulfyr, ruhnmer, gahariihn</Span>\
-&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">en hadik ist edur juli</Span>
+&emsp;&emsp;<span style="font-family:Daedric">Os nulfi gher as Caard,</span>\
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">as Kivri Burkhanmer en as Daenthi</span>\
+&emsp;&emsp;<span style="font-family:Daedric">en gher opulidi de nulfyr, ruhnmer, gahariihn</span>\
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">en hadik ist edur juli</span>
 
-&emsp;&emsp;<span style="font-family:Daedric">As dimihn am as lehjii, <span style="color:red">ASV</span></Span>
+&emsp;&emsp;<span style="font-family:Daedric">As dimihn am as lehjii, <span style="color:red">ASV</span></span>
 
 #### Credits:
 
