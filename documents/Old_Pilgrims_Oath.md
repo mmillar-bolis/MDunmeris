@@ -8,67 +8,67 @@
 </style>
 
 ## The Old Pilgrim's Oath
-\
-    I believe in ALMSIVI, Triune Grace:\
-        AYEM AE SEHTI AE VEHK\
-    Who walked the earth,\
-        defeated the Dunmer's greatest enemies,\
-        and achieved divine substance.\
-\
-    They drove out Dagoth Ur\
-        and maintain the peace of Morrowind.\
-    They guard and counsel their followers,\
-        punish sin and error, and share their bounty,\
-        according to their needs.\
-\
-    I believe in the ancestors,\
-        the host of saints, the temple,\
-    And in duty to faith, family, masters,\
-        and all that is good.\
-\
-    The Ending of the Words, ALMSIVI.
+
+&emsp;&emsp;I believe in <span style="color:red">ALMSIVI</span>, Triune Grace:\
+&emsp;&emsp;&emsp;&emsp;<span style="color:red">AYEM AE SEHTI AE VEHK</span>\
+&emsp;&emsp;Who walked the earth,\
+&emsp;&emsp;&emsp;&emsp;defeated the Dunmer's greatest enemies,\
+&emsp;&emsp;&emsp;&emsp;and achieved divine substance.
+
+&emsp;&emsp;They drove out the Sharmat\
+&emsp;&emsp;&emsp;&emsp;and maintain the peace of Morrowind.\
+&emsp;&emsp;They guard and counsel their followers,\
+&emsp;&emsp;&emsp;&emsp;punish sin and error, and share their bounty,\
+&emsp;&emsp;&emsp;&emsp;according to their needs.
+
+&emsp;&emsp;I believe in the Ancestors,\
+&emsp;&emsp;&emsp;&emsp;the Host of Saints, the Temple,\
+&emsp;&emsp;And in duty to faith, family, masters,\
+&emsp;&emsp;&emsp;&emsp;and all that is good.
+
+&emsp;&emsp;The ending of the words, <span style="color:red">ALMSIVI</span>.
 
 ## Ald Gahduhnavenshik
-\
-    Os nulfid ASV, panthihn indkhes:\
-        AYEM AE SEHTI AE VEHK\
-    Ku’or khosi'ath malath,\
-        jigde'ath gah'moljuhn de dunmer,\
-        en veyse'ath panthif muhrikam.\
-\
-    Asuhn arche'ath wah Dagoth Ur\
-        en maridag flur jibu Morrowind.\
-    Ashun fredad et shoreshad eremnesig,\
-        kiohr en demyr, ferghath en di'otunar devog,\
-        devohr ur’ish am asuhl.\
-\
-    Os nulfi tifur as card,\
-        as kivri burkhanmer en as daenthi,\
-    en tifur opulidi de nulfyr en thil en gaharihn,\
-        en muhrjil juli.\
-\
-    As dimihn am as lehjii, <span style="color:red">ASV</span>.
 
-## <span style="font-family:Daedric">ald gahduhnavenshik</Span>
-\
-    <span style="font-family:Daedric">os nulfid <span style="color:red">ASV</Span> panthihn indkhes</Span>\
-        <span style="font-family:Daedric;color:red">AYEM AE SEHTI AE VEHK</Span>\
-    <span style="font-family:Daedric">ku’or khosi’ath malath</Span>\
-        <span style="font-family:Daedric">jigde’ath gah’moljuhn de dunmer</Span>\
-        <span style="font-family:Daedric">en veyse’ath panthif muhrikam</Span>\
-\
-    <span style="font-family:Daedric">asuhn arche’ath wah dagoth ur</Span>\
-        <span style="font-family:Daedric">en maridag flur jibu morrowind</Span>\
-    <span style="font-family:Daedric">ashun fredad et shoreshad eremnesig</Span>\
-        <span style="font-family:Daedric">kiohr en demyr ferghath en di’otunar devog</Span>\
-        <span style="font-family:Daedric">devohr ur’ish am asuhl</Span>\
-\
-    <span style="font-family:Daedric">os nulfi tifur as card</Span>\
-        <span style="font-family:Daedric">as kivri burkhanmer en as daenthi</Span>\
-    <span style="font-family:Daedric">en tifur opulidi de nulfyr en thil en gaharihn</Span>\
-        <span style="font-family:Daedric">en muhrjil juli</Span>\
-\
-    <span style="font-family:Daedric">jas dimihn am as lehjii, <span style="color:red">ASV</span></Span>
+&emsp;&emsp;Os nulfid gher <span style="color:red">ASV</span>, cahnavri indkhes:\
+&emsp;&emsp;&emsp;&emsp;<span style="color:red">AYEM AE SEHTI AE VEHK</span>\
+&emsp;&emsp;Ku'or khosi'ath as malath,\
+&emsp;&emsp;&emsp;&emsp;jigde'ath as gah'moljuhn am Dunmer,\
+&emsp;&emsp;&emsp;&emsp;en veyse'ath panthi'muhr.
+
+&emsp;&emsp;Asuhn arche'ath wah as Sharmat\
+&emsp;&emsp;&emsp;&emsp;en manise as flur jibu Morrowind.\
+&emsp;&emsp;Ashun freda et shoresha asuhm eremnesig,\
+&emsp;&emsp;&emsp;&emsp;fergha demyr en kiohr, en devo asuhm di'otunar,\
+&emsp;&emsp;&emsp;&emsp;lakor edur asuhm ur'ish.
+
+&emsp;&emsp;Os nulfi gher as Caard,\
+&emsp;&emsp;&emsp;&emsp;as Kivri Burkhanmer en as Daenthi,\
+&emsp;&emsp;en gher opulidi de nulfyr, ruhnmer, gahariihn\
+&emsp;&emsp;&emsp;&emsp;en hadik ist edur juli.
+
+&emsp;&emsp;As dimihn am as lehjii, <span style="color:red">ASV</span>.
+
+## <span style="font-family:Daedric">Ald Gahduhnavenshik</Span>
+
+&emsp;&emsp;<span style="font-family:Daedric">Os nulfid gher <span style="color:red">ASV</Span> cahnavri indkhes:\
+&emsp;&emsp;&emsp;&emsp;<span style="color:red">AYEM AE SEHTI AE VEHK</Span>\
+&emsp;&emsp;Ku'or khosi'ath as malath,\
+&emsp;&emsp;&emsp;&emsp;jigde'ath as gah'moljuhn am Dunmer,\
+&emsp;&emsp;&emsp;&emsp;en veyse'ath panthi'muhr.</Span>
+
+&emsp;&emsp;<span style="font-family:Daedric">Asuhn arche'ath wah Sharmat</Span>\
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">en manise as flur jibu Morrowind.</Span>\
+&emsp;&emsp;<span style="font-family:Daedric">Ashun freda en shoresha asuhm eremnesig,</Span>\
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">fergha demyr en kiohr, en devo asuhm di'otunar,</Span>\
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">lakor edur asuhm ur'ish.</Span>
+
+&emsp;&emsp;<span style="font-family:Daedric">Os nulfi gher as Caard,</Span>\
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">as Kivri Burkhanmer en as Daenthi</Span>\
+&emsp;&emsp;<span style="font-family:Daedric">en gher opulidi de nulfyr, ruhnmer, gahariihn</Span>\
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:Daedric">en hadik ist edur juli</Span>
+
+&emsp;&emsp;<span style="font-family:Daedric">As dimihn am as lehjii, <span style="color:red">ASV</span></Span>
 
 #### Credits:
 
