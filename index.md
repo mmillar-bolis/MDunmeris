@@ -290,9 +290,3 @@ Now go have fun, get into the spirit of things, and don't take anything too seri
 
 ---
 
-<center>
-<span style="font-family:Daedric">As dimihn am as lehjii, <span style="color:red">ASV</span></span>
-</center>
-
----
-
