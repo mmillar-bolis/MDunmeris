@@ -16,7 +16,7 @@ Some translation examples:
 |Three blessings, sera|Walk with virtue|Why walk when you can ride?|
 |:-:|:-:|:-:|
 |Cahn'shoksunaa sera|Khosi enhi julopum|Ju'it khosi ku'elm ohn duhnanich?
-|<span style="font-family:Daedric">cahnâ€™shoksunaa sera</span>|<span style="font-family:Daedric">khosi enhi julopum</span>|<span style="font-family:Daedric">ju'it khosi ku'elm ohn duhnanich</span>
+|<span style="font-family:Daedric">cahn’shoksunaa sera</span>|<span style="font-family:Daedric">khosi enhi julopum</span>|<span style="font-family:Daedric">ju'it khosi ku'elm ohn duhnanich</span>
 
 [1]: https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0
 
@@ -289,4 +289,3 @@ My point is that there is a lot to be observed and discovered about Morrowind an
 Now go have fun, get into the spirit of things, and don't take anything too seriously!
 
 ---
-
