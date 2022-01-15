@@ -30,7 +30,7 @@
 
 ## Ald Gahduhnavenshik
 
-&emsp;&emsp;Os nulfid gher <span style="color:red">ASV</span>, cahnavri indkhes:\
+&emsp;&emsp;Os nulfi gher <span style="color:red">ASV</span>, cahnavri indkhes:\
 &emsp;&emsp;&emsp;&emsp;<span style="color:red">AYEM AE SEHTI AE VEHK</span>\
 &emsp;&emsp;Ku'or khosi'ath as malath,\
 &emsp;&emsp;&emsp;&emsp;jigde'ath as gah'moljuhn am Dunmer,\
