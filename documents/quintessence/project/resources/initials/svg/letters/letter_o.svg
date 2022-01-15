@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33.873mm" height="33.867mm" version="1.1" viewBox="0 0 33.873 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>Letter O Initial</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Letter O Initial</dc:title>
+    <dc:date>2021-10-16</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Indrele the Lesser</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="http://artlibre.org/licence/lal"/>
+   </cc:Work>
+   <cc:License rdf:about="http://artlibre.org/licence/lal">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-44.674 -100.24)">
+  <g transform="translate(1.6473e-5 3.5664e-5)">
+   <text class="TextShape" x="22.888351" y="53.695198" font-size=".17711px" stroke-width=".014759"><tspan class="TextParagraph" font-family="Daedric" font-size="31.244px" font-weight="400" stroke-width=".00018876"><tspan class="TextPosition" x="48.863976" y="126.79594" stroke-width=".014759"><tspan fill="#ff0000" stroke-width=".00018876">o</tspan></tspan></tspan></text>
+   <text class="TextShape" x="28.097105" y="63.265125" font-size=".15347px" stroke-width=".01279"><tspan class="TextParagraph" font-family="Aleo, sans-serif" font-size="41.016px" font-weight="400" stroke-width=".00016357"><tspan class="TextPosition" x="46.232658" y="131.80421" stroke-width=".01279"><tspan fill="#000000" stroke-width=".00016357">O</tspan></tspan></tspan></text>
+   <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width=".90806">
+    <path d="m44.68 100.69h33.867"/>
+    <path d="m78.086 100.25v33.854"/>
+    <path d="m78.547 133.65h-33.867"/>
+    <path d="m45.128 134.1v-33.854"/>
+   </g>
+   <text class="TextShape" x="28.437284" y="63.495491" font-size=".15347px" stroke-width=".01279"><tspan class="TextParagraph" font-family="Aleo" font-size="4.5147px" font-weight="700" stroke-width=".00016357"><tspan class="TextPosition" x="48.158741" y="118.66954" stroke-width=".01279"><tspan fill="#ffffff" stroke-width=".00016357">1</tspan></tspan></tspan></text>
+  </g>
+ </g>
+</svg>

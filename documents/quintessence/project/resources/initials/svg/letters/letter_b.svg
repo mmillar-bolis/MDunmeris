@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111.54" height="128" version="1.1" viewBox="0 0 29.511 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>Letter B Initial</title>
+ <defs>
+  <clipPath id="clip_path_1">
+   <path d="m0 0h15849v23495h-15849z"/>
+  </clipPath>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Letter B Initial</dc:title>
+    <dc:date>2021-10-16</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Indrele the Lesser</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="http://artlibre.org/licence/lal"/>
+   </cc:Work>
+   <cc:License rdf:about="http://artlibre.org/licence/lal">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-91.078 -131.23)">
+  <g transform="matrix(.013076 0 0 .013076 73.755 7.22)" clip-path="url(#clip_path_1)">
+   <g class="TextShape" aria-label="B">
+    <path d="m2053.5 9784.8q-102.3-6.8203-102.3-63.656 0-56.836 145.5-56.836h938.93q63.656 0 163.69-20.461 100.03-22.734 125.04-22.734 65.93 0 65.93 79.57 0 284.18-38.648 436.5-36.375 152.32-175.05 247.8-65.93 50.016-118.22 50.016-45.469 0-45.469-45.469 0-9.093 27.281-29.554 27.281-22.735 59.109-47.743 31.828-27.281 59.109-70.476 27.281-45.469 27.281-93.211 0-163.69-63.656-263.72t-206.88-100.03h-409.22q-111.4 0-111.4 95.484 0 154.59 36.375 195.52 27.281 31.828 109.12 125.04 81.844 90.938 111.4 127.31 29.555 34.101 86.391 111.4 56.836 77.297 79.57 129.59 22.734 50.016 43.195 122.77 20.461 72.75 20.461 143.23 0 452.41-768.42 966.21-22.734 15.914-52.289 72.75-29.555 59.109-70.477 59.109-38.648 0-38.648-75.023v-1307.2q0-36.375 13.641-68.203 13.641-34.101 34.102-34.101 34.102 0 50.016 109.12 6.8203 61.383 15.914 175.05 11.367 113.67 18.188 190.97 9.0938 77.297 20.461 179.6 13.641 102.3 25.008 170.51 13.641 68.203 29.555 131.86 18.188 63.656 38.648 95.484 22.734 31.828 47.742 31.828 115.95 0 211.43-184.15 95.484-186.42 95.484-363.75 0-181.88-202.34-336.47-36.375-27.281-59.109-97.758-22.734-70.476-22.734-147.77v-436.5q0-161.41-213.7-181.88z" fill="#f00"/>
+   </g>
+  </g>
+  <g class="TextShape" stroke-width=".01266" aria-label="B">
+   <path d="m93.827 163.26v-1.851q0-0.63758 0.61701-0.76098l2.4063-0.51418v-24.002q-2.0361-0.3702-2.4063-0.4936-0.61701-0.12341-0.61701-0.76099v-1.851h12.669q8.0417 0 10.016 4.5864 0.59644 1.4603 0.59644 2.9822 0 1.6248-0.32907 2.5298-0.41134 1.1518-1.0078 1.8922-1.4603 1.8305-4.2985 2.7354 6.6432 1.3163 6.6432 6.9105 0 3.9077-2.7766 6.1907-2.8382 2.4063-7.836 2.4063zm7.1162-3.2496h6.5609l-0.0411 0.0411q4.9978 0 6.273-3.2702 0.34964-0.96665 0.34964-2.2007 0-2.3446-1.6042-3.7021-1.6042-1.3574-5.0184-1.3574h-6.5198zm0-13.43h5.3886q5.0595 0 6.3141-3.0234 0.4319-1.1929 0.4319-2.1184 0-2.6326-1.6042-3.8666-1.6454-1.2752-4.9772-1.2752h-5.5531z"/>
+  </g>
+  <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width=".89889">
+   <path d="m91.084 131.68h29.499"/>
+   <path d="m120.14 131.24v33.854"/>
+   <path d="m120.58 164.65h-29.499"/>
+   <path d="m91.527 165.09v-33.854"/>
+  </g>
+  <g class="TextShape" stroke-width=".01266" aria-label="1">
+   <path d="m97.86 134.73 0.95144-0.8205h0.32297v2.9045q0.55864 0.0415 0.57174 0.0436 0.0611 0.0131 0.0611 0.0807v0.17894h-1.7152v-0.17891q0-0.0677 0.06328-0.0807l0.62411-0.0436v-2.1822q0-0.13311 0.0044-0.20076l-0.57174 0.48663q-0.04364 0.0371-0.08074 0.0371-0.07638 0-0.10693-0.0502z" fill="#fff"/>
+  </g>
+ </g>
+</svg>

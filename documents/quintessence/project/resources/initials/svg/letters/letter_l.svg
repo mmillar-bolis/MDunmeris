@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101.91" height="128" version="1.1" viewBox="0 0 26.964 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>Letter L Initial</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Letter L Initial</dc:title>
+    <cc:license rdf:resource="http://artlibre.org/licence/lal"/>
+    <dc:date>2021-10-16</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Indrele the Lesser</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+   <cc:License rdf:about="http://artlibre.org/licence/lal">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-48.506 -92.68)">
+  <text class="TextShape" x="31.96656" y="-21.016052" font-size=".15788px" stroke-width=".013157"><tspan class="TextParagraph" font-family="Daedric" font-size="30.629px" font-weight="400" stroke-width=".0001731"><tspan class="TextPosition" x="50.162582" y="118.78938" stroke-width=".013157"><tspan fill="#ff0000" stroke-width=".0001731">l</tspan></tspan></tspan></text>
+  <text class="TextShape" x="32.405636" y="-13.347881" font-size=".14897px" stroke-width=".012414"><tspan class="TextParagraph" font-family="Aleo, sans-serif" font-size="41.998px" font-weight="400" stroke-width=".00015412"><tspan class="TextPosition" x="50.009357" y="124.71346" stroke-width=".012414"><tspan fill="#000000" stroke-width=".00015412">L</tspan></tspan></tspan></text>
+  <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width=".88143">
+   <path d="m48.512 93.12h26.952"/>
+   <path d="m75.03 92.686v33.854"/>
+   <path d="m75.464 126.11h-26.952"/>
+   <path d="m48.947 126.54v-33.854"/>
+  </g>
+  <text class="TextShape" x="32.622963" y="-13.551019" font-size=".14897px" stroke-width=".012414"><tspan class="TextParagraph" font-family="Aleo" font-size="4.3823px" font-weight="700" stroke-width=".00015412"><tspan class="TextPosition" x="55.378685" y="98.439919" stroke-width=".012414"><tspan fill="#ffffff" stroke-width=".00015412">1</tspan></tspan></tspan></text>
+ </g>
+</svg>

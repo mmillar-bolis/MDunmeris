@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="103.17" height="128" version="1.1" viewBox="0 0 27.297 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>Letter F Initial</title>
+ <defs>
+  <clipPath id="clip_path_1">
+   <path d="m0 0h15875v23495h-15875z"/>
+  </clipPath>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Letter F Initial</dc:title>
+    <dc:date>2021-10-16</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Indrele the Lesser</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="http://artlibre.org/licence/lal"/>
+   </cc:Work>
+   <cc:License rdf:about="http://artlibre.org/licence/lal">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-62.639 -65.469)">
+  <g transform="matrix(.013027 0 0 .013027 42.067 -150.01)" clip-path="url(#clip_path_1)">
+   <g class="TextShape" aria-label="F">
+    <path d="m1771.3 17376v-579.73q0-36.375 20.461-75.023 20.461-38.649 65.93-38.649 6.8203 0 118.22 22.735 111.4 20.46 165.96 20.46h586.55q122.77 0 263.72-20.46 140.95-22.735 161.41-22.735 118.22 0 118.22 59.11 0 29.554-38.648 59.109-38.648 29.555-79.57 45.469-306.91 147.77-632.02 620.65h666.12q25.008 0 45.469 15.914 22.734 13.641 22.734 34.102 18.188 395.58 50.016 570.63 2.2735 9.093 2.2735 34.101 0 79.57-47.742 79.57-25.008 0-45.469-22.734-18.188-25.008-22.734-56.836-29.555-172.78-118.22-284.18-88.664-113.67-190.97-113.67h-518.34q-377.39 691.12-422.86 1182.2-2.2734 36.375-20.461 61.383-18.188 27.281-47.742 27.281-40.922 0-40.922-88.664 0-309.19 77.297-627.47 77.297-318.28 202.34-577.45 125.04-261.44 272.81-468.33 150.05-209.16 300.09-336.47 4.5469-4.547 4.5469-9.093 0-13.641-29.555-27.282-27.281-13.64-54.562-13.64h-261.45q-366.02 0-456.96 522.89-2.2734 9.094-6.8203 27.282-2.2734 15.914-4.5469 27.281-2.2734 11.367-6.8203 27.281t-9.0937 25.008q-4.5469 9.094-9.0938 20.461-4.5469 9.094-11.367 13.64-6.8203 4.547-15.914 4.547-25.008 0-38.648-45.468-13.641-45.469-13.641-93.211z" fill="#f00"/>
+   </g>
+  </g>
+  <g class="TextShape" stroke-width=".01279" aria-label="F">
+   <path d="m65.141 97.429v-1.7669q0-0.67801 0.61637-0.80128l2.4038-0.452v-24.038q-2.034-0.36982-2.4038-0.4931-0.61637-0.12327-0.61637-0.80128v-1.7669h22.333v7.2732h-2.0546q-0.7191 0-0.84237-0.7191 0-0.04109-0.06164-0.41091-0.04109-0.36982-0.12327-1.1506-0.08218-0.80128-0.16437-1.6847h-11.937v10.56h11.444v3.2873h-11.444v9.9441q0.14382 0.04109 0.43146 0.10273 0.30818 0.04109 0.86292 0.14382 0.55473 0.10273 1.0478 0.20546 0.67801 0.14382 0.67801 0.80128v1.7669z"/>
+  </g>
+  <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width=".85375">
+   <path d="m62.671 65.916h27.235"/>
+   <path d="m89.51 65.469v33.867"/>
+   <path d="m89.906 98.875h-27.235"/>
+   <path d="m63.066 99.335v-33.867"/>
+  </g>
+  <g class="TextShape" transform="translate(.066146)" stroke-width=".01279" aria-label="1">
+   <path d="m69.151 69.246 0.96114-0.82887h0.32626v2.9341q0.56434 0.04188 0.57756 0.04409 0.06172 0.01323 0.06172 0.08156v0.18076h-1.7327v-0.18076q0-0.06834 0.06393-0.08156l0.63047-0.04409v-2.2044q0-0.13447 0.0044-0.20281l-0.57756 0.49159q-0.04409 0.03748-0.08156 0.03748-0.07716 0-0.10802-0.0507z" fill="#fff"/>
+  </g>
+ </g>
+</svg>
