@@ -39,8 +39,8 @@
 |                &nbsp; | &nbsp;                                     |
 |    __Preview Images__ | [Cover][3], [Text][4], [Imagery][5]        |
 
-[1]: documents/quintessence/pdf/us_trade_hardcover-codex_sinramus.pdf
-[2]: documents/quintessence/pdf/us_trade_interior-codex_sinramus.pdf
+[1]: pdf/us_trade_hardcover-codex_sinramus.pdf
+[2]: pdf/us_trade_interior-codex_sinramus.pdf
 [3]: previews/01-cover.png
 [4]: previews/02-chapter.png
 [5]: previews/03-picture.png
@@ -51,27 +51,27 @@
 
 |                           *link* | *description*                                          |
 |---------------------------------:|:-------------------------------------------------------|
-|       [__Printing Instructions__][3] | How to print your own copy of the Quintessence     |
-| [__Canon of the Codex Sinramus__][4] | The list of books and links to read them           |
-|           [__Brief Explanation__][5] | Some thoughts behind the coposition of this volume |
+|       [__Printing Instructions__][6] | How to print your own copy of the Quintessence     |
+| [__Canon of the Codex Sinramus__][7] | The list of books and links to read them           |
+|           [__Brief Explanation__][8] | Some thoughts behind the coposition of this volume |
 
-[3]: info/instructions.html
-[4]: info/canon.html
-[5]: info/explanation.html
+[6]: info/instructions.md
+[7]: info/canon.md
+[8]: info/explanation.md
 
 ---
 
 | <span style="font-family:HayghinDaedric;font-size:400%;color:red">ASV</span> |
 |:----------------------------------------------------------------------------:|
-|                                                                ![ALMSIVI][6] |
-|                 *ALMSIVI*, fresco by [Tyddyner][7] ([A][8], [B][9], [C][10]) |
+|                                                                ![ALMSIVI][9] |
+|              *ALMSIVI*, fresco by [Tyddyner][10] ([A][11], [B][12], [C][13]) |
 |                                                                       &nbsp; |
 | __The old gods were cruel and arbitrary, and distant from the hopes and fears of mer. Their age is past. We are the new gods, born of the flesh, and wise and caring of the needs of our people.__ |
 
-[6]: ../../assets/images/frescos/fresco_tribunal_by_tyddyner.svg
-[7]: https://tyddyner.tumblr.com/
-[8]: https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover
-[9]: https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one
-[10]: https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet
+[9]: ../../assets/images/frescos/fresco_tribunal_by_tyddyner.svg
+[10]: https://tyddyner.tumblr.com/
+[11]: https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover
+[12]: https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one
+[13]: https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet
 
 ---
