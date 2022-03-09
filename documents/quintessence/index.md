@@ -32,12 +32,12 @@
 
 #### The Heirographa of the Codex Sinramus of Blessed ALMSIVI
 
-|         *description* | *file*                                     |
-|----------------------:|:-------------------------------------------|
-|        __Cover Page__ | [us_trade_hardcover-codex_sinramus.pdf][1] |
-| __Interior Document__ | [us_trade_interior-codex_sinramus.pdf][2]  |
-|                &nbsp; | &nbsp;                                     |
-|    __Preview Images__ | [Cover][3], [Text][4], [Imagery][5]        |
+|         *description* | *file*                                                     |
+|----------------------:|:-----------------------------------------------------------|
+|        __Cover Page__ | [us_trade_hardcover-codex_sinramus.pdf][1]                 |
+| __Interior Document__ | [us_trade_interior-codex_sinramus.pdf][2]                  |
+|                &nbsp; | &nbsp;                                                     |
+|    __Preview Images__ | [Cover Display][3], [Chapter Text][4], [Temple Imagery][5] |
 
 [1]: pdf/us_trade_hardcover-codex_sinramus.pdf
 [2]: pdf/us_trade_interior-codex_sinramus.pdf
@@ -49,11 +49,11 @@
 
 #### Information:
 
-|                           *link* | *description*                                          |
-|---------------------------------:|:-------------------------------------------------------|
-|       [__Printing Instructions__][6] | How to print your own copy of the Quintessence     |
-| [__Canon of the Codex Sinramus__][7] | The list of books and links to read them           |
-|           [__Brief Explanation__][8] | Some thoughts behind the coposition of this volume |
+|                               *link* | *description*                                       |
+|-------------------------------------:|:----------------------------------------------------|
+|       [__Printing Instructions__][6] | How to print your own copy of the Quintessence      |
+| [__Canon of the Codex Sinramus__][7] | The list of books and links to read them            |
+|           [__Brief Explanation__][8] | Some thoughts behind the composition of this volume |
 
 [6]: info/instructions.md
 [7]: info/canon.md
@@ -65,11 +65,7 @@
 |:----------------------------------------------------------------------------:|
 |                                                                ![ALMSIVI][9] |
 |              *ALMSIVI*, fresco by [Tyddyner][10] ([A][11], [B][12], [C][13]) |
-|                                   __The old gods were cruel and arbitrary,__ |
-|                                     __and distant from the hopes and fears__ |
-|                                    __of mer. Their age is past. We are the__ |
-|                                    __new gods, born of the flesh, and wise__ |
-|                                   __and caring of the needs of our people.__ |
+| __The old gods were cruel and arbitrary,__<br>__and distant from the hopes and fears__<br>__of mer. Their age is past. We are the__<br>__new gods, born of the flesh, and wise__<br>__and caring of the needs of our people.__ |
 
 [9]: ../../assets/images/frescos/fresco_tribunal_by_tyddyner.svg
 [10]: https://tyddyner.tumblr.com/

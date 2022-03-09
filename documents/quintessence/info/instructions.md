@@ -70,9 +70,9 @@ __I think most people will want a glossy coating for it's sturdiness.__
 
 [1]: https://www.lulu.com/
 [2]: https://www.lulu.com/account/projects
-[3]: https://github.com/mmillar-bolis/MDunmeris/releases/download/1.3/us_trade_interior-codex_sinramus.pdf
-[4]: https://github.com/mmillar-bolis/MDunmeris/releases/download/1.3/us_trade_hardcover-codex_sinramus.pdf
-[5]: https://github.com/mmillar-bolis/MDunmeris/blob/gh-pages/documents/quintessence/previews/lulu_funky_preview_pane.png?raw=true
+[3]: ../pdf/us_trade_interior-codex_sinramus.pdf
+[4]: ../pdf/us_trade_hardcover-codex_sinramus.pdf
+[5]: ../previews/lulu_funky_preview_pane.png
 
 ---
 
