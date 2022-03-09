@@ -56,19 +56,13 @@ Next, I edited two sections of *Vehk's Teachings* out of their original Q&A form
 
 C0DA really fills in the details for Kirkbride's vision of the Dunmer Eschaton, I think, which is partly why I *didn't* include it and went with Sermon 37 instead. I didn't want to be too concrete on anything, but another Temple Stricture that I wanted to balance any apocolyptica against was the absolute tenet that lay worship *must* directly benefit the gods. This is a key aspect in the struggle against Dagoth Ur and the other side of this, then, is that directing attention away from the gods is antithetical to the salvific mission behind Nerevarine Club -which again, can't be spoken of directly.
 
-<details>
-  <summary>Here's my take on the dilemma of Morrowind's hero saga:</summary>
+Here's my take on the dilemma of Morrowind's hero saga:
 
 > From what I gathered in the 36 Lessons \(especially [11][6], [13][7], and [15][8]\), Vivec explains in a roundabout manner that the Tribunal *already know* of their probable mortal fates through prescience, and that the best way to stop Dagoth Ur from swatting down the Nerevarine with that same prescience is to cast as much doubt over the the threads of fate as possible so that mythically, no one can be sure of the outcome, allowing the Nerevarine to eventually slip back into mortality, unseen &mdash;perhaps even by themselves (or more succinctly, it just takes time and pressure to stimulate the world-organ into eventually reproducing Nerevar).
 
-</details>
-
-<details>
-  <summary>Just utter profanity. Look away, my dear children.</summary>
+Do not read this profanity. Look away, my dear children.
 
 > I see it as a play on the aspect of quantum states. To grossly oversimplify, in quantum theory, once an object's position can be identified, it's trajectory can no longer be predicted. Vice-versa, if an object's trajectory can be predicted, it's position cannot be verified. Vivec's gamble as expressed in *The Lessons* (and *Sithis*) is that if the Hortator approaches the Sharmat with openness, their movements will remain largely unseen by him and his mythical schemes. (Think Invisible Boy from Mystery Men: "I can only become invisible when no-one's watching. If I look at myself, I become visible again.") This motif works in a myriad of ways between their interactions.
-
-</details>
 
 I couldn't state anything even remotely like this directly, however, which meant cutting up *The Trial* for sure. Avoiding the subject of Nerevar is also why I didn't include any excerpts from the parallel texts in Vivec's palace. Finally the Nerevarine plays an important role in the Amaranth as well. Again though, looking too far into the future takes focus off of the gods in the now. Thus, I tried to only include texts &mdash;or parts of texts&mdash; that lean heavily on the role of the Tribunal and left the rest of the information for players to find for themselves.
 

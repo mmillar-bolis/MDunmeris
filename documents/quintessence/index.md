@@ -65,8 +65,11 @@
 |:----------------------------------------------------------------------------:|
 |                                                                ![ALMSIVI][9] |
 |              *ALMSIVI*, fresco by [Tyddyner][10] ([A][11], [B][12], [C][13]) |
-|                                                                       &nbsp; |
-| __"The old gods were cruel and arbitrary,</br>and distant from the hopes and fears</br>of mer. Their age is past. We are the</br>new gods, born of the flesh, and wise</br>and caring of the needs of our people."__ |
+|                                   __The old gods were cruel and arbitrary,__ |
+|                                     __and distant from the hopes and fears__ |
+|                                    __of mer. Their age is past. We are the__ |
+|                                    __new gods, born of the flesh, and wise__ |
+|                                   __and caring of the needs of our people.__ |
 
 [9]: ../../assets/images/frescos/fresco_tribunal_by_tyddyner.svg
 [10]: https://tyddyner.tumblr.com/
