@@ -32,30 +32,27 @@
 
 #### The Heirographa of the Codex Sinramus of Blessed ALMSIVI
 
-|         *description* | *file*                                                     |
-|----------------------:|:-----------------------------------------------------------|
-|        __Cover Page__ | [us_trade_hardcover-codex_sinramus.pdf][1]                 |
-| __Interior Document__ | [us_trade_interior-codex_sinramus.pdf][2]                  |
-|                &nbsp; | &nbsp;                                                     |
-|    __Preview Images__ | [Cover Display][3], [Chapter Text][4], [Temple Imagery][5] |
+|                   Section | __Print Your Own Hardcopy__                                |
+|--------------------------:|:-----------------------------------------------------------|
+|            __Cover Page__ | [us_trade_hardcover-codex_sinramus.pdf][1]                 |
+|     __Interior Document__ | [us_trade_interior-codex_sinramus.pdf][2]                  |
+|                    &nbsp; | &nbsp;                                                     |
+| __Printing Instructions__ | [How to print your own copy of the Quintessence][3]        |
+|        __Preview Images__ | [Cover Display][4], [Chapter Text][5], [Temple Imagery][6] |
 
 [1]: pdf/us_trade_hardcover-codex_sinramus.pdf
 [2]: pdf/us_trade_interior-codex_sinramus.pdf
-[3]: previews/01-cover.png
-[4]: previews/02-chapter.png
-[5]: previews/03-picture.png
+[3]: info/instructions.md
+[4]: previews/01-cover.png
+[5]: previews/02-chapter.png
+[6]: previews/03-picture.png
 
----
+|                   Section | __Read From the Canon Online__                      |
+|--------------------------:|:----------------------------------------------------|
+|    __Canon of Scripture__ | [The list of books and links to read them][7]       |
+|                    &nbsp; | &nbsp;                                              |
+|     __Brief Explanation__ | [Thoughts behind the composition of this volume][8] |
 
-#### Information:
-
-|                               *link* | *description*                                       |
-|-------------------------------------:|:----------------------------------------------------|
-|       [__Printing Instructions__][6] | How to print your own copy of the Quintessence      |
-| [__Canon of the Codex Sinramus__][7] | The list of books and links to read them            |
-|           [__Brief Explanation__][8] | Some thoughts behind the composition of this volume |
-
-[6]: info/instructions.md
 [7]: info/canon.md
 [8]: info/explanation.md
 
