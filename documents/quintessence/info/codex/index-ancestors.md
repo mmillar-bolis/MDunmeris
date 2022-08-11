@@ -38,8 +38,8 @@
 <img alt="The Post at the Turning Point" width="130" height="196" src="../../project/resources/artwork/svg/Anu_Padomay-01.svg">
 <h4><span style="font-family:HayghinDaedric;font-size:200%;color:red">PSJJJJ</span></h4>
 <img alt="The Start of the House" width="448" height="242" src="../../project/resources/artwork/svg/The_House_of_Veloth-01.svg">
-<h6><span style="font-family:Georgia">The Post at the Turning Point</h6>
-<h6><span style="font-family:Georgia">and the Start of the House</h6>
+<h6><span style="font-family:Georgia">The Post at the Turning Point</span></h6>
+<h6><span style="font-family:Georgia">and the Start of the House</span></h6>
 </center>
 
 &#8203;\

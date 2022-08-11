@@ -37,7 +37,7 @@
 <h1><span style="font-family:Georgia">THE AVOWALMENTS</span></h1>
 <img alt="Scarab" width="467" height="448" src="../../project/resources/artwork/svg/Scarab-02.svg">
 <h4><span style="font-family:HayghinDaedric;font-size:150%;color:red">SCARAB AE AURBEX</span></h4>
-<h6><span style="font-family:Georgia">The New Man becomes God becomes Amaranth</h6>
+<h6><span style="font-family:Georgia">The New Man becomes God becomes Amaranth</span></h6>
 </center>
 
 &#8203;\

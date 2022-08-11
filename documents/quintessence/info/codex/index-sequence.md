@@ -37,7 +37,7 @@
 <h1><span style="font-family:Georgia">THE TRUTH IN SEQUENCE</span></h1>
 <img alt="Anticipation of Sotha Sil" width="325" height="512" src="../../project/resources/artwork/svg/Anticipation_of_Sotha_Sil_by_TheMyzel.svg">
 <h4><span style="font-family:HayghinDaedric;font-size:150%;color:red">SO'T'HA SIL</span></h4>
-<h6><span style="font-family:Georgia">The Light of Knowledge</h6>
+<h6><span style="font-family:Georgia">The Light of Knowledge</span></h6>
 </center>
 
 &#8203;\

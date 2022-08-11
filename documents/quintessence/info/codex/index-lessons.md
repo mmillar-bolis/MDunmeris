@@ -37,7 +37,7 @@
 <h1><span style="font-family:Georgia">THE 36 LESSONS</span></h1>
 <img alt="Anticipation of Vivec" width="388" height="512" src="../../project/resources/artwork/svg/Anticipation_of_Vivec_by_TheMyzel.svg">
 <h4><span style="font-family:HayghinDaedric;font-size:150%;color:red">V'VEHK</span></h4>
-<h6><span style="font-family:Georgia">Twice the Worn Sigil of Veloth</h6>
+<h6><span style="font-family:Georgia">Twice the Worn Sigil of Veloth</span></h6>
 </center>
 
 &#8203;\

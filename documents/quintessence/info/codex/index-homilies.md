@@ -37,7 +37,7 @@
 <h1><span style="font-family:Georgia">THE GREATER HOMILIES</span></h1>
 <img alt="Anticipation of Almalexia" width="330" height="512" src="../../project/resources/artwork/svg/Anticipation_of_Almalexia_by_TheMyzel.svg">
 <h4><span style="font-family:HayghinDaedric;font-size:150%;color:red">ALMA'LEXIA</span></h4>
-<h6><span style="font-family:Georgia">Mother of the Governance of Stars</h6>
+<h6><span style="font-family:Georgia">Mother of the Governance of Stars</span></h6>
 </center>
 
 &#8203;\
