@@ -59,11 +59,11 @@
 |  __Brief Explanation__ | [Thoughts behind the composition of this codex][8] |
 
 [7]: info/index.md
-[8]: info/sections/index-ancestors.md
-[9]: info/sections/index-homilies.md
-[10]: info/sections/index-sequence.md
-[11]: info/sections/index-lessons.md
-[12]: info/sections/index-avowalments.md
+[8]: info/codex/index-ancestors.md
+[9]: info/codex/index-homilies.md
+[10]: info/codex/index-sequence.md
+[11]: info/codex/index-lessons.md
+[12]: info/codex/index-avowalments.md
 [13]: info/explanation.md
 
 ---
