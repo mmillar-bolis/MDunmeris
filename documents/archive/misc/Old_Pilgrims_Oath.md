@@ -40,7 +40,7 @@
 &emsp;&emsp;&emsp;&emsp;and maintain the peace of Morrowind.\
 &emsp;&emsp;They guard and counsel their followers,\
 &emsp;&emsp;&emsp;&emsp;punish sin and error, and share their bounty,\
-&emsp;&emsp;&emsp;&emsp;according to their needs.
+&emsp;&emsp;&emsp;&emsp;according to our needs.
 
 &emsp;&emsp;I believe in the Ancestors,\
 &emsp;&emsp;&emsp;&emsp;the Host of Saints, the Temple,\
@@ -61,7 +61,7 @@
 &emsp;&emsp;&emsp;&emsp;en manise as flur jibu Morrowind.\
 &emsp;&emsp;Ashun freda et shoresha asuhm eremnesig,\
 &emsp;&emsp;&emsp;&emsp;fergha demyr en kiohr, en devo asuhm di'otunar,\
-&emsp;&emsp;&emsp;&emsp;lakor edur asuhm ur'ish.
+&emsp;&emsp;&emsp;&emsp;lakor edur iam ur'ish.
 
 &emsp;&emsp;Os nulfi gher as Caard,\
 &emsp;&emsp;&emsp;&emsp;as Kivri Burkhanmer en as Daenthi,\
@@ -82,7 +82,7 @@
 &emsp;&emsp;&emsp;&emsp;<span style="font-family:HayghinDaedric">en manise as flur jibu Morrowind.</span>\
 &emsp;&emsp;<span style="font-family:HayghinDaedric">Ashun freda en shoresha asuhm eremnesig,</span>\
 &emsp;&emsp;&emsp;&emsp;<span style="font-family:HayghinDaedric">fergha demyr en kiohr, en devo asuhm di'otunar,</span>\
-&emsp;&emsp;&emsp;&emsp;<span style="font-family:HayghinDaedric">lakor edur asuhm ur'ish.</span>
+&emsp;&emsp;&emsp;&emsp;<span style="font-family:HayghinDaedric">lakor edur iam ur'ish.</span>
 
 &emsp;&emsp;<span style="font-family:HayghinDaedric">Os nulfi gher as Caard,</span>\
 &emsp;&emsp;&emsp;&emsp;<span style="font-family:HayghinDaedric">as Kivri Burkhanmer en as Daenthi</span>\
