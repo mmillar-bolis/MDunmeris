@@ -61,9 +61,7 @@ that through war, they had become brides in glass, which no power could observe.
 
 <b>&sup1;&#8308;</b>The light bent, and Vivec donned a cuirass made of red plates of jewel, and a mask that marked him born in the lands of Man.
 <b>&sup1;&#8309;</b>Wheeling, he spread into an insect salve, worn on the neck of hist-bulbs when at challenge.
-<b>&sup1;&#8310;</b>He roared up and fed his fingers to mammoth ghosts.
-
-The signal fires wondered if they mistook this for surrender, for Vivec had told the void that he could learn to undo it all.
+<b>&sup1;&#8310;</b>He roared up and fed his fingers to mammoth ghosts. The signal fires wondered if they mistook this for surrender, for Vivec had told the void that he could learn to undo it all.
 
 <b>&sup1;&#8311;</b>The light bent, and somewhere a history was finally undone.
 <b>&sup1;&#8312;</b>Of it, Vivec remembered the laughing of the netchimen of his village when the hunts were good.
@@ -73,7 +71,6 @@ The signal fires wondered if they mistook this for surrender, for Vivec had told
 
 <b>&sup2;&sup2;</b>The light bent, and Vivec awoke and grew fangs, unwilling to make of herself a folding thing. This was a new and lunar promise.
 <b>&sup2;&sup3;</b>And in her Biting she tunneled up and then downward, while her brother and sister smeared across heaven, thin ruptures of dissent, food for scarabs and the Worm.
-
 <b>&sup2;&#8308;</b>She took her people and made them safe, and sat with Azura drawing her own husband's likeness in the dirt.
 
 <span style="display:inline-block;padding-left:4em"><b>&sup2;&#8309;</b>"For I have removed my left hand and my right, he will say," she said, "for that is how I shall win against them.

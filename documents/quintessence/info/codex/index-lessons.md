@@ -945,13 +945,13 @@ and their champion the Hortator.
 <span style="display:inline-block;padding-left:8em">I AM OLDER THAN MUSIC</span>\
 <span style="display:inline-block;padding-left:8em">WHAT I BRING IS LIGHT</span>\
 <span style="display:inline-block;padding-left:8em">WHAT I BRING IS A STAR</span>\
-<span style="display:inline-block;padding-left:8em"><b>&#8311;</b>WHAT I BRING IS</span>\
+<span style="display:inline-block;padding-left:8em">WHAT I BRING IS</span>\
 <span style="display:inline-block;padding-left:8em">AN ANCIENT SEA</span>\
-<span style="display:inline-block;padding-left:8em">WHEN YOU SLEEP YOU SEE ME</span>\
+<span style="display:inline-block;padding-left:8em"><b>&#8311;</b>WHEN YOU SLEEP YOU SEE ME</span>\
 <span style="display:inline-block;padding-left:8em">DANCING AT THE CORE</span>\
-<span style="display:inline-block;padding-left:8em"><b>&#8312;</b>IT IS NOT A BLIGHT</span>\
+<span style="display:inline-block;padding-left:8em">IT IS NOT A BLIGHT</span>\
 <span style="display:inline-block;padding-left:8em">IT IS MY HOUSE</span>\
-<span style="display:inline-block;padding-left:8em">I PUT A STAR</span>\
+<span style="display:inline-block;padding-left:8em"><b>&#8312;</b>I PUT A STAR</span>\
 <span style="display:inline-block;padding-left:8em">INTO THE WORLD'S MOUTH</span>\
 <span style="display:inline-block;padding-left:8em">TO MURDER IT</span>\
 <span style="display:inline-block;padding-left:8em"><b>&#8313;</b>TEAR DOWN THE PYLONS</span>\
