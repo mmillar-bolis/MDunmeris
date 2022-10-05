@@ -47,16 +47,16 @@
 [5]: previews/02-chapter.png
 [6]: previews/03-picture.png
 
-|                &#8203; | __Read From the Canon Online__                     |
-|-----------------------:|:---------------------------------------------------|
-| __Canon of Scripture__ | [Foreword][7]                                      |
-|                 __1.__ | [The Collection of the Ancestors][8]               |
-|                 __2.__ | [The Collection of the Homilies][9]                |
-|                 __3.__ | [The Collection of the Sequence][10]               |
-|                 __4.__ | [The Collection of the Lessons][11]                |
-|                 __5.__ | [The Collection of the Avowalments][12]            |
-|                &#8203; | &#8203;                                            |
-|  __Brief Explanation__ | [Thoughts behind the composition of this codex][8] |
+|                &#8203; | __Read From the Canon Online__                      |
+|-----------------------:|:----------------------------------------------------|
+| __Canon of Scripture__ | [Foreword][7]                                       |
+|                 __1.__ | [The Collection of the Ancestors][8]                |
+|                 __2.__ | [The Collection of the Homilies][9]                 |
+|                 __3.__ | [The Collection of the Sequence][10]                |
+|                 __4.__ | [The Collection of the Lessons][11]                 |
+|                 __5.__ | [The Collection of the Avowalments][12]             |
+|                &#8203; | &#8203;                                             |
+|  __Brief Explanation__ | [Thoughts behind the composition of this codex][13] |
 
 [7]: info/index.md
 [8]: info/codex/index-ancestors.md

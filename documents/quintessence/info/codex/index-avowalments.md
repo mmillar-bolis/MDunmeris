@@ -212,8 +212,8 @@ This is the Tower.
 
 <img align="left" alt="S" src="../../project/resources/initials/svg/letters/letter_t.svg">he middle dawn is an axis for the spirits of the Foretime.
 <b>&sup2;</b>As such, many of the beliefs of the primitive Psijics cannot be discounted; here, in this place, are proofs within proofs.
-<b>&sup3;</b>Of special note is the Blue Star, which the Alesstics call "Mnemoli", that runs through this part of the Aurbis every untime.
 
+<b>&sup3;</b>Of special note is the Blue Star, which the Alesstics call "Mnemoli", that runs through this part of the Aurbis every untime.
 <b>&#8308;</b>The Psijics hold it in much reverence, and many of their folk make pilgrimages to Veloth when it appears because a mountain there catches fire at its passing.
 <b>&#8309;</b>This mountain is reputed to be one of the last refuges of the Dwemer before they departed from this world.
 
