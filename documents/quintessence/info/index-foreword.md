@@ -62,25 +62,29 @@
 | &#8203; | &emsp;&emsp;[To the Reader][2]            |
 | &#8203; | &emsp;&emsp;[The Living Gods][3]          |
 | &#8203; | &emsp;&emsp;[Worshiping the Illogical][4] |
-|  __1:__ | [The Collection of the Ancestors][5]      |
-|  __2:__ | [The Collection of the Homilies][6]       |
-|  __3:__ | [The Collection of the Sequence][7]       |
-|  __4:__ | [The Collection of the Lessons][8]        |
-|  __5:__ | [The Collection of the Avowalments][9]    |
-| &#8203; | [Breviary][10]                            |
+| &#8203; | &emsp;&emsp;[The Pilgrim's Way][5]        |
+| &#8203; | &emsp;&emsp;[Love Under Will][6]          |
+|  __1:__ | [The Collection of the Ancestors][7]      |
+|  __2:__ | [The Collection of the Homilies][8]       |
+|  __3:__ | [The Collection of the Sequence][9]       |
+|  __4:__ | [The Collection of the Lessons][10]       |
+|  __5:__ | [The Collection of the Avowalments][11]   |
+| &#8203; | [Breviary][12]                            |
 
 [1]: #foreword
 [2]: #to-the-reader
 [3]: #the-living-gods
 [4]: #worshiping-the-illogical
-[5]: ./codex/index-ancestors.md
-[6]: ./codex/index-homilies.md
-[7]: ./codex/index-sequence.md
-[8]: ./codex/index-lessons.md
-[9]: ./codex/index-avowalments.md
-[10]: ./codex/index-breviary.md
-[11]: #
-[12]: #sections
+[5]: #the-pilgrims-way
+[6]: #love-under-will
+[7]: ./codex/index-ancestors.md
+[8]: ./codex/index-homilies.md
+[9]: ./codex/index-sequence.md
+[10]: ./codex/index-lessons.md
+[11]: ./codex/index-avowalments.md
+[12]: ./codex/index-breviary.md
+[13]: #
+[14]: #sections
 
 ---
 
@@ -88,7 +92,7 @@
 
 #### To the Reader
 
-&emsp;[Sections][12] | [Top][11]
+&emsp;[Sections][14] | [Top][13]
 
 <span style="display:inline-block;padding-left:4em">'Five are the corners of the world, but six are the
 walking ways, from enigma to enemy to teacher.'</span>
@@ -129,7 +133,7 @@ May this edition of the Scriptures further serve as a Treasure Wood Sword, waive
 
 #### The Living Gods
 
-&emsp;[Sections][12] | [Top][11]
+&emsp;[Sections][14] | [Top][13]
 
 No other religion in all of Nirn can claim what the Dunmer know as absolute truth: their gods rule over them and walk among them, as real and as present as any other resident of Morrowind. From their seat of power in Mournhold's Tribunal Temple, the Living Gods of the Tribunal guard and counsel their people. When necessary, they punish sin and error, but they also share their bounty with the greatest and least among us, each according to their needs. But who are the Living Gods? They are powerful Dunmer who achieved divine status through superhuman discipline and virtue, and supernatural wisdom and insight. As the three God-Kings of Morrowind, they form the divine leadership of the Dunmer nation. The Three&mdash;Lord, Mother, and Wizard&mdash;are described below.
 
@@ -147,7 +151,7 @@ Together, the Living Gods are the pillars of the Tribunal Temple. They represent
 
 #### Worshiping the Illogical
 
-&emsp;[Sections][12] | [Top][11]
+&emsp;[Sections][14] | [Top][13]
 
 The Clockwork Apostles dedicate their lives to many things. The words of our Sermons, laid before us by the ever-faithful Deldrise Morvayn, Fourth Tourbillon. The will of our god Lord Seht, the Mainspring Ever-Wound, the Divine Metronome. The driving forces of inspiration, of innovation, of discovery in all forms, magical, technological, spiritual.
 
@@ -155,7 +159,7 @@ But we often forget, in our pursuit to unravel the mysterious of our world, that
 
 I have found throughout my long tenure that many of my pupils have a hard time grasping the threefold nature of our belief within the Tribunal. Still, despite the repetition of these questions, I never rebuff this curiosity. Rather, I try to encourage it, for there is an abundance of contradictions within our piety towards Lady Almalexia and Lord Vivec. After all, the worship of these deities seem to almost challenge the beliefs we hold so true within our order.
 
-Why are we told to worship these often puzzling deities? Why must we follow not one god, but three?
+<span style="display:inline-block;padding-left:4em">Why are we told to worship these often puzzling deities? Why must we follow not one god, but three?</span>
 
 Yet even this seemingly simple fact is but a misconception, for in this sequence we have found truth. ALMSIVI is but one entity, not the fractured creation that many perceive it as. It only appears fractured in the forms our gods have taken, but rather than separate deities they are all one portion of a welded whole. Regulated in their irregularities. Lady Almalexia and Lord Vivec, who are only consistent in their inconsistency, still create the order of our truths. They are the tock within our Lord Seht's tick, the wheel that forever goes forward but only to circle itself.
 
@@ -170,5 +174,45 @@ Know that the Sublime Piston gives and takes in equal measures, sundering the Na
 And so we pay our respects to these aspects of our deities. Without faith towards ALMSIVI we ourselves become sundered from the truth. Speak the names of Lady Almalexia, Lord Sotha Sil, and Lord Vivec with respect, with piety. Listen to their words and heed their laws when necessary. They are the cogs that reflect ourselves, to be as venerated as the truths that we honor.
 
 <span style="display:inline-block;padding-left:1em">&ndash;Nevyn, Proctor and Apostle of Seht</span>
+
+---
+
+#### The Pilgrim's Way
+
+&emsp;[Sections][14] | [Top][13]
+
+To walk is to love, young pilgrims. We honor The Prophet through our travels. By walking his way, we keep the holy journey alive.
+
+It is the sole that keeps us in contact with Veloth. With each step, we sing the marching song of our forebears. By retracing the pattern, we strengthen the bond.
+
+It is with our feet that we followed Veloth. It was the exodus of the feet that brought us to Resdayn. It is our feet that now rest on the soils of Morrowind.
+
+<span style="display:inline-block;padding-left:4em">'Six are the guardians of Veloth, three before and they are born again, and they will test you until you have the proper tendencies of a hero.'</span>
+
+To walk is to love, young pilgrims. We honor The Three through our resolve. Through overcoming opposition, we grow closer to the source. These are the stories of the sole. With each step, the story grows.
+
+The markings on the sole may be physical or spiritual, but are always intertwined. Scars, scabs and blisters lead to callusing of the body, but also of the mind. Tattoos mark both sole and spirit.
+
+Each step has an effect, yet changes nothing. Each step is taken freely, though without choice. Each step tells the story that has yet to be told, the story that has already been told and the story that must be told.
+
+By retracing the pattern, we strengthen the bond.
+
+To walk is to love, young pilgrims.
+
+<span style="display:inline-block;padding-left:1em">&ndash;St. Rilms, the Barefooted</span>
+
+---
+
+#### Love Under Will
+
+&emsp;[Sections][14] | [Top][13]
+
+<span style="display:inline-block;padding-left:4em">'Know Love to avoid the Landfall, my brothers and sisters.'</span>
+
+Love is the harmony of self-interest and selflessness, when expressed or received unmindingly, that is, under will. We have been sundered, broken out of divinity and into the world, where mortal limits are a distraction from the freedom to truly act.
+
+But, when one can sustain the balance of love without conscious effort, they become ever present in the moment, unbound by time, unminding of past decisions or future questions. Because they are not distracted by mortal anguish, their integrity remains whole and they are free to act as is true to their nature, their divine character.
+
+<span style="display:inline-block;padding-left:1em">&ndash;Udrasi, Priest and Mystic</span>
 
 ---

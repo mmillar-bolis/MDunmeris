@@ -32,20 +32,20 @@
 
 #### The Heirographa of the Codex Sinramus of Blessed ALMSIVI
 
-|                   &#8203; | __Print Your Own Hardcopy__                                |
-|--------------------------:|:-----------------------------------------------------------|
-|            __Cover Page__ | [us_trade_hardcover-codex_sinramus.pdf][1]                 |
-|     __Interior Document__ | [us_trade_interior-codex_sinramus.pdf][2]                  |
-|                   &#8203; | &#8203;                                                    |
-| __Printing Instructions__ | [How to print your own copy of the Quintessence][3]        |
-|        __Preview Images__ | [Cover Display][4], [Chapter Text][5], [Temple Imagery][6] |
+|                &#8203; | __Print Your Own Hardcopy__                                |
+|-----------------------:|:-----------------------------------------------------------|
+|         __Cover Page__ | [us_trade_hardcover-codex_sinramus.pdf][1]<br />*or* [lulu_pocket-hardcover-codex_sinramus.pdf][2] |
+|  __Interior Document__ | [us_trade_interior-codex_sinramus.pdf][3]<br />*or* [lulu_pocket_interior-codex_sinramus.pdf][4] |
+|                &#8203; | &#8203;                                                    |
+| __Print Instructions__ | [How to print your own copy of the Quintessence][5]        |
+|     __Preview Images__ | [Cover and page photos of a printed copy][6]               |
 
 [1]: pdf/us_trade_hardcover-codex_sinramus.pdf
-[2]: pdf/us_trade_interior-codex_sinramus.pdf
-[3]: info/instructions.md
-[4]: previews/01-cover.png
-[5]: previews/02-chapter.png
-[6]: previews/03-picture.png
+[2]: pdf/lulu_pocket-hardcover-codex_sinramus.pdf
+[3]: pdf/us_trade_interior-codex_sinramus.pdf
+[4]: pdf/lulu_pocket_interior-codex_sinramus.pdf
+[5]: info/instructions.md
+[6]: info/results.md
 
 |                &#8203; | __Read From the Canon Online__                      |
 |-----------------------:|:----------------------------------------------------|
@@ -58,7 +58,7 @@
 |                &#8203; | &#8203;                                             |
 |  __Brief Explanation__ | [Thoughts behind the composition of this codex][13] |
 
-[7]: info/index.md
+[7]: info/index-foreword.md
 [8]: info/codex/index-ancestors.md
 [9]: info/codex/index-homilies.md
 [10]: info/codex/index-sequence.md
@@ -72,12 +72,12 @@
 |:----------------------------------------------------------------------------:|
 |                                                               ![ALMSIVI][14] |
 |              *ALMSIVI*, fresco by [Tyddyner][15] ([A][16], [B][17], [C][18]) |
-| __The old gods were cruel and arbitrary,__<br>__and distant from the hopes and fears__<br>__of mer. Their age is past. We are the__<br>__new gods, born of the flesh, and wise__<br>__and caring of the needs of our people.__ |
+| __The old gods were cruel and arbitrary,__<br />__and distant from the hopes and fears__<br />__of mer. Their age is past. We are the__<br />__new gods, born of the flesh, and wise__<br />__and caring of the needs of our people.__ |
 
 [14]: ../../assets/images/frescos/fresco_tribunal_by_tyddyner.svg
 [15]: https://tyddyner.tumblr.com/
 [16]: https://tyddyner.tumblr.com/post/127475780830/almalexia-godess-queen-of-morrowind-warden-lover
 [17]: https://tyddyner.tumblr.com/post/127579542465/sotha-sil-mystery-god-of-morrowind-the-last-one
-[19]: https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet
+[18]: https://tyddyner.tumblr.com/post/127640108900/vivec-vehk-and-vehk-god-thief-and-god-poet
 
 ---

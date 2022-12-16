@@ -30,10 +30,9 @@
 
 ## QUINTESSENCE
 
-
 #### How to Print
 
-Printing something on Lulu is really easy but first you will need to download the interior and cover pdfs.
+Printing something on Lulu is really easy but first you will need to download the interior and cover `.pdf`s.
 
 Next, create an account at [lulu.com][1] and head to your [Projects Page][2] to create a new project.
 
@@ -44,55 +43,55 @@ Below are the steps I used on the Design page to set up my book:
 __Product Type:__ Print Book\
 __Goal Option:__ Print Your Book\
 __Interior File:__ [*us_trade_interior-codex_sinramus.pdf*][3]\
+&emsp;&emsp;&emsp;or [*lulu_pocket_interior-codex_sinramus.pdf*][4]\
 __Book Specifications:__\
-&emsp;__Size:__ US Trade\
+&emsp;__Size:__ US Trade *or* Pocket Book\
 &emsp;__Interior Color:__ Color Standard\
 &emsp;__Paper Type:__ #60 White\
 &emsp;__Book Binding:__ Hardcover\
-&emsp;__Cover Finish:__ Glossy *or* Matte\
-__Cover File:__ [*us_trade_hardcover-codex_sinramus.pdf*][4]
+&emsp;__Cover Finish:__ Glossy\
+__Cover File:__ [*us_trade_hardcover-codex_sinramus.pdf*][5]\
+&emsp;&emsp;&emsp;or [*lulu_pocket-hardcover-codex_sinramus.pdf*][6]
 
-There will be two minor warnings to look out for:
-
-When you upload the interior file, you will receive a warning that some images within might have lines that are too thin for the printer to handle. This won't prevent you from proceeding. The line thickness error has to do with the fine detail in the fresco images. Some small rings that show up in digital are too small for the printhead. I received this warning every time, but it is a total false positive.
-
-At the end, the preview window doesn't seem to account for spine and gutter adjustment. If your preview [looks like this][5], you are seeing the same probable error that I saw. The book still printed correctly, however.
-
-If you are worried about the measurements, please feel free to have a look at the Lulu design documentation below, under __Making Modifications__.
-
-__A note on the cover finish:__ I chose matte because I was going for an old bound leather(ish?) appearance. Obviously, that's not so easy to accomplish with a mass-produced cardboard cover, so I settled on a flat color for the cover in order to pull off some semblance of my odd vision without trying to kid myself too much.
-
-I didn't know what to expect of the result, but it turns out that the mix of the paper surface and ink color lead to a bit of smudginess. I decided to just rip that band-aid and smudge up the whole cover with my palm for a nice weathered look, but it's hard to tell on my potato cam, and some people might not like it.
-
-The best option is to just print glossy. However, you can also make your own cover with the template files, or you could try the more limited but fairly easy online tool that the website provides. There's also a book-jacket option, but I haven't looked into it. Either way, I figured people would want to know ahead of time. It's theoretically possible that the matte cover could wrinkle as well, if not protected.
-
-__I think most people will want a glossy coating for it's sturdiness.__
+| Walkthrough | &#8203; |
+|-------------|---------|
+| <a href="../previews/publishing/setup-001.png" title="Print Book"><img src="../previews/publishing/setup-001.png" alt="Print Book" style="width:325px;height:205px;"></a> | First, select your product type which in this case is __Print Book__. |
+| <a href="../previews/publishing/setup-002.png" title="Print Your Book"><img src="../previews/publishing/setup-002.png" alt="Print Your Book" style="width:325px;height:205px;"></a> | Since this is for personal use, choose __Print Your Book__. |
+| <a href="../previews/publishing/setup-003.png" title="Book Category"><img src="../previews/publishing/setup-003.png" alt="Book Category" style="width:325px;height:205px;"></a> | Fill in some details about your book project. As previously mentioned, here is where you must choose a __Book Category__ in order to proceed. |
+| <a href="../previews/publishing/setup-004.png" title="Interior File"><img src="../previews/publishing/setup-004.png" alt="Interior File" style="width:325px;height:186px;"></a> | This is where you can upload an interior `.pdf` file. Be sure to choose either [*us_trade_interior-codex_sinramus.pdf*][3] or [*lulu_pocket_interior-codex_sinramus.pdf*][4]. You will also need the matching cover file a few steps below. You will also get two false-positive errors, as seen in the image to the left. One of them has to do with fine details in the images that might not show up on the printer. The other error is just a bug as there's no size 3 fonts in use. |
+| <a href="../previews/publishing/setup-005.png" title="Book Size"><img src="../previews/publishing/setup-005.png" alt="Book Size" style="width:325px;height:205px;"></a> | In most cases, the __Book Size__ will be automatically chosen for you. However, be sure to check that this field matches the `.pdf` set that you intend to print. |
+| <a href="../previews/publishing/setup-006.png" title="Interior Color"><img src="../previews/publishing/setup-006.png" alt="Interior Color" style="width:325px;height:205px;"></a> | Here is where you choose your __Interior Color__. If you want Daedric in color, choose *Color Standard*. To print in grayscale, choose *Black & White Standard*. I highly recommend color. |
+| <a href="../previews/publishing/setup-007.png" title="Paper Type"><img src="../previews/publishing/setup-007.png" alt="Paper Type" style="width:325px;height:205px;"></a> | Next, you can select a __Paper Type__. The default and probably best choice is going to be *60# White*. |
+| <a href="../previews/publishing/setup-008.png" title="Book Binding"><img src="../previews/publishing/setup-008.png" alt="Book Binding" style="width:325px;height:205px;"></a> | When selecting a __Book Binding__, be sure to choose *Hardcover*. You can do the *Linen Wrap* if you like, but my cover is not sized for the dust jacket, so you may need to make your own. |
+| <a href="../previews/publishing/setup-009.png" title="Cover Finish"><img src="../previews/publishing/setup-009.png" alt="Cover Finish" style="width:325px;height:205px;"></a> | For the __Cover Finish__, I highly recommend *Glossy* for it's durability. *Matte* can sometimes ripple from the glue, and it smudges heavily which some may not like the appearance of. |
+| <a href="../previews/publishing/setup-010.png" title="Cover File"><img src="../previews/publishing/setup-010.png" alt="Cover File" style="width:325px;height:205px;"></a> | This is where you can upload a cover `.pdf` file. Be sure to choose either [*us_trade_hardcover-codex_sinramus.pdf*][5] or [*lulu_pocket-hardcover-codex_sinramus.pdf*][6]. You will need to use the cover file that matches your uploaded interior file. |
+| <a href="../previews/publishing/setup-011.png" title="Book Preview"><img src="../previews/publishing/setup-011.png" alt="Book Preview" style="width:325px;height:205px;"></a> | This page is meant to let you preview your cover file, however it appears that the alignment is off in this tool. Lulu.com's template files are more correct and should be referenced instead of relying on this page. |
+| <a href="../previews/publishing/setup-012.png" title="Review Your Book"><img src="../previews/publishing/setup-012.png" alt="Review Your Book" style="width:325px;height:204px;"></a> | If your cover is looking centered here, you can rest assured that it will print correctly. |
 
 [1]: https://www.lulu.com/
 [2]: https://www.lulu.com/account/projects
 [3]: ../pdf/us_trade_interior-codex_sinramus.pdf
-[4]: ../pdf/us_trade_hardcover-codex_sinramus.pdf
-[5]: ../previews/lulu_funky_preview_pane.png
+[4]: ../pdf/lulu_pocket_interior-codex_sinramus.pdf
+[5]: ../pdf/us_trade_hardcover-codex_sinramus.pdf
+[6]: ../pdf/lulu_pocket-hardcover-codex_sinramus.pdf
 
 ---
 
 #### Making Modifications
 
-The first thing you will want to grab is a copy of the book design reference guide.
+The first thing you will want to grab is a copy of Lulu's book design reference guide.
 
-[__Lulu Book Creation Guide__][6]
+[__Lulu Book Creation Guide__][7]
 
-If you would like to make your own modifications to the Quintessence, my OpenDocument project file, as well as all of the image and font assets can be found in the [project folder on GitHub][7], or at the link for the [Quintessence Release Page][8] section above. Here's a direct link to the resource bundle in a `.zip`:
+If you would like to make your own modifications to the Quintessence, my OpenDocument project file, as well as all of the image and font assets can be found in the [project folder on GitHub][8], or at the link for the [Quintessence Release Page][9] section above. Here's a direct link to the resource bundle in a `.zip`:
 
-[__Source Document and Resource Bundle__][9]
+[__Source Document and Resource Bundle__][10]
 
-When exporting to PDF, I use the archive format PDF/A-1b to ensure there is no transparency in raster images.
+When exporting to `.pdf`, I use the archive format PDF/A-1b to ensure there is no transparency in the raster images.
 
-The cover is measured for a 17mm spine. I actually did a print at 16mm and the title was cramped. Yes, the design guide says that up to 168 pages the spine should be 16mm, but here's the interesting part: with Lulu, the first page is not in the first signature, but on a sheet fixed to the end paper. 14 signatures at 6 sheets each is 168 pages, but the two end sheets actually round the book up to 170. I don't know; I tried to account for the measurements on everyone's behalf, but let's face it, print-on-demand can be a little chaotic with self-made covers by amatures. A few prints so far with no issues but fingers crossed!
-
-[6]: https://assets.lulu.com/media/guides/en/lulu-book-creation-guide.pdf
-[7]: https://github.com/mmillar-bolis/MDunmeris/tree/gh-pages/documents/quintessence/project
-[8]: https://github.com/mmillar-bolis/MDunmeris/releases/
-[9]: https://github.com/mmillar-bolis/MDunmeris/releases/download/1.3/quintessence-project-source-bundle.zip
+[7]: https://assets.lulu.com/media/guides/en/lulu-book-creation-guide.pdf
+[8]: https://github.com/mmillar-bolis/MDunmeris/tree/gh-pages/documents/quintessence/project
+[9]: https://github.com/mmillar-bolis/MDunmeris/releases/
+[10]: https://github.com/mmillar-bolis/MDunmeris/releases/download/1.3/quintessence-project-source-bundle.zip
 
 ---
