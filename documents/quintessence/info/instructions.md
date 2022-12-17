@@ -53,8 +53,8 @@ __Book Specifications:__\
 __Cover File:__ [*us_trade_hardcover-codex_sinramus.pdf*][5]\
 &emsp;&emsp;&emsp;or [*lulu_pocket-hardcover-codex_sinramus.pdf*][6]
 
-| Walkthrough | &#8203; |
-|-------------|---------|
+| Preview | Walkthrough |
+|--------:|:------------|
 | <a href="../previews/publishing/setup-001.png" title="Print Book"><img src="../previews/publishing/setup-001.png" alt="Print Book" style="width:325px;height:205px;"></a> | First, select your product type which in this case is __Print Book__. |
 | <a href="../previews/publishing/setup-002.png" title="Print Your Book"><img src="../previews/publishing/setup-002.png" alt="Print Your Book" style="width:325px;height:205px;"></a> | Since this is for personal use, choose __Print Your Book__. |
 | <a href="../previews/publishing/setup-003.png" title="Book Category"><img src="../previews/publishing/setup-003.png" alt="Book Category" style="width:325px;height:205px;"></a> | Fill in some details about your book project. As previously mentioned, here is where you must choose a __Book Category__ in order to proceed. |

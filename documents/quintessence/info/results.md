@@ -33,7 +33,7 @@
 #### The Printed Results
 
 | US Print Size |
-|---------------|
+|:-------------:|
 | <a href="../previews/results/book_print-001.jpg" title="Print Cover Front"><img src="../previews/results/book_print-001.jpg" alt="Print Cover Front" style="width:325px;height:433px;"></a> |
 | <a href="../previews/results/book_print-002.jpg" title="Print Cover Back"><img src="../previews/results/book_print-002.jpg" alt="Print Cover Back" style="width:325px;height:433px;"></a> |
 | <a href="../previews/results/book_print-003.jpg" title="Pocket Page #1"><img src="../previews/results/book_print-003.jpg" alt="Pocket Page #1" style="width:325px;height:381px;"></a> |
@@ -45,7 +45,7 @@
 
 
 | Lulu Pocket Size |
-|------------------|
+|:----------------:|
 | <a href="../previews/results/book_pocket-001.jpg" title="Pocket Cover Front"><img src="../previews/results/book_pocket-001.jpg" alt="Pocket Cover Front" style="width:325px;height:386px;"></a> |
 | <a href="../previews/results/book_pocket-002.jpg" title="Pocket Page #1"><img src="../previews/results/book_pocket-002.jpg" alt="Pocket Page #1" style="width:325px;height:279px;"></a> |
 | <a href="../previews/results/book_pocket-003.jpg" title="Pocket Page #2"><img src="../previews/results/book_pocket-003.jpg" alt="Pocket Page #2" style="width:325px;height:293px;"></a> |
@@ -53,7 +53,7 @@
 
 
 | Size Comparison |
-|-----------------|
+|:---------------:|
 | <a href="../previews/results/book_comparison-001.jpg" title="Size Comparison #1"><img src="../previews/results/book_comparison-001.jpg" alt="Size Comparison #1" style="width:325px;height:269px;"></a> |
 | <a href="../previews/results/book_comparison-002.jpg" title="Size Comparison #2"><img src="../previews/results/book_comparison-002.jpg" alt="Size Comparison #2" style="width:325px;height:174px;"></a> |
 
