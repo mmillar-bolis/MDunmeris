@@ -30,7 +30,7 @@
 
 ## QUINTESSENCE
 
-#### Sizes
+#### Note: Print Sizes
 
 I have made two different sizes available: a more standard US Trade size that is two-column, and a smaller "Pocket" size, similar to Mass Market Paperback dimensions, which is single column. The two editions are almost identical, except for a few small changes.
 
