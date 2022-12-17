@@ -105,6 +105,6 @@ When exporting to `.pdf`, I use the archive format PDF/A-1b to ensure there is n
 [7]: https://assets.lulu.com/media/guides/en/lulu-book-creation-guide.pdf
 [8]: https://github.com/mmillar-bolis/MDunmeris/tree/gh-pages/documents/quintessence/project
 [9]: https://github.com/mmillar-bolis/MDunmeris/releases/
-[10]: https://github.com/mmillar-bolis/MDunmeris/releases/download/1.3/quintessence-project-source-bundle.zip
+[10]: https://github.com/mmillar-bolis/MDunmeris/releases/download/2.0/quintessence-project-source-bundle.zip
 
 ---
