@@ -30,6 +30,19 @@
 
 ## QUINTESSENCE
 
+#### Sizes
+
+I have made two different sizes available: a more standard US Print size that is two-column, and a smaller "Pocket" size, similar to Mass Market Paperback dimensions, which is single column. The two editions are almost identical, except for a few small changes.
+
+In the Pocket version:
+
+* The introduction is rearranged to make the best use of available space
+* The Temple Oath in Daedric has been removed due to legibility
+* The breviary is rearranged to make the best use of available space
+* The map of Tamriel has been removed due to legibility
+
+---
+
 #### How to Print
 
 Printing something on Lulu is really easy but first you will need to download the interior and cover `.pdf`s.

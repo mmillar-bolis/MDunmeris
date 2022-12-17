@@ -82,7 +82,7 @@
 [9]: ./codex/index-sequence.md
 [10]: ./codex/index-lessons.md
 [11]: ./codex/index-avowalments.md
-[12]: ./codex/index-breviary.md
+[12]: ./index-breviary.md
 [13]: #
 [14]: #sections
 
