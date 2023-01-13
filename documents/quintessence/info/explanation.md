@@ -30,6 +30,8 @@
 
 ## QUINTESSENCE
 
+__NOTE:__ Reddit has permanently suspended my account for posting this project. As such, I will no longer be able to answer questions related to it. I am very sorry.
+
 #### Brief Explanation
 
 This was just a fun personal project. The source is available for everyone to modify.

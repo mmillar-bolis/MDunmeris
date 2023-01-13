@@ -30,6 +30,8 @@
 
 ## QUINTESSENCE
 
+__NOTE:__ Reddit has permanently suspended my account for posting this project. As such, I will no longer be able to answer questions related to it. I am very sorry.
+
 #### The Printed Results
 
 | US Print Size |

@@ -30,6 +30,8 @@
 
 ## QUINTESSENCE
 
+__NOTE:__ Reddit has permanently suspended my account for posting this project. As such, I will no longer be able to answer questions related to it. I am very sorry.
+
 #### Note: Print Sizes
 
 I have made two different sizes available: a more standard US Trade size that is two-column, and a smaller "Pocket" size, similar to Mass Market Paperback dimensions, which is single column. The two editions are almost identical, except for a few small changes.
