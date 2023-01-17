@@ -10,6 +10,10 @@
     font-weight: medium;
     font-style: normal;
 }
+table {
+    float: left;
+    table-layout: fixed;
+}
 </style>
 
 <!--- Jekyll Page Links -->
@@ -68,20 +72,66 @@ __Book Specifications:__\
 __Cover File:__ [*us_trade_hardcover-codex_sinramus.pdf*][5]\
 &emsp;&emsp;&emsp;or [*lulu_pocket-hardcover-codex_sinramus.pdf*][6]
 
-| Preview | Walkthrough |
-|--------:|:------------|
-| <a href="../previews/publishing/setup-001.png" title="Print Book"><img src="../previews/publishing/setup-001.png" alt="Print Book" style="width:325px;height:205px;"></a> | First, select your product type which in this case is __Print Book__. |
-| <a href="../previews/publishing/setup-002.png" title="Print Your Book"><img src="../previews/publishing/setup-002.png" alt="Print Your Book" style="width:325px;height:205px;"></a> | Since this is for personal use, choose __Print Your Book__. |
-| <a href="../previews/publishing/setup-003.png" title="Book Category"><img src="../previews/publishing/setup-003.png" alt="Book Category" style="width:325px;height:205px;"></a> | Fill in some details about your book project. As previously mentioned, here is where you must choose a __Book Category__ in order to proceed. |
-| <a href="../previews/publishing/setup-004.png" title="Interior File"><img src="../previews/publishing/setup-004.png" alt="Interior File" style="width:325px;height:186px;"></a> | This is where you can upload an interior `.pdf` file. Be sure to choose either [*us_trade_interior-codex_sinramus.pdf*][3] or [*lulu_pocket_interior-codex_sinramus.pdf*][4]. You may receive two false-positive errors, as seen in the image to the left. One of them has to do with fine details in the images that might not show up on the printer. The other error is just a bug likely related to the exported `.pdf`, as there's no fonts in use below 5pt. |
-| <a href="../previews/publishing/setup-005.png" title="Book Size"><img src="../previews/publishing/setup-005.png" alt="Book Size" style="width:325px;height:205px;"></a> | In most cases, the __Book Size__ will be automatically chosen for you. However, be sure to check that this field matches the `.pdf` set that you intend to print. |
-| <a href="../previews/publishing/setup-006.png" title="Interior Color"><img src="../previews/publishing/setup-006.png" alt="Interior Color" style="width:325px;height:205px;"></a> | Here is where you choose your __Interior Color__. If you want Daedric in color, choose *Color Standard*. To print in grayscale, choose *Black & White Standard*. I highly recommend color. |
-| <a href="../previews/publishing/setup-007.png" title="Paper Type"><img src="../previews/publishing/setup-007.png" alt="Paper Type" style="width:325px;height:205px;"></a> | Next, you can select a __Paper Type__. The default and probably best choice is going to be *60# White*. |
-| <a href="../previews/publishing/setup-008.png" title="Book Binding"><img src="../previews/publishing/setup-008.png" alt="Book Binding" style="width:325px;height:205px;"></a> | When selecting a __Book Binding__, be sure to choose *Hardcover*. You can do the *Linen Wrap* if you like, but my cover is not sized for the dust jacket, so you may need to make your own. |
-| <a href="../previews/publishing/setup-009.png" title="Cover Finish"><img src="../previews/publishing/setup-009.png" alt="Cover Finish" style="width:325px;height:205px;"></a> | For the __Cover Finish__, I highly recommend *Glossy* for it's durability. *Matte* can sometimes ripple from the glue, and it smudges heavily which some may not like the appearance of. |
-| <a href="../previews/publishing/setup-010.png" title="Cover File"><img src="../previews/publishing/setup-010.png" alt="Cover File" style="width:325px;height:205px;"></a> | This is where you can upload a cover `.pdf` file. Be sure to choose either [*us_trade_hardcover-codex_sinramus.pdf*][5] or [*lulu_pocket-hardcover-codex_sinramus.pdf*][6]. You will need to use the cover file that matches your uploaded interior file. |
-| <a href="../previews/publishing/setup-011.png" title="Book Preview"><img src="../previews/publishing/setup-011.png" alt="Book Preview" style="width:325px;height:205px;"></a> | This page is meant to let you preview your cover file, however it appears that the alignment is off in this tool. Lulu's template files are more correct and should be referenced instead of relying on their web page applet. |
-| <a href="../previews/publishing/setup-012.png" title="Review Your Book"><img src="../previews/publishing/setup-012.png" alt="Review Your Book" style="width:325px;height:204px;"></a> | If your cover is looking centered here, you can rest assured that it will print centered. |
+<table>
+  <thead>
+    <tr>
+      <th>Preview</th>
+      <th>Walkthrough</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p><a href="../previews/publishing/setup-001.png" title="Print Book"><img src="../previews/publishing/setup-001.png" alt="Print Book"></a></p></td>
+      <td>First, select your product type which in this case is <b>Print Book</b>.</td>
+    </tr>
+    <tr>
+      <td><p><a href="../previews/publishing/setup-002.png" title="Print Your Book"><img src="../previews/publishing/setup-002.png" alt="Print Your Book"></a></p></td>
+      <td>Since this is for personal use, choose <b>Print Your Book</b>.</td>
+    </tr>
+    <tr>
+      <td><p><a href="../previews/publishing/setup-003.png" title="Book Category"><img src="../previews/publishing/setup-003.png" alt="Book Category"></a></p></td>
+      <td>Fill in some details about your book project. As previously mentioned, here is where you must choose a <b>Book Category</b> in order to proceed.</td>
+    </tr>
+    <tr>
+      <td><p><a href="../previews/publishing/setup-004.png" title="Interior File"><img src="../previews/publishing/setup-004.png" alt="Interior File"></a></p></td>
+      <td>This is where you can upload an interior <code>.pdf</code> file. Be sure to choose either <a href="../pdf/us_trade_interior-codex_sinramus.pdf" title="US Trade Size"><i>us_trade_interior-codex_sinramus.pdf</i></a> or <a href="../pdf/lulu_pocket_interior-codex_sinramus.pdf" title="Lulu Pocket Size"><i>lulu_pocket_interior-codex_sinramus.pdf</i></a>.<br /><br />
+          You may receive two false-positive errors, as seen in the image to the left. One of them has to do with fine details in the images that might not show up on the printer. The other error is just a bug likely related to the exported <code>.pdf</code>, as there's no fonts in use below 5pt.</td>
+    </tr>
+    <tr>
+      <td><p><a href="../previews/publishing/setup-005.png" title="Book Size"><img src="../previews/publishing/setup-005.png" alt="Book Size"></a></p></td>
+      <td>In most cases, the <b>Book Size</b> will be automatically chosen for you. However, be sure to check that this field matches the <code>.pdf</code> set that you intend to print.</td>
+    </tr>
+    <tr>
+      <td><p><a href="../previews/publishing/setup-006.png" title="Interior Color"><img src="../previews/publishing/setup-006.png" alt="Interior Color"></a></p></td>
+      <td>Here is where you choose your <b>Interior Color</b>. If you want Daedric in color, choose <i>Color Standard</i>. To print in grayscale, choose <i>Black & White Standard</i>. I highly recommend color.</td>
+    </tr>
+    <tr>
+      <td><p><a href="../previews/publishing/setup-007.png" title="Paper Type"><img src="../previews/publishing/setup-007.png" alt="Paper Type"></a></p></td>
+      <td>Next, you can select a <b>Paper Type</b>. The default and probably best choice is going to be <i>60# White</i>.</td>
+    </tr>
+    <tr>
+      <td><p><a href="../previews/publishing/setup-008.png" title="Book Binding"><img src="../previews/publishing/setup-008.png" alt="Book Binding"></a></p></td>
+      <td>When selecting a <b>Book Binding</b>, be sure to choose <i>Hardcover</i>. You can do the <i>Linen Wrap</i> if you like, but my cover is not sized for the dust jacket, so you may need to make your own.</td>
+    </tr>
+    <tr>
+      <td><p><a href="../previews/publishing/setup-009.png" title="Cover Finish"><img src="../previews/publishing/setup-009.png" alt="Cover Finish"></a></p></td>
+      <td>For the <b>Cover Finish</b>, I highly recommend <i>Glossy</i> for it's durability. <i>Matte</i> can sometimes ripple from the glue, and it smudges heavily which some may not like the appearance of.</td>
+    </tr>
+    <tr>
+      <td><p><a href="../previews/publishing/setup-010.png" title="Cover File"><img src="../previews/publishing/setup-010.png" alt="Cover File"></a></p></td>
+      <td>This is where you can upload a cover <code>.pdf</code> file. Be sure to choose either <a href="../pdf/us_trade_hardcover-codex_sinramus.pdf" title="US Trade Size"><i>us_trade_hardcover-codex_sinramus.pdf</i></a> or <a href="../pdf/lulu_pocket-hardcover-codex_sinramus.pdf" title="US Trade Size"><i>lulu_pocket-hardcover-codex_sinramus.pdf</i></a>.<br /><br />
+          You will need to use the cover file that matches your uploaded interior file.</td>
+    </tr>
+    <tr>
+      <td><p><a href="../previews/publishing/setup-011.png" title="Cover Preview"><img src="../previews/publishing/setup-011.png" alt="Cover Preview"></a><br/><a href="../previews/publishing/setup-012.png" title="Internal Preview"><img src="../previews/publishing/setup-012.png" alt="Internal Preview"></p></td>
+      <td>This page is meant to let you preview your cover file, however it appears that the alignment is off in this tool. If the the page contents appear to be spilling over into the shaded area, don't be alarmed, as that is how it appears for me too.<br /><br />Lulu's template files and book creation guide are more accurate and correct. If you have made any changes and/or would like to verify measurements, these should be referenced instead of relying on the web preview applet.</td>
+    </tr>
+    <tr>
+      <td><p><a href="../previews/publishing/setup-013.png" title="Review Your Book"><img src="../previews/publishing/setup-013.png" alt="Review Your Book"></a></p></td>
+      <td>If your cover is looking centered here, you can rest assured that it will print centered.</td>
+    </tr>
+  </tbody>
+</table>
 
 [1]: https://www.lulu.com/
 [2]: https://www.lulu.com/account/projects
