@@ -14,6 +14,9 @@ table {
     float: left;
     table-layout: fixed;
 }
+td {
+    vertical-align: top;
+}
 </style>
 
 <!--- Jekyll Page Links -->
