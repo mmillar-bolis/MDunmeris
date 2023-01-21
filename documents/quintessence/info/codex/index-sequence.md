@@ -366,7 +366,7 @@ must be sundered on Nirn.
 <b>&sup1;&#8311;</b>"Hail, intentions divided! Hail, cursed multitudes!"
 <b>&sup1;&#8312;</b>Do not stand in the Pendulum's path, ash-child. Only the Mainspring Ever-Wound may bear its weight.
 
-<b>&sup1;&#8313;</b>Do not stand in the Pendulum's path, ash-child. Only the Mainspring Ever-Wound may bear its weight.
+<b>&sup1;&#8313;</b>Last is the reciprocating motion. "The Sublime Piston." The lover's embrace.
 <b>&sup2;&#8304;</b>Like the Father of Mystery, it gives and takes in equal measure.
 <b>&sup2;&sup1;</b>As the bow upon the strings, it calls forth the sublime. As the carpenter's saw, it wrenches back and forth, sundering the Named pursuits of lesser mer.
 <b>&sup2;&sup2;</b>Only a Nameless heart may harness its strength.
