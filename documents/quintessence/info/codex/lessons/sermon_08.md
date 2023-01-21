@@ -50,8 +50,10 @@
 <b>&sup1;&sup1;</b>It tells me that, like it, we must for a while be like he is and, as a people, cloaked in our former enemies, and to use their machines without shame.'
 
 <b>&sup1;&sup2;</b>At which Vivec spoke aloud, 'Boethiah-who-is-you wore the skin of Trinimac to cleanse the faults of Veloth, my Queen, and so it should be again. This is the walking way of the glorious.'
+
 <b>&sup1;&sup3;</b>Seht appeared out of a cloud of iron vapor and his minions made of their blood a chair.
 <b>&sup1;&#8308;</b>He sat beside Ayem and looked on the rebirth of mastery.
+
 <b>&sup1;&#8309;</b>Vivec said to them, his Triune:
 
 <span style="display:inline-block;padding-left:4em">'My rituals and ordeals and all the rhymes within,</span>\

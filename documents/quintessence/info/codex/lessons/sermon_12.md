@@ -61,7 +61,9 @@
 
 <b>&sup1;&#8311;</b>Molag Bal rose up and extended six arms to show his worth.
 <b>&sup1;&#8312;</b>They were decorated in runes of seduction and its reverse. They were decorated in the annotated calendars of longer worlds.
-<b>&sup1;&#8313;</b>When he spoke, mating monsters fell out. 'Where must it go?' he said.
+<b>&sup1;&#8313;</b>When he spoke, mating monsters fell out.
+
+'Where must it go?' he said.
 
 <span style="display:inline-block;padding-left:4em"><b>&sup2;&#8304;</b>'I told you,' Vivec said, 'I am meant to be the teacher of the king of the earth.
 <span style="font-family:HayghinDaedric;color:red">AE ALTADOON GHARTOK PADHOME</span>.'</span>

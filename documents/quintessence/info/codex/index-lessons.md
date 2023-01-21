@@ -174,6 +174,7 @@ To which the netchiman's wife said the Hortator.
 
 <img align="left" alt="T" src="../../project/resources/initials/svg/vivec/initial_02.svg">he netchiman's wife who carried the egg of Vivec within her went looking for the lands of the Indoril.
 <b>&sup2;</b>Along the journey many spirits came to see her and offer instructions to her son-daughter, the future glorious invisible warrior-poet of Vvardenfell, Vivec.
+
 <b>&sup3;</b>The first spirit threw his arms about her and hugged his knowledge in tight.
 <b>&#8308;</b>The netchiman's wife became soaked in the Incalculable Effort.
 <b>&#8309;</b>The egg was delighted and did somersaults inside her, bowing to the five corners of the world and saying:
@@ -549,8 +550,10 @@ For by the word I mean preceded by a wolf.
 <b>&sup1;&sup1;</b>It tells me that, like it, we must for a while be like he is and, as a people, cloaked in our former enemies, and to use their machines without shame.'
 
 <b>&sup1;&sup2;</b>At which Vivec spoke aloud, 'Boethiah-who-is-you wore the skin of Trinimac to cleanse the faults of Veloth, my Queen, and so it should be again. This is the walking way of the glorious.'
+
 <b>&sup1;&sup3;</b>Seht appeared out of a cloud of iron vapor and his minions made of their blood a chair.
 <b>&sup1;&#8308;</b>He sat beside Ayem and looked on the rebirth of mastery.
+
 <b>&sup1;&#8309;</b>Vivec said to them, his Triune:
 
 <span style="display:inline-block;padding-left:4em">'My rituals and ordeals and all the rhymes within,</span>\
@@ -782,7 +785,9 @@ Embrace the art of the people and marry it and by that I mean secretly have it m
 
 <b>&sup1;&#8311;</b>Molag Bal rose up and extended six arms to show his worth.
 <b>&sup1;&#8312;</b>They were decorated in runes of seduction and its reverse. They were decorated in the annotated calendars of longer worlds.
-<b>&sup1;&#8313;</b>When he spoke, mating monsters fell out. 'Where must it go?' he said.
+<b>&sup1;&#8313;</b>When he spoke, mating monsters fell out.
+
+'Where must it go?' he said.
 
 <span style="display:inline-block;padding-left:4em"><b>&sup2;&#8304;</b>'I told you,' Vivec said, 'I am meant to be the teacher of the king of the earth.
 <span style="font-family:HayghinDaedric;color:red">AE ALTADOON GHARTOK PADHOME</span>.'</span>
@@ -1200,11 +1205,11 @@ This sermon is untrue.
 
 <b>&sup1;&sup3;</b>Your house is safe now
 
-So why is it\-\-
+So why is it&mdash;
 
 Your house is safe now
 
-So why is it\-\-
+So why is it&mdash;
 
 <b>&sup1;&#8308;</b>The ending of the words is
 <span style="font-family:HayghinDaedric;color:red">ASV</span>.

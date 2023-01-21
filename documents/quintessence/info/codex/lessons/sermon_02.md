@@ -36,6 +36,7 @@
 
 <img align="left" alt="T" src="../../../project/resources/initials/svg/vivec/initial_02.svg">he netchiman's wife who carried the egg of Vivec within her went looking for the lands of the Indoril.
 <b>&sup2;</b>Along the journey many spirits came to see her and offer instructions to her son-daughter, the future glorious invisible warrior-poet of Vvardenfell, Vivec.
+
 <b>&sup3;</b>The first spirit threw his arms about her and hugged his knowledge in tight.
 <b>&#8308;</b>The netchiman's wife became soaked in the Incalculable Effort.
 <b>&#8309;</b>The egg was delighted and did somersaults inside her, bowing to the five corners of the world and saying:
