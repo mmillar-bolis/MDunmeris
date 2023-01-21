@@ -17,7 +17,7 @@
 <center>
 <a href="index.html">Home</a>
 &emsp;&nabla;&emsp;
-<a href="documents/archive/about.html">About</a>
+<a href="documents/about/index.html">About</a>
 &emsp;&nabla;&emsp;
 <a href="documents/archive/index.html">Archive</a>
 &emsp;&nabla;&emsp;

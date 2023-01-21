@@ -17,11 +17,11 @@
 <center>
 <a href="../../index.html">Home</a>
 &emsp;&nabla;&emsp;
-<a href="about.html">About</a>
+<a href="../index.html">About</a>
 &emsp;&nabla;&emsp;
-<a href="index.html">Archive</a>
+<a href="../../archive/index.html">Archive</a>
 &emsp;&nabla;&emsp;
-<a href="../quintessence/index.html">Quintessence</a>
+<a href="../../quintessence/index.html">Quintessence</a>
 </center>
 
 <!--- Markdown Body Below: -->
@@ -43,7 +43,7 @@ Some translation examples:
 
 ## Quick Info:
 
-Want to skip the article and jump right in to creating and translating manuscripts? Here's all you need:
+Want to jump right in to creating and translating your own manuscripts? Here's all you need:
 
 - [Markdown Syntax][2]
 - [Hayghin Daedric font][3] (based on [Ayembedt][4]\)
@@ -154,7 +154,7 @@ This will allow you to distribute a single, flat markdown file with fonts, simil
 Finally, you can render text in your Markdown body by wrapping it with a span tag that specifies the font by it's internal name (not filename):
 
 ```html
-<span style="font-family:Daedric">makhel fahraj</span>
+<span style="font-family:HayghinDaedric">makhel fahraj</span>
 ```
 
 All one really needs to get started is this handy [GitHub template][29]! The documents within already contain this style element, one with the font embedded and the other with a reference to the loose `.ttf` font. They are ready for editing or viewing from a local markdown renderer, provided the font folder is kept with loose one.

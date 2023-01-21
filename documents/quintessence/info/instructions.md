@@ -24,7 +24,7 @@ td {
 <center>
 <a href="../../../index.html">Home</a>
 &emsp;&nabla;&emsp;
-<a href="../../archive/about.html">About</a>
+<a href="../../about/index.html">About</a>
 &emsp;&nabla;&emsp;
 <a href="../../archive/index.html">Archive</a>
 &emsp;&nabla;&emsp;
@@ -36,8 +36,6 @@ td {
 ---
 
 ## QUINTESSENCE
-
-__NOTE:__ Reddit has permanently suspended my account for posting this project. As such, I will no longer be able to answer questions related to it. I am very sorry.
 
 #### Note: Print Sizes
 

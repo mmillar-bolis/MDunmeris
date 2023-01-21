@@ -17,9 +17,9 @@
 <center>
 <a href="../../index.html">Home</a>
 &emsp;&nabla;&emsp;
-<a href="../about/index.html">About</a>
+<a href="about.html">About</a>
 &emsp;&nabla;&emsp;
-<a href="index.html">Archive</a>
+<a href="../archive/index.html">Archive</a>
 &emsp;&nabla;&emsp;
 <a href="../quintessence/index.html">Quintessence</a>
 </center>
@@ -28,16 +28,12 @@
 
 ---
 
-## The Archive
+## About
 
 ---
 
-#### Notes & Letters
+- [Website Design Manifesto][1]
 
-- [A Novena for the Hortator][1]
-- [The Old Pilgrim's Oath][2]
-
-[1]: misc/Novena_for_the_Hortator.md
-[2]: misc/Old_Pilgrims_Oath.md
+[1]: subpages/webpage_design.md
 
 ---
