@@ -48,8 +48,9 @@ __The Tale of Two Herders__
 <b>&#8309;</b>Better to have one steady beast than a hundred sickly ones."</span>
 
 <b>&#8310;</b>The short herder released an oafish chuckle and prepared to usher his beasts into the pens.
-<b>&#8311;</b>Just then, a great ash storm arrived and pummeled the market with howling winds and choking fumes. Eventually, the storm relented.
+<b>&#8311;</b>Just then, a great ash storm arrived and pummeled the market with howling winds and choking fumes.
 
+Eventually, the storm relented.
 <b>&#8312;</b>The tall herder and his great, strong guar were unharmed, but the short herder's guars were thrown this way and that, and not one of them had survived.
 
 <span style="display:inline-block;padding-left:4em"><b>&#8313;</b>"Do you see now, my friend?" the tall herdsman said. "Numbers are no substitute for quality."</span>

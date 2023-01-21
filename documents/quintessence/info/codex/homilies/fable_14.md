@@ -43,7 +43,7 @@ __The Child of the Councilor__
 
 <b>&sup3;</b>The little mer never expected the councilor to hear him, nor did he expect her to turn toward him in the crowd.
 
-<span style="display:inline-block;padding-left:4em"><b>&#8308;</b>The little mer never expected the councilor to hear him, nor did he expect her to turn toward him in the crowd.
+<span style="display:inline-block;padding-left:4em"><b>&#8308;</b>"I have heard your wish, little one, and I accept," she told the open-mouthed little mer.
 <b>&#8309;</b>"You will be my child, and you will have all that you wish."</span>
 
 <b>&#8310;</b>The little mer was immediately taken to the councilor's manor and placed in a room with toys and sweets.
@@ -62,13 +62,12 @@ __The Child of the Councilor__
 
 <b>&sup1;&sup3;</b>Eventually it was time for dinner, but the little mer's troubles were not over.
 
-<span style="display:inline-block;padding-left:4em">Eventually it was time for dinner, but the little mer's troubles were not over.
+<span style="display:inline-block;padding-left:4em">"In those clothes? In that state?" cried his servant, horrified.
 <b>&sup1;&#8308;</b>"You must be washed and clothed if you are to be presented as the child of the councilor!"</span>
 
 <b>&sup1;&#8309;</b>And so the little mer was scrubbed roughly and forced into very uncomfortable clothes.
-<b>&sup1;&#8310;</b>By this point the little mer was almost in tears. He missed his home, and his clothes, and his friends.
 
-But most of all he missed his mother, who he had never gone a day without.
+<b>&sup1;&#8310;</b>By this point the little mer was almost in tears. He missed his home, and his clothes, and his friends. But most of all he missed his mother, who he had never gone a day without.
 
 <b>&sup1;&#8311;</b>When the little mer was finally sent to the dining hall, he was met with a surprise. Seated at the dining table was his family, all laughing and smiling.
 <b>&sup1;&#8312;</b>He ran to his mother's arms and cried,
