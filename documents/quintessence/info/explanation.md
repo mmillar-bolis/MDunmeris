@@ -171,7 +171,7 @@ __Collection of the Ancestors__\
 &emsp;[The Anticipations][33]\
 &emsp;[The House of Troubles][34]\
 &emsp;[The Doors of the Spirit][35]\
-&emsp;[Blasphemous Revenants][37]\
+&emsp;[Blasphemous Revenants][36]\
 &emsp;[Spirit of Nirn][37]
 
 [25]: https://en.uesp.net/wiki/Morrowind:Sithis
@@ -189,7 +189,7 @@ __Collection of the Ancestors__\
 [37]: https://en.uesp.net/wiki/Morrowind:Spirit_of_Nirn,_God_of_Mortals
 
 __Collection of the Homilies__\
-&emsp;[Homilies of Blessed Almalexia][39]\
+&emsp;[Homilies of Blessed Almalexia][38]\
 &emsp;[Almalexia and the Mudcrab][39]\
 &emsp;[Blessed Almalexia's Fables for Morning][40]\
 &emsp;[Blessed Almalexia's Fables for Afternoon][41]\
