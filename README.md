@@ -19,7 +19,7 @@ Note: *GitHub's ReadMe view will not load custom fonts. Please use* [github.io][
 
 ## Quick Info:
 
-Want to skip the article and jump right in to creating and translating documents? Here's all you need:
+Want to jump right in to creating and translating your own manuscripts? Here's all you need:
 
 - [Markdown][3]
 - [Hayghin Daedric font][4] (based on [Ayembedt][5]\)
@@ -89,13 +89,12 @@ This will allow you to distribute a single, flat markdown file with fonts, simil
 Finally, you can render text in your Markdown body by wrapping it with a span tag that specifies the font by it's internal name (not filename):
 
 ```html
-<span style="font-family:Daedric">makhel fahraj</span>
+<span style="font-family:HayghinDaedric">makhel fahraj</span>
 ```
 
-All one really needs to get started is this handy [GitHub template][16]! The documents within already contain this style element, one with the font embedded and the other with a reference to the loose `.ttf` font. They are ready for editing or viewing from a local markdown renderer, provided the font folder is kept with loose one.
+All one really needs to get started is this handy [GitHub template][7]! The documents within already contain this style element, one with the font embedded and the other with a reference to the loose `.ttf` font. They are ready for editing or viewing from a local markdown renderer, provided the font folder is kept with loose one.
 
 [15]: https://en.wikipedia.org/wiki/Base64
-[16]: https://github.com/mmillar-bolis/MDunmeris/releases/tag/0.0.0.0
 
 ---
 
