@@ -99,6 +99,11 @@ pre, code {
   -webkit-border-radius: 2px;
 }
 
+sup {
+  font-size: smaller;
+  vertical-align: super;
+}
+
 #header_wrap {
     background: url(../images/jekyll/header-1920.png) no-repeat center top;
     -webkit-background-size: cover;
