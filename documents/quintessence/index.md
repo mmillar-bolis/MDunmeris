@@ -32,13 +32,13 @@
 
 #### The Heirographa of the Codex Sinramus of Blessed ALMSIVI
 
-|                &#8203; | __Print Your Own Hardcopy__                                |
-|-----------------------:|:-----------------------------------------------------------|
-|         __Cover Page__ | [us_trade_hardcover-codex_sinramus.pdf][1]<br />*or* [lulu_pocket-hardcover-codex_sinramus.pdf][2] |
-|  __Interior Document__ | [us_trade_interior-codex_sinramus.pdf][3]<br />*or* [lulu_pocket_interior-codex_sinramus.pdf][4] |
-|                &#8203; | &#8203;                                                    |
-| __Print Instructions__ | [How to print your own copy of the Quintessence][5]        |
-|     __Preview Images__ | [Cover and page photos of a printed copy][6]               |
+|                   &#8203; | __Order Your Own Copy from Lulu.com__                      |
+|--------------------------:|:-----------------------------------------------------------|
+| __Ordering Instructions__ | [How to print your own copy of the Quintessence][5]        |
+|        __Preview Images__ | [Cover and page photos of a printed copy][6]               |
+|                   &#8203; | &#8203;                                                    |
+|            __Cover Page__ | [us_trade_hardcover-codex_sinramus.pdf][1]<br />*or* [lulu_pocket-hardcover-codex_sinramus.pdf][2] |
+|     __Interior Document__ | [us_trade_interior-codex_sinramus.pdf][3]<br />*or* [lulu_pocket_interior-codex_sinramus.pdf][4] |
 
 [1]: pdf/us_trade_hardcover-codex_sinramus.pdf
 [2]: pdf/lulu_pocket-hardcover-codex_sinramus.pdf
@@ -47,7 +47,7 @@
 [5]: info/instructions.md
 [6]: info/results.md
 
-|                &#8203; | __Read From the Canon Online__                      |
+| <span style="font-family:HayghinDaedric;color:red">ASV</span> | __Read From the Canon Online__                      |
 |-----------------------:|:----------------------------------------------------|
 | __Canon of Scripture__ | [Foreword][7]                                       |
 |                 __1.__ | [The Collection of the Ancestors][8]                |
