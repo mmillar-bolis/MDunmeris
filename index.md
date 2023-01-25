@@ -38,7 +38,7 @@ This is a collection of writings related to *The Elder Scrolls III: Morrowind*, 
 [4]: https://www.xbox.com/en-us/games/store/The-Elder-Scrolls-III-Morrowind/BXVCFBJBNS17
 [5]: documents/about/index.md
 
-&emsp;
+&#8203;
 
 ---
 
@@ -47,13 +47,13 @@ This is a collection of writings related to *The Elder Scrolls III: Morrowind*, 
 | <img title="The Ghartok Trigon" alt="The Ghartok Trigon" src="assets/images/symbols/trigon_ghartok.svg" width="386" height="512"> |
 | __The Thrice-Sealed House withstands the Storm__ |
 
-&emsp;
+&#8203;
 
 ---
 
 #### Project Info:
 
-| <span style="font-family:HayghinDaedric;color:red">ASV</span> | Description                                |
+| <span style="font-family:HayghinDaedric;color:red">ASV</span> | Description   |
 |---------------------------------:|:-------------------------------------------|
 |      [__Project Repository__][6] | The GitHub repository that hosts this page |
 | [__The 36 Lessons of Vivec__][7] | A personal archive of *The 36 Lessons*     |
