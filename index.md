@@ -60,7 +60,7 @@ This is a collection of writings related to *The Elder Scrolls III: Morrowind*, 
 |    [__Hayghin Daedric Font__][8] | A Daedric font that is small and simple    |
 
 [6]: https://github.com/mmillar-bolis/MDunmeris
-[7]: https://github.com/mmillar-bolis/The-36-Lessons-of-Vivec
-[8]: https://github.com/mmillar-bolis/HayghinDaedricFont
+[7]: https://mmillar-bolis.github.io/The-36-Lessons-of-Vivec/
+[8]: https://mmillar-bolis.github.io/HayghinDaedricFont/
 
 ---
