@@ -159,9 +159,9 @@ observes the Tower without fear. Moreso: he resides within.
 
 <b>&sup2;&sup2;</b>Outside the wheel is the void, bereft of anything. It cannot be named. If it has more aspects than stasis and change, they are outside of true language.
 <b>&sup2;&sup3;</b>Inside of the Wheel is the Aurbis. As the process of subcreation continued, both Anu and Padomay awakened. For to see your antithesis is to finally awaken.
-<b>&sup2;&#8308;</b>Each gave birth to their souls, Auri-El and Sithis, and these souls regarded the Aurbis each in their own part, and from this came the et'Ada, the original patterns. These et'Ada eventually congealed.
+<b>&sup2;&#8308;</b>Each gave birth to their souls, Anui-El and Sithis, and these souls regarded the Aurbis each in their own part, and from this came the et'Ada, the original patterns. These et'Ada eventually congealed.
 
-<b>&sup2;&#8309;</b>Anu's firstborn, for he mostly desired order, was time, anon Akatosh. Padomay's firstborn went wandering from the start, changing as he went, and wanted no name but was branded with Lorkhan
+<b>&sup2;&#8309;</b>Anu's firstborn, for he mostly desired order, was time, anon Auri-El. Padomay's firstborn went wandering from the start, changing as he went, and wanted no name but was branded with Lorkhan
 <b>&sup2;&#8310;</b>As time allowed more and more patterns to individualize, Lorkhan watched the Aurbis shape itself and grew equally delighted and tired with each new shaping.
 <b>&sup2;&#8311;</b>As the gods and demons of the Aurbis erupted, the get of Padomay tried to leave it all behind for he wanted all of it and none of it all at once. It was then that he came to the border of the Aurbis.
 
@@ -340,7 +340,7 @@ Anu and Padomay came next and with their first brush came the Aurbis.
 
 <b>&sup1;&#8310;</b>The marriages of the Aether describe the birth of all magic. The Aurbis exploded with its surplus. Will formed and, with it, the Potential to Action.
 <b>&sup1;&#8311;</b>This is the advent of mantellian, mnemolia, the aetherial realm of the et'Ada.
-<b>&sup1;&#8312;</b>The Head of this order is Magnus, but he is not its Ward, for even he was subcreated by the birth of Akatosh.
+<b>&sup1;&#8312;</b>The Head of this order is Magnus, but he is not its Ward, for even he was subcreated by the birth of Auri-El.
 
 <b>&sup1;&#8313;</b>Aurbis to Aetherius: possibility to maintenance by time.
 

@@ -61,7 +61,7 @@ Anu and Padomay came next and with their first brush came the Aurbis.
 
 <b>&sup1;&#8310;</b>The marriages of the Aether describe the birth of all magic. The Aurbis exploded with its surplus. Will formed and, with it, the Potential to Action.
 <b>&sup1;&#8311;</b>This is the advent of mantellian, mnemolia, the aetherial realm of the et'Ada.
-<b>&sup1;&#8312;</b>The Head of this order is Magnus, but he is not its Ward, for even he was subcreated by the birth of Akatosh.
+<b>&sup1;&#8312;</b>The Head of this order is Magnus, but he is not its Ward, for even he was subcreated by the birth of Auri-El.
 
 <b>&sup1;&#8313;</b>Aurbis to Aetherius: possibility to maintenance by time.
 
