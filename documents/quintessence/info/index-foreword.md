@@ -209,7 +209,7 @@ To walk is to love, young pilgrims.
 
 <span style="display:inline-block;padding-left:4em">'Know Love to avoid the Landfall, my brothers and sisters.'</span>
 
-Love is the harmony of self-interest and selflessness, when expressed or received unmindingly, that is, under will. We have been sundered, broken out of divinity and into the world, where mortal limits are a distraction from the freedom to truly act.
+Love is the harmony of self-interest and selflessness, when expressed or encountered unmindingly, that is, under will. We have been sundered, broken out of divinity and into the world, where mortal limits are a distraction from the freedom to truly act.
 
 But, when one can sustain the balance of love without conscious effort, they become ever present in the moment, unbound by time, unminding of past decisions or future questions. Because they are not distracted by mortal anguish, their integrity remains whole and they are free to act as is true to their nature, their divine character.
 
